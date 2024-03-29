@@ -46,7 +46,7 @@ Bussiness Assumptions
 * Los usuarios urbanos activos buscarán activamente soluciones tecnológicas innovadoras para abordar sus necesidades de movilidad, incluida la protección de vehículos y la optimización del estacionamiento en entornos urbanos congestionados.
 * Los usuarios estarán dispuestos a compartir cierta cantidad de datos personales y de ubicación con la aplicación si perciben un beneficio claro en términos de seguridad y conveniencia en la protección de sus vehículos y la búsqueda de estacionamiento.
 * Los usuarios estarán dispuestos a descargar y probar la aplicación si encuentran su interfaz intuitiva y fácil de usar, y si la experiencia de usuario es satisfactoria desde el primer uso.
-* Los usuarios urbanos que han experimentado situaciones de robo de vehículos o dificultades para encontrar estacionamiento valorarán especialmente las características de seguridad y búsqueda de estacionamiento de la aplicación.
+* Los usuarios urbanos que han experimentado situaciones de robo de vehículos o dificultades para encontrar estacionamiento valorarán especialmente las características de seguridad y búsqueda de estacionamiento en la aplicación.
 - #### 1.2.2.3. Lean UX Hypothesis Statements
     * ""
     * ""
