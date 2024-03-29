@@ -1,7 +1,7 @@
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-
+Nosotros, un grupo de estudiantes comprometidos con hacer una diferencia en nuestra sociedad, nos enfrentamos a uno de los desafíos más apremiantes: la creciente delincuencia, especialmente el robo de automóviles. Esta problemática afecta a innumerables personas, generando preocupación y estrés en la vida cotidiana. En respuesta, presentamos con orgullo nuestra solución: una aplicación impulsada por inteligencia artificial diseñada para proporcionar seguridad y protección a la comunidad. Nuestra aplicación se enfoca directamente en combatir el robo de autos mediante la implementación de un sistema de vigilancia altamente eficiente y reactivo. Con esto, buscamos restaurar la tranquilidad en dejar un vehículo estacionado en cualquier lugar.
 ### 1.1.2. Perfiles de integrantes del equipo
 
 |                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -29,22 +29,24 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 | How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | |
 ### 1.2.2 Lean UX Process
 - #### 1.2.2.1. Lean UX Problem Statements
+El aumento alarmante de los índices de robo de vehículos y el problema del estacionamiento indebido en Perú, según datos del Instituto Nacional de Estadística e Informática (INEI), ha generado una situación crítica en términos de seguridad ciudadana. Este aumento en la actividad delictiva no solo afecta la propiedad de los ciudadanos, sino también la seguridad pública y la movilidad urbana, creando un ambiente de desconfianza y temor en la población. Además, el estacionamiento indebido obstaculiza las vías, dificulta la circulación vehicular y peatonal, y provoca congestión y caos en áreas urbanas clave.
+<br><br>Ante esta problemática, es vital implementar soluciones efectivas para restaurar la seguridad ciudadana y mejorar la movilidad urbana. Una propuesta innovadora es el desarrollo de una aplicación móvil basada en inteligencia artificial que se conecte a los vehículos y aborde tanto el robo de autos como el problema del estacionamiento indebido. Esta aplicación aprovecharía las capacidades de IA para detectar comportamientos sospechosos y proporcionar orientación sobre estacionamientos disponibles, colaborando con las autoridades y los ciudadanos para crear un entorno más seguro y fluido.
 - #### 1.2.2.2. Lean UX Assumptions
 Bussiness Assumptions
-* **Pienso que mis clientes necesitan** 
-* **Estas demandas pueden ser satisfechas mediante** 
-* **Los primeros clientes serán** 
-* **La principal necesidad que los clientes tienen de mi servicio es** 
-* **Obtendré la mayor parte de mis clientes mediante** 
+* **Pienso que mis clientes necesitan** una solución integral y fácil de usar para proteger sus vehículos del robo y encontrar estacionamientos seguros de manera rápida y conveniente.
+* **Estas demandas pueden ser satisfechas mediante**  el desarrollo de una aplicación  basada en inteligencia artificial que utilice algoritmos avanzados para detectar actividades sospechosas y ofrecer información en tiempo real sobre la disponibilidad de estacionamientos seguros.
+* **Los primeros clientes serán** propietarios jóvenes de vehículos urbanos y taxitas preocupados por la seguridad de sus automóviles.
+* **La principal necesidad que los clientes tienen de mi servicio es** sentirse seguros al dejar sus vehículos estacionados y poder encontrar rápidamente un lugar para estacionar en entornos urbanos caóticos.
+* **Obtendré la mayor parte de mis clientes mediante** campañas de marketing digital dirigidas a comunidades urbanas y asociaciones de vecinos preocupadas por la seguridad y la movilidad en la ciudad.  
 * **Generaré ingresos mediante** 
-* **El principal problema que puede afectar a mi producto es** 
-* **Abordaremos esta situación mediante**  <br><br>
+* **El principal problema que puede afectar a mi producto es** la desconfianza inicial de los usuarios hacia la efectividad y la privacidad de la tecnología de inteligencia artificial utilizada en la aplicación.
+* **Abordaremos esta situación mediante** una sólida estrategia de comunicación que destaque los beneficios de seguridad y conveniencia de nuestra aplicación, así como mediante la implementación de medidas estrictas de protección de datos para garantizar la privacidad de los usuarios.  <br><br>
   User Assumptions
-* 
-* 
-* 
-* 
-* 
+* Los usuarios confiarán en la capacidad de la aplicación para proteger sus vehículos y encontrar estacionamientos seguros, basándose en la reputación de la marca y las recomendaciones positivas de otros usuarios.
+* Los usuarios urbanos activos buscarán activamente soluciones tecnológicas innovadoras para abordar sus necesidades de movilidad, incluida la protección de vehículos y la optimización del estacionamiento en entornos urbanos congestionados.
+* Los usuarios estarán dispuestos a compartir cierta cantidad de datos personales y de ubicación con la aplicación si perciben un beneficio claro en términos de seguridad y conveniencia en la protección de sus vehículos y la búsqueda de estacionamiento.
+* Los usuarios estarán dispuestos a descargar y probar la aplicación si encuentran su interfaz intuitiva y fácil de usar, y si la experiencia de usuario es satisfactoria desde el primer uso.
+* Los usuarios urbanos que han experimentado situaciones de robo de vehículos o dificultades para encontrar estacionamiento valorarán especialmente las características de seguridad y búsqueda de estacionamiento de la aplicación.
 - #### 1.2.2.3. Lean UX Hypothesis Statements
     * ""
     * ""
