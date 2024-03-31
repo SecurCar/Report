@@ -15,18 +15,20 @@ Nosotros, un grupo de estudiantes comprometidos con hacer una diferencia en nues
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+#### Antecedentes
+El 80% de los peruanos se siente inseguro o muy inseguro ya sea por asaltos, robos, asesinatos; y entre los más afectados son los jóvenes entre 18 y 24 años. Según los datos recopilados por el Instituto Nacional de Estadística e Informática (INEI), el robo de vehículos se ha convertido en la principal amenaza de los jóvenes mencionados de dicha edad. A lo largo del segundo trimestre del 2021, exsistieron más de 5300 casos de robos de vehículos en el Perú. Se observa que esta cifra representa un incremente de más del 250% respecto al año anterior en el mismo periodo. Es de esperar que los robos más frecuentes son a los autos estacionados ya que según datos de INEI se muestra hubo más de 1154 denuncias contra robos de autos estacionados en el 2021 y se estima que esta cantidad aumente hasta un 120% cada año respecto al 2021. Estas cifras evidencian la falta de seguridad en el país como también la falta de herramientas disponibles para poder recuperar o tener seguimiento de los vehículos.
 #### Uso de la técnica  The 5'W's w Y 2'H's
 Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
 
 | LAS 5W y 2H | Pregunta | Descripción |
 |-------------|----------|-------------|
-| Who?        |¿Quién es afectado?| |
-| What?       | ¿Cuál es el problema? | |
-| When?       | ¿Cuándo sucede el problema? | |
-| Where?      | ¿Dónde surge el problema? | | 
-| Why?        | ¿Cuál es la causa del problema? |  |
-| How?        | ¿Qué llevó a la persona a esta situación? |  |
-| How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | |
+| Who?        |¿Quién es afectado?| Los afectados son los jóvenes de entre 18 a 24 años de edad, y personas quienes dependan de un vehículo como ingreso directo: taxistas, chofere, deliveries. |
+| What?       | ¿Cuál es el problema? | El problema es la falta de seguridad que afronta el país respecto a los vehículos, además de la falta de herramientas para poder solucionar o, en su defecto, mitigar este tipo de problemas. |
+| When?       | ¿Cuándo sucede el problema? | El problema sucede principalmente cuando los vehículos son estacionados: usualmente en un periodo corto de tiempo, como también los asaltos a mano armada.|
+| Where?      | ¿Dónde surge el problema? | El problema surge en todo el país, aunque la foco de asaltos y robos es en la capital siendo la zona más poblada y urbana del Perú. | 
+| Why?        | ¿Cuál es la causa del problema? | Una de las causas principales es la falta de herramientas para poder salvaguardar los vehículos, tener seguimientos de estos o poder hacer algo en general. |
+| How?        | ¿Qué llevó a la persona a esta situación? | Para que un robo se genere, usualmente sucede por el público objetivo de los fascinerosos quienes son los jóvenes principalmente. |
+| How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | En zonas urbanas, no en el Perú únicamente, los robos son de intensidad alta y la duración suele ser en minutos (1 o 2 aproximadamente). |
 ### 1.2.2 Lean UX Process
 - #### 1.2.2.1. Lean UX Problem Statements
 El aumento alarmante de los índices de robo de vehículos y el problema del estacionamiento indebido en Perú, según datos del Instituto Nacional de Estadística e Informática (INEI), ha generado una situación crítica en términos de seguridad ciudadana. Este aumento en la actividad delictiva no solo afecta la propiedad de los ciudadanos, sino también la seguridad pública y la movilidad urbana, creando un ambiente de desconfianza y temor en la población. Además, el estacionamiento indebido obstaculiza las vías, dificulta la circulación vehicular y peatonal, y provoca congestión y caos en áreas urbanas clave.
