@@ -50,6 +50,79 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
+<table>
+    <tbody>
+<tr>
+    <td rowspan="2">Task/Segmento Objetivo</td>
+    <td colspan="2">User Persona #1 <br> (Taxistas Adultos)</td>
+    <td colspan="2">User Persona #2 <br> (Conductores Jóvenes)</td>
+</tr>
+<tr>
+    <td >Frecuencia</td>
+    <td >Importancia De Tarea</td>
+    <td >Frecuencia</td>
+    <td >Importancia De Tarea</td>
+</tr>
+<tr>
+    <td >Encontrar estacionamiento seguro</td>
+    <td >Cuando el usuario lo requiera </td>
+    <td > Medio</td>
+    <td >Cuando el usuario lo requiera</td>
+    <td >Medio</td>
+</tr>
+<tr>
+    <td >Proteger el vehículo contra robos</td>
+    <td >Siempre</td>
+    <td > Alta</td>
+    <td >Siempre</td>
+    <td >Alta</td>
+</tr>
+<tr>
+    <td >Utilizar la herramienta para recibir alertas de seguridad en tiempo real</td>
+    <td >Siempre</td>
+    <td >Alta </td>
+    <td >Siempre</td>
+    <td >Alta</td>
+</tr>
+<tr>
+    <td >Aprender a usar la herramienta de seguridad de manera efectiva</td>
+    <td >Una sola vez</td>
+    <td > Media</td>
+    <td >Una sola vez</td>
+    <td >Media</td>
+</tr>
+<tr>
+    <td >Compartir información sobre incidentes de seguridad con otros usuarios</td>
+    <td >Cuando el usuario lo requiera</td>
+    <td >Media </td>
+    <td >Cuando el usuario lo requiera</td>
+    <td >Media</td>
+</tr>
+<tr>
+    <td >Reportar problemas de seguridad a las autoridades pertinentes</td>
+    <td >Cuando el usuario lo requiera</td>
+    <td >Alta</td>
+    <td >Cuando el usuario lo requiera</td>
+    <td >Alta</td>
+</tr>
+<tr>
+    <td >Leer noticias relacionadas con la seguridad vial y prevención de robos</td>
+    <td >Periodica</td>
+    <td >Baja</td>
+    <td >Periodica</td>
+    <td >Baja</td>
+</tr>
+<tr>
+    <td >Participar en programas de capacitación sobre seguridad vial</td>
+    <td >Cuando el usuario desee unirse</td>
+    <td >Baja</td>
+    <td >Cuando el usuario desee unirse</td>
+    <td >Baja</td>
+</tr>
+    </tbody>
+
+</table>
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
