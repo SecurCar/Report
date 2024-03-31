@@ -16,8 +16,8 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 3. Uso actual de la tecnología
 * ¿Utilizan actualmente algún dispositivo de seguridad en sus vehículos?
 * ¿Cómo gestionan la seguridad de su vehículo mientras trabajan?
-4. Percepción sobre la aplicación móvil propuesta
-* ¿Qué características les gustaría ver en una aplicación móvil de seguridad vehicular?
+4. Percepción sobre la aplicación propuesta
+* ¿Qué características les gustaría ver en una aplicación de seguridad vehicular?
 * ¿Cómo creen que una aplicación móvil podría mejorar su seguridad y la de su vehículo?
 5. Feedback sobre el modelo de suscripción
 * ¿Estarían dispuestos a pagar por un servicio de seguridad vehicular basado en suscripción mensual?
@@ -36,8 +36,8 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 3. Uso de aplicaciones móviles y tecnología
 * ¿Qué aplicaciones móviles utilizan con frecuencia y para qué propósitos?
 * ¿Cómo creen que una aplicación móvil podría contribuir a su seguridad al conducir?
-4. Percepción sobre la propuesta de la aplicación móvil
-* ¿Qué características considerarían más útiles en una aplicación móvil de seguridad vehicular dirigida a jóvenes?
+4. Percepción sobre la propuesta de la aplicación
+* ¿Qué características considerarían más útiles en una aplicación de seguridad vehicular dirigida a jóvenes?
 * ¿Qué aspectos de diseño o funcionalidad serían más atractivos para ustedes en una aplicación móvil de este tipo?
 5. Opinión sobre el modelo de suscripción
 * ¿Estarían dispuestos a pagar por un servicio de seguridad vehicular basado en suscripción mensual?
