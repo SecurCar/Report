@@ -1,10 +1,10 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-![UPC](assets/img/UPC_logo_transparente.png)
+![UPC](assets/UPC_logo_transparente.png)
 # DESARROLLO DE APLIACIONES OPEN SOURCE (SV55)
 ## PROFESOR: Alberto Wilmer Sanchez Seña
 ## "INFORME DE TRABAJO FINAL DESARROLLO DE APLIACIONES OPEN SOURCE"
 ## STARTUP: SecurCar
-## NOMBRE DEL PRODUCTO:SecurCar
+## NOMBRE DEL PRODUCTO: SecurCar
 - - -
 ### INTEGRANTES
 - Joan Jefferson Talizo Balbin          (U202223781)
