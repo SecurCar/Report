@@ -1,6 +1,30 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
-## 2.1. Competidores.
-### 2.1.1. Análisis competitivo.
+## Análisis Competitivo
+
+1.  **Competidores Directos:**
+    *   **Zendrive:** Ofrece soluciones de seguridad vial enfocadas en el comportamiento del conductor, con análisis de datos en tiempo real.
+    *   **Life360:** Proporciona servicios de seguimiento y seguridad vehicular, incluyendo alertas de accidentes y ubicación en tiempo real.
+    *   **Hum by Verizon:** Combina monitoreo del vehículo y asistencia en carretera con una app móvil para conductores jóvenes.
+2.  **Competidores Indirectos:**
+    *   **Allstate Drivewise:** Ofrece seguros de auto que premian conductas seguras, incentivando el uso de tecnología para mejorar la conducción.
+    *   **LoJack:** Especializado en sistemas de rastreo de vehículos, con opciones de integración con apps móviles para mayor seguridad.
+## Estrategias y Tácticas
+1.  **Diferenciación del Producto:**
+    *   Integra características de gamificación para incentivar hábitos de conducción seguros y premiar a los usuarios jóvenes.
+    *   Ofrece opciones de personalización como alertas específicas para padres o tutores sobre la conducción de sus hijos.
+2.  **Marketing Dirigido:**
+    *   Utiliza campañas en redes sociales que resalten la importancia de la seguridad vial para los jóvenes y cómo tu dispositivo y app pueden ayudar.
+    *   Colabora con influencers jóvenes que puedan conectar con la audiencia objetivo.
+3.  **Precios Competitivos:**
+    *   Ofrece paquetes o descuentos especiales para estudiantes universitarios o jóvenes trabajadores, haciendo que tu producto sea más accesible.
+    *   Implementa modelos de suscripción flexibles que se adapten a las necesidades financieras de los jóvenes conductores.
+4.  **Facilidad de Uso:**
+    *   Diseña una interfaz de usuario intuitiva y atractiva, con tutoriales o guías que faciliten la comprensión y uso de tu dispositivo y app.
+    *   Asegúrate de que la instalación y configuración sean sencillas para los usuarios menos técnicos.
+5.  **Feedback y Mejora Continua:**
+    *   Incorpora una sección de retroalimentación dentro de la app para que los usuarios compartan sus experiencias y sugerencias de mejora.
+    *   Mantén actualizado el producto con actualizaciones periódicas que agreguen nuevas funciones basadas en las necesidades de los jóvenes conductores.
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
