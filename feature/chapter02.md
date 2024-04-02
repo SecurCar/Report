@@ -1,6 +1,5 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
-## Análisis Competitivo
-
+## 2.1 Competidores
 1.  **Competidores Directos:**
     *   **Zendrive:** Ofrece soluciones de seguridad vial enfocadas en el comportamiento del conductor, con análisis de datos en tiempo real.
     *   **Life360:** Proporciona servicios de seguimiento y seguridad vehicular, incluyendo alertas de accidentes y ubicación en tiempo real.
@@ -8,7 +7,9 @@
 2.  **Competidores Indirectos:**
     *   **Allstate Drivewise:** Ofrece seguros de auto que premian conductas seguras, incentivando el uso de tecnología para mejorar la conducción.
     *   **LoJack:** Especializado en sistemas de rastreo de vehículos, con opciones de integración con apps móviles para mayor seguridad.
-## Estrategias y Tácticas
+## 2.1.1 Análisis Competitivo
+
+### 2.1.2. Estrategias y tácticas frente a competidores.
 1.  **Diferenciación del Producto:**
     *   Integra características de gamificación para incentivar hábitos de conducción seguros y premiar a los usuarios jóvenes.
     *   Ofrece opciones de personalización como alertas específicas para padres o tutores sobre la conducción de sus hijos.
@@ -25,7 +26,6 @@
     *   Incorpora una sección de retroalimentación dentro de la app para que los usuarios compartan sus experiencias y sugerencias de mejora.
     *   Mantén actualizado el producto con actualizaciones periódicas que agreguen nuevas funciones basadas en las necesidades de los jóvenes conductores.
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
 ### 2.2.1. Diseño de entrevistas.
