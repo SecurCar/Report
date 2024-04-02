@@ -70,6 +70,17 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 * Preguntas finales y agradecimiento por su tiempo.
 * Invitación a proporcionar cualquier información adicional que consideren relevante.
 ### 2.2.2. Registro de entrevistas.
+- **Taxistas Experimentados:**
+
+- **Conductores Jóvenes:**<br>
+**Entrevista #1** <br>
+Nombre y apellidos: Renzo Enciso <br>
+Edad: 20 años <br>
+Distrito: Chorrillos<br>
+![Entrevista_Seg02_RenzoEnciso](/assets/Registro_Entrevista_Seg02_RenzoEnciso.png) <br>
+Inicio De Entrevista: 0:20 <br>
+[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EXLXrFkgAdxKrW3XY3y6EfoBk7vH6voQFgdeXxhfn7gkwA?e=ygN2SL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Resumen De Entrevista: Según las respuestas proporcionadas, el entrevistado expresa preocupaciones clave en relación a la seguridad al conducir, destacando el temor al robo del vehículo y la seguridad personal durante los viajes. Su uso frecuente de aplicaciones móviles incluye herramientas de navegación y redes sociales para mantenerse conectado mientras está en movimiento. Considera que una aplicación móvil podría mejorar significativamente su seguridad al proporcionar alertas en tiempo real sobre áreas de alto riesgo y funciones de rastreo de vehículos. Valora especialmente características como alertas de robo, asistencia en caso de emergencia y consejos sobre seguridad vial, buscando una interfaz intuitiva y atractiva. Estaría dispuesto a pagar por un servicio de seguridad vehicular si ofrece beneficios como prevención de robos eficaz y asistencia en emergencias, destacando la importancia de una comunidad activa de usuarios y un equipo de soporte receptivo.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
