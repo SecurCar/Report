@@ -1,10 +1,10 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1 Competidores
-![Zendrive](assets/Zendrive_Logo.jpg)
+![Zendrive](assets/Zendrive_Logo.jpg) <br>
 ***Zendrive:*** Zendrive es una aplicación que utiliza tecnología de inteligencia artificial para monitorear el comportamiento de conducción y proporcionar retroalimentación sobre la seguridad del conductor. Utiliza sensores de teléfonos inteligentes para recopilar datos sobre la aceleración, frenado, giros y otras métricas de conducción para evaluar el riesgo y la seguridad. <br>
-![Life360](assets/Life360_Logo.png)
+![Life360](assets/Life360_Logo.png)<br>
 ***Life360:*** Life360 es una aplicación de seguimiento de ubicación diseñada para ayudar a las familias a mantenerse conectadas y seguras. Permite a los usuarios compartir su ubicación en tiempo real con miembros de la familia y amigos, así como recibir notificaciones sobre la llegada y salida de lugares específicos, como el hogar, la escuela o el trabajo.
-![Life360](assets/Hum_Logo.jpg)
+![Life360](assets/Hum_Logo.jpg)<br>
 ***Hum by Verizon:*** Hum by Verizon es un dispositivo conectado para automóviles que ofrece una variedad de características relacionadas con la seguridad, el diagnóstico del vehículo y la asistencia en carretera. Permite a los conductores monitorear la salud de su vehículo, recibir alertas de mantenimiento y acceder a servicios de asistencia en carretera con solo presionar un botón.
 ## 2.1.1 Análisis Competitivo
 
