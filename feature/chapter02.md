@@ -81,6 +81,14 @@ Distrito: Chorrillos<br>
 Inicio De Entrevista: 0:20 <br>
 [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EXLXrFkgAdxKrW3XY3y6EfoBk7vH6voQFgdeXxhfn7gkwA?e=ygN2SL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
 Resumen De Entrevista: Según las respuestas proporcionadas, el entrevistado expresa preocupaciones clave en relación a la seguridad al conducir, destacando el temor al robo del vehículo y la seguridad personal durante los viajes. Su uso frecuente de aplicaciones móviles incluye herramientas de navegación y redes sociales para mantenerse conectado mientras está en movimiento. Considera que una aplicación móvil podría mejorar significativamente su seguridad al proporcionar alertas en tiempo real sobre áreas de alto riesgo y funciones de rastreo de vehículos. Valora especialmente características como alertas de robo, asistencia en caso de emergencia y consejos sobre seguridad vial, buscando una interfaz intuitiva y atractiva. Estaría dispuesto a pagar por un servicio de seguridad vehicular si ofrece beneficios como prevención de robos eficaz y asistencia en emergencias, destacando la importancia de una comunidad activa de usuarios y un equipo de soporte receptivo.
+**Entrevista #2** <br>
+Nombre y apellidos: Daniela Chavez <br>
+Edad: 21 años <br>
+Distrito: Magdalena del mar <br>
+![Entrevista_Seg02_DanielaChavez](assets/Registro_Entrevita_Seg02_DanielaChavez.png)<br>
+Inicio de Entrevista: XX:XX <br>
+[URL_De_Entrevista](https://Google.com)<br>
+Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, expresa sus anhelos a la aplicación, mencionando que le gustaria que existiesen funciones para saber donde se encuentra su carro, debido a que a veces lo pierde de vista. Ademas menciona que si le gustaria que de consejos sobre que hacer en ciertas situaciones. También le gustaría que recomiende mejores, rutas, que te ayude a llevar los papeles del carro, cuando se vencerán y que te advierta sobre estos. Ella estaría dispuesto a pagar por un precio accesible y con beneficios a largo plazo, le gustaría que tenga descuentos por si eres estudiante o si tiene convenios con otras empresas.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
