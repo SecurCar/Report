@@ -84,7 +84,7 @@ Resumen De Entrevista: Según las respuestas proporcionadas, el entrevistado exp
 Nombre y apellidos: Daniela Chavez <br>
 Edad: 21 años <br>
 Distrito: Magdalena del mar <br>
-![Entrevista_Seg02_DanielaChavez](assets/Registro_Entrevita_Seg02_DanielaChavez.png)<br>
+![Entrevista_Seg02_DanielaChavez](assets/Registro_Entrevista_Seg02_DanielaChavez.png)<br>
 Inicio de Entrevista: XX:XX <br>
 [URL_De_Entrevista](https://Google.com)<br>
 Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, expresa sus anhelos a la aplicación, mencionando que le gustaria que existiesen funciones para saber donde se encuentra su carro, debido a que a veces lo pierde de vista. Ademas menciona que si le gustaria que de consejos sobre que hacer en ciertas situaciones. También le gustaría que recomiende mejores, rutas, que te ayude a llevar los papeles del carro, cuando se vencerán y que te advierta sobre estos. Ella estaría dispuesto a pagar por un precio accesible y con beneficios a largo plazo, le gustaría que tenga descuentos por si eres estudiante o si tiene convenios con otras empresas.
