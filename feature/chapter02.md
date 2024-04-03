@@ -271,6 +271,14 @@ Distrito: Magdalena del mar <br>
 Inicio de Entrevista: XX:XX <br>
 [URL_De_Entrevista](https://Google.com)<br>
 Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, expresa sus anhelos a la aplicación, mencionando que le gustaria que existiesen funciones para saber donde se encuentra su carro, debido a que a veces lo pierde de vista. Ademas menciona que si le gustaria que de consejos sobre que hacer en ciertas situaciones. También le gustaría que recomiende mejores, rutas, que te ayude a llevar los papeles del carro, cuando se vencerán y que te advierta sobre estos. Ella estaría dispuesto a pagar por un precio accesible y con beneficios a largo plazo, le gustaría que tenga descuentos por si eres estudiante o si tiene convenios con otras empresas.
+  **Entrevista #3** <br>
+  Nombre y apellidos: Alonso Carrillo <br>
+  Edad: 23 años <br>
+  Distrito: Santiago de Surco <br>
+  ![Entrevista_Seg03_AlonsoCarrillo](assets/Registro_Entrevista_Seg02_AlonsoCarrillo.png)<br>
+  Inicio de Entrevista: 00:15 <br>
+  [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218996_upc_edu_pe/EQRXQZpSP15LmIG-bDE3meUBJDE9VXsy-g-VOnqd8tqqfQ?e=JIhHb6)<br>
+  Resumen de entrevista: Segun las respuestas proporcionadas por el entrevistado, sufrio un robo a mano armada y desde ese evento siempre tiene un miedo constante. Considera que una aplicación podría mejorar su seguridad al proporcionar alertas en tiempo real sobre áreas de alto riesgo y ofrecerle la posibilidad de contactar a la policia.  Estaría dispuesto a pagar por un servicio de seguridad vehicular de manera mensual si cumple sus expectativas. 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
