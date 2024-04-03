@@ -7,6 +7,189 @@
 ![Life360](assets/Hum_Logo.jpg)<br>
 ***Hum by Verizon:*** Hum by Verizon es un dispositivo conectado para automóviles que ofrece una variedad de características relacionadas con la seguridad, el diagnóstico del vehículo y la asistencia en carretera. Permite a los conductores monitorear la salud de su vehículo, recibir alertas de mantenimiento y acceder a servicios de asistencia en carretera con solo presionar un botón.
 ## 2.1.1 Análisis Competitivo
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Competitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>SecurCar</td>
+			<td>Zendrive</td>
+			<td>Life360</td>
+			<td>Hum by Verizon</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Overview</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+			<td></td>
+			<td> </td>
+			<td></td>
+			<td>  </td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td></td>
+			<td></td>
+			<td> </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos &amp; Servicios</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Precios &amp; Costos</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Canales de distribución (Web y/o Móvil)</td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+		</tr>
+	</tbody>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 1.  **Diferenciación del Producto:**
