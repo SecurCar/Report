@@ -1,12 +1,11 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1 Competidores
-1.  **Competidores Directos:**
-    *   **Zendrive:** Ofrece soluciones de seguridad vial enfocadas en el comportamiento del conductor, con análisis de datos en tiempo real.
-    *   **Life360:** Proporciona servicios de seguimiento y seguridad vehicular, incluyendo alertas de accidentes y ubicación en tiempo real.
-    *   **Hum by Verizon:** Combina monitoreo del vehículo y asistencia en carretera con una app móvil para conductores jóvenes.
-2.  **Competidores Indirectos:**
-    *   **Allstate Drivewise:** Ofrece seguros de auto que premian conductas seguras, incentivando el uso de tecnología para mejorar la conducción.
-    *   **LoJack:** Especializado en sistemas de rastreo de vehículos, con opciones de integración con apps móviles para mayor seguridad.
+![Zendrive](assets/Zendrive_Logo.jpg)
+***Zendrive:*** Zendrive es una aplicación que utiliza tecnología de inteligencia artificial para monitorear el comportamiento de conducción y proporcionar retroalimentación sobre la seguridad del conductor. Utiliza sensores de teléfonos inteligentes para recopilar datos sobre la aceleración, frenado, giros y otras métricas de conducción para evaluar el riesgo y la seguridad. <br>
+![Life360](assets/Life360_Logo.png)
+***Life360:*** Life360 es una aplicación de seguimiento de ubicación diseñada para ayudar a las familias a mantenerse conectadas y seguras. Permite a los usuarios compartir su ubicación en tiempo real con miembros de la familia y amigos, así como recibir notificaciones sobre la llegada y salida de lugares específicos, como el hogar, la escuela o el trabajo.
+![Life360](assets/Hum_Logo.jpg)
+***Hum by Verizon:*** Hum by Verizon es un dispositivo conectado para automóviles que ofrece una variedad de características relacionadas con la seguridad, el diagnóstico del vehículo y la asistencia en carretera. Permite a los conductores monitorear la salud de su vehículo, recibir alertas de mantenimiento y acceder a servicios de asistencia en carretera con solo presionar un botón.
 ## 2.1.1 Análisis Competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
