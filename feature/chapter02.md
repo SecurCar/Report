@@ -21,7 +21,7 @@
 			<td>SecurCar</td>
 			<td>Zendrive</td>
 			<td>Life360</td>
-			<td>Hum by Verizon</td>
+			<td>Hum  by Verizon</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Perfil</td>
