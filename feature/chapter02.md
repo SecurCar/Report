@@ -268,7 +268,7 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
   Nombre y apellidos: Maykol Valencia <br>
   Edad: 22 años <br>
   Distrito: Selva Alegre <br>
-  ![](assets/Registro_Entrevista_Seg01_JoanTalizo.png)<br>
+  ![Entrevista_Seg01_MaykolValencia](assets/Registro_Entrevista_Seg01_JoanTalizo.png)<br>
   Inicio de Entrevista: 00:04 <br>
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EUV5f-V_SC5BvaW9gF_7toABLXQgL3_CVoUe2_fkI47mhw?e=LaFeLB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
   Resumen de entrevista: Según las respuestas proporcionadas, el entrevistado, ha sufrido un intento de robo al momento de dejar estacionado su vehiculo donde intentaron abrir el carro, pero no lo lograron. Asimismo, menciona que este suceso le ha sucedido como 3 veces a más. Considera que una aplicación seria lo ideal para sentirse más seguro al proporcionar alertas en tiempo real sin demora, donde se conecte con el celular y sobretodo que tenga una conexión rápida. Asimismo, estaría dispuesto a pagar por un servicio de seguridad vehicular de manera mensual donde cumpla sus expectativas.
@@ -377,6 +377,14 @@ Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, 
 </table>
 
 ### 2.3.3. User Journey Mapping
+
 ### 2.3.4. Empathy Mapping.
+Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.
+
+- Empathy Mapping Primer Segmento Objetivo: Taxistas Adultos
+
+
+- Empathy Mapping Segundo Segmento Objetivo: Conductores Jóvenes
+  ![UserPersona_Segmento2](assets/EmpathyMapping_Seg01.png)
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language
