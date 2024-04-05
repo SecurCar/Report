@@ -282,7 +282,7 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
   ![URL de entrevista](assets/Registro_Entrevista_Seg01_CarlosQuispe.png)<br>
   Inicio de Entrevista: 00:00 <br>
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EWhw7iU6F5dHuj2UrAidiU8Bb176cl9AA4xHkbUmgPbA9w?e=jclvcf)<br>
-  Resumen de entrevista: El señor Carlos nos cuenta sus preocupaciones respecto a su unidad de trabajo, y además nos cuenta que ya usa un sistema de vigilancia (en parte funcional) que es el GPS pero desearía que sea más eficiente. Nos cuenta que también no le gustaría que nuestro sistema sea cómodo para el bolsillo. Si cumple con funcionalidades que son específicas para este segmento entonces estaría dispuesto a usarlo.
+  Resumen de entrevista: El señor Carlos nos cuenta sus preocupaciones respecto a su unidad de trabajo, y además nos cuenta que ya usa un sistema de vigilancia (en parte funcional) que es el GPS pero desearía que sea más eficiente. Nos cuenta que también  le gustaría que nuestro sistema sea cómodo para el bolsillo. Si cumple con funcionalidades que son específicas para este segmento entonces estaría dispuesto a usarlo.
 
 
 - **Conductores Jóvenes:**<br>
