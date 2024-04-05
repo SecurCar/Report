@@ -26,10 +26,10 @@
 		<tr>
 			<td rowspan="2">Perfil</td>
 			<td>Overview</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>a</td>
+			<td>b</td>
+			<td>c</td>
+			<td>d</td>
 		</tr>
 		<tr>
 			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
