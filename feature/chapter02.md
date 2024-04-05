@@ -26,17 +26,17 @@
 		<tr>
 			<td rowspan="2">Perfil</td>
 			<td>Overview</td>
-			<td>a</td>
-			<td>b</td>
-			<td>c</td>
-			<td>d</td>
+			<td>Sistema que mitiga (y previene) los robos a vehículos.</td>
+			<td>Sistema que previene accidentes vehiculares, y regula la seguridad vial</td>
+			<td>Sistema que localiza y alerta sobre la seguridad e integridad de una persona</td>
+			<td>Sistema que monitorea el automóvil y alerta ante cualquier accidente automovilístico</td>
 		</tr>
 		<tr>
 			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
-			<td></td>
-			<td> </td>
-			<td></td>
-			<td>  </td>
+			<td>Monitoreo y vigilancia del vehículo en tiempo real</td>
+			<td>Regula la seguridad vehicular y relacionados</td>
+			<td>Localización de una persona en tiempo real</td>
+			<td>Detección de choques, servicios de mecánica; actúa como seguro</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Perfil de Marketing</td>
