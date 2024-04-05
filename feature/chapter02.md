@@ -308,9 +308,8 @@ Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, 
   ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-- User Persona Primer Segmento Objetivo: Taxistas Adultos 
-
-
+- User Persona Primer Segmento Objetivo: Taxistas Adultos
+![UserPersona_Segmento1](assets/UserPersona__Segmento1.png)
 - User Persona Segundo Segmento Objetivo: Conductores Jóvenes
   ![UserPersona_Segmento2](assets/UserPersona_Segmento2.png)
 ### 2.3.2. User Task Matrix.
