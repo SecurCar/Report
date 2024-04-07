@@ -80,22 +80,22 @@
 			<td>Fortalezas</td>
 			<td>
                 <ul>
-                    <li>Tendrá un sistema de geolocalización que mostrará puntos riesgosos, también tendrá reconocimiento facial y advierte al usuario cuando se estaciona mal.</li>
+                    <li>Sistema de localización y sensores que muestran el entorno del vehículo en tiempo real.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Especialización de sistemas integrados y detección avanzada.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Uso especializado para la localización de personas y rastreo en ciertos casos.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Puede usar sistemas especializados en cierto casos.</li>
                 </ul>
             </td>
 		</tr>
@@ -103,22 +103,22 @@
 			<td>Debilidades</td>
 			<td>
                 <ul>
-                    <li>El sistema no es capaz de parar el auto en un punto seguro al detectar un usuario no registrado.</li>
+                    <li>El sistema aún sigue en procesos de desarrollo y puede no tener todas las funcionalidades completas.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Falta de conocimiento y uso entre los potenciales usuarios.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Puede ser usado para el rastreo.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Puede ser de costo elevado para ciertos casos.</li>
                 </ul>
             </td>
 		</tr>
@@ -126,22 +126,22 @@
 			<td>Oportunidades</td>
 			<td>
                 <ul>
-                    <li>Reconoce cuando el auto fue estacionado mal y alerta al usuario para poder prevenir un embargo.</li>
+                    <li>Reconoce el estado del auto y notificar al usuario.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Alerta para varios usuarios como familiares y conocidos.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Especializado para el uso personal y rastreo.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
+                    <li>Sistema avanzado y delimitado para ciertos usuarios.</li>
                 </ul>
             </td>
 		</tr>
