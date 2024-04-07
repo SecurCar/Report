@@ -56,17 +56,17 @@
 		<tr>
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos &amp; Servicios</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Dispositivos, servicios y software</td>
+			<td>Servicios y sistemas integrados</td>
+			<td>Dispositivos, servicios y software</td>
+			<td>Sistemas y servicios integrados</td>
 		</tr>
 		<tr>
 			<td>Precios &amp; Costos</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
+			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
+			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
+			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
