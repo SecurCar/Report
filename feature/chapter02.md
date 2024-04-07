@@ -41,10 +41,10 @@
 		<tr>
 			<td rowspan="2">Perfil de Marketing</td>
 			<td>Mercado objetivo</td>
-			<td></td>
-			<td></td>
-			<td> </td>
-			<td></td>
+			<td>Todos los conductores en general; jóvenes y taxistas principalmente.</td>
+			<td>Todos los conductores en general</td>
+			<td>Todo el público.</td>
+			<td>Todos los conductores en general</td>
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
