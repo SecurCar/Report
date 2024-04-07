@@ -399,9 +399,10 @@ Se ha elaborado el User Journey Mapping para cada segmento objetivo: jóvenes y 
 Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.
 
 - Empathy Mapping Primer Segmento Objetivo: Taxistas Adultos
+  ![UserPersona_Segmento1](assets/EmpathyMapping_Seg01.png)
 
 
 - Empathy Mapping Segundo Segmento Objetivo: Conductores Jóvenes
-  ![UserPersona_Segmento2](assets/EmpathyMapping_Seg01.png)
+  ![UserPersona_Segmento2](assets/EmpathyMapping_Seg02.png)
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language
