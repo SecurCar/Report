@@ -384,5 +384,13 @@ Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas 
 
 - Empathy Mapping Segundo Segmento Objetivo: Conductores Jóvenes
   ![UserPersona_Segmento2](assets/EmpathyMapping_Seg02.png)
+
 ### 2.3.5. As-is Scenario Mapping.
+
+- As.is Scenario Mapping Primer Segmento Objetivo: Taxistas Adultos
+  ![AsIsScenarioMapping_Segmento1](assets/AsIsScenarioMapping_Seg01.png)
+
+- As-is Scenario Mapping Segmento Objetivo: Taxistas Adultos
+  ![AsIsScenarioMapping_Segmento2](assets/AsIsScenarioMapping_Seg02.png)
+
 ## 2.4. Ubiquitous Language
