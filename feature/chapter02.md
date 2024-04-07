@@ -43,15 +43,15 @@
 			<td>Mercado objetivo</td>
 			<td>Todos los conductores en general; jóvenes y taxistas principalmente.</td>
 			<td>Todos los conductores en general</td>
-			<td>Todo el público.</td>
+			<td>Todo el público</td>
 			<td>Todos los conductores en general</td>
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Promociones y anuncios en páginas, sitios web, periódicos, etc., lugares comunes donde se encuentre nuestro segmento objetivo</td>
+			<td>Redes sociales y páginas de internet; también en parte con organizaciones</td>
+			<td>Anuncios de internet, recomendaciones y en general anuncios comunes</td>
+			<td>Anuncios de internet y páginas de internet; junto con seguros.</td>
 		</tr>
 		<tr>
 			<td rowspan="3">Perfil de Producto</td>
