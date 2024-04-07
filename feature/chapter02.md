@@ -369,14 +369,14 @@ Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, 
 ### 2.3.3. User Journey Mapping
 Se ha elaborado el User Journey Mapping para cada segmento objetivo: jóvenes y taxistas. Tomamos de referencias a nuestro user personas como los datos brindados por las entrevistas.
 
-- Empathy Mapping Primer Segmento Objetivo: Taxistas adultos
+- User Journey Mapping Primer Segmento Objetivo: Taxistas adultos
 ![User Journey Mapping - Segmento 1](assets/userJourneyMap-segmento1-taxista.png)
 
-- Empathy Mapping Primer Segmento Objetivo: Conductores jóvenes
+- User Journey Mapping Segundo Segmento Objetivo: Conductores jóvenes
 ![User Journey Mapping - Segmento 2](assets/userJourneyMap-segmento2-jovenes.png)
 
 ### 2.3.4. Empathy Mapping.
-Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.
+Se ha elaborado el Empathy Mappisng utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.
 
 - Empathy Mapping Primer Segmento Objetivo: Taxistas Adultos
   ![UserPersona_Segmento1](assets/EmpathyMapping_Seg01.png)
@@ -390,7 +390,7 @@ Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas 
 - As.is Scenario Mapping Primer Segmento Objetivo: Taxistas Adultos
   ![AsIsScenarioMapping_Segmento1](assets/AsIsScenarioMapping_Seg01.png)
 
-- As-is Scenario Mapping Segmento Objetivo: Taxistas Adultos
+- As-is Scenario Mapping Segundo Segmento Objetivo: Taxistas Adultos
   ![AsIsScenarioMapping_Segmento2](assets/AsIsScenarioMapping_Seg02.png)
 
 ## 2.4. Ubiquitous Language
