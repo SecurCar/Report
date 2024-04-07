@@ -80,9 +80,7 @@
 			<td>Fortalezas</td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Tendrá un sistema de geolocalización que mostrará puntos riesgosos, también tendrá reconocimiento facial y advierte al usuario cuando se estaciona mal.</li>
                 </ul>
             </td>
 			<td>
@@ -111,8 +109,7 @@
 			<td>Debilidades</td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>El sistema no es capaz de parar el auto en un punto seguro al detectar un usuario no registrado.</li>
                 </ul>
             </td>
 			<td>
@@ -138,8 +135,7 @@
 			<td>Oportunidades</td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Reconoce cuando el auto fue estacionado mal y alerta al usuario para poder prevenir un embargo.</li>
                 </ul>
             </td>
 			<td>
@@ -165,8 +161,7 @@
 			<td>Amenazas</td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>El precio del sistema puede que baje el ánimo de los usuarios interesados en el Perú.</li>
                 </ul>
             </td>
 			<td>
