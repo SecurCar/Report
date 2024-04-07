@@ -66,7 +66,7 @@
 			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
 			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
 			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
-			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
+			<td>Tarifas y precios: desde 10 a 20 dólares.</td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
@@ -86,21 +86,15 @@
 			<td>
                 <ul>
                     <li></li>
-                    <li></li>
-                    <li></li>
                 </ul>
             </td>
 			<td>
                 <ul>
                     <li></li>
-                    <li></li>
-                    <li></li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
                     <li></li>
                 </ul>
             </td>
@@ -115,18 +109,15 @@
 			<td>
                 <ul>
                     <li></li>
-                    <li></li>
                 </ul>
             </td>
 			<td>
                 <ul>
                     <li></li>
-                    <li></li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
                     <li></li>
                 </ul>
             </td>
@@ -141,18 +132,15 @@
 			<td>
                 <ul>
                     <li></li>
-                    <li></li>
                 </ul>
             </td>
 			<td>
                 <ul>
                     <li></li>
-                    <li></li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
                     <li></li>
                 </ul>
             </td>
@@ -161,25 +149,22 @@
 			<td>Amenazas</td>
 			<td>
                 <ul>
-                    <li>El precio del sistema puede que baje el ánimo de los usuarios interesados en el Perú.</li>
+                    <li>El precio puede ser variable y en algunos casos molestoso.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>El sistema no es muy conocido y puede ser difícil el uso en diferentes países.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>La funcionalidad es limitada en cuanto a el uso vehicular.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>El sistema puede ser limitado debido a la conexión a internet.</li>
                 </ul>
             </td>
 		</tr>
