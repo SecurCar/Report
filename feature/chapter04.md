@@ -147,11 +147,14 @@ Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/SZSM54
 Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/SZSM54wn8R9fkVfBQgHHDA/SecurCar?type=design&node-id=0%3A1&mode=design&t=imWmXTgxfbi4CoPl-1
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
-![Web Applications Wireframe - Inicio de sesión](/feature/assets/Web application_-_Inicio_de_sesión.png)
-![Wireframe2](/feature/assets/wire2.png)
-![Wireframe3](/feature/assets/wire3.png)
-![Wireframe4](/feature/assets/wire4.png)
-![Wireframe5](/feature/assets/wire5.png)
+![Web Applications Wireframe - Inicio de sesión](/feature/assets/Web%20application%20-%20Inicio%20de%20sesión.png)
+![Web Applications Wireframe - Registro](/feature/assets/Web%20application%20-%20Registro.png)
+![Web Applications Wireframe - Inicio](/feature/assets/Web%20application%20-%20Inicio.png)
+![Web Applications Wireframe - Perfil](/feature/assets/Web%20application%20-%20Perfil.png)
+![Web Applications Wireframe - Información del vehículo](/feature/assets/Web%20application%20-%20Información%20del%20vehículo.png)
+![Web Applications Wireframe - Información del dispositivo](/feature/assets/Web%20application%20-%20Información%20del%20dispositivo.png)
+![Web Applications Wireframe - Compartir ubicación](/feature/assets/Web%20application%20-%20Compartir%20ubicación.png)
+![Web Applications Wireframe - Rastreo y monitoreo](/feature/assets/Web%20application%20-%20Rastreo%20y%20monitoreo.png)
 Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/SZSM54wn8R9fkVfBQgHHDA/SecurCar?type=design&node-id=0%3A1&mode=design&t=imWmXTgxfbi4CoPl-1
 #### 4.4.2. Web Applications Wireflow Diagrams.
 #### 4.4.3. Web Applications Mock-ups.
