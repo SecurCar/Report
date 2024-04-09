@@ -151,3 +151,21 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language
+
+***User***: Individuals who rely on their vehicles for daily transportation.
+
+***User***: Active professionals who value safety and efficiency in parking their vehicles in congested urban areas.
+
+***User***: Taxi companies and transportation services, legal entities managing vehicle fleets seeking solutions to secure parking and protect their vehicles from frequent theft.
+
+***User***: Educational communities, including students and staff, requiring secure and efficient parking on or near their campuses.
+
+***User***: Municipal authorities, governmental organizations responsible for urban mobility planning and management, interested in adopting innovative technologies.
+
+***Smart Mobility Application(SMA)***: An artificial intelligence-based system designed to address the increasing rates of vehicle theft and improper parking in urban areas. The SMA utilizes advanced algorithms to detect suspicious behaviors and provide guidance on available parking spaces, thereby contributing to improving public safety and urban mobility.
+
+***Member***: Individuals who register and hold a membership in the Smart Mobility Application (SMA). Members have access to the functionalities and services offered by the SMA.
+
+***Membership Plan***: Subscription package chosen by a member, determining the duration and scope of access to the facilities and services of the Smart Mobility Application.
+
+Implementation Example: When a ***user*** signs up as a ***member*** in the ***Smart Mobility Application***, they are presented with options labeled as ***Membership Plans***, which include different levels of access and service duration.
