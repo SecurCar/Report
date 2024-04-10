@@ -12,7 +12,7 @@
 - Fabrizio Alessandro Sanchez Zamora    (U202213652)
 - Rubén Elías Mallma Quispe             (U202214234)
 - Luiggi Gianfranco Paredes Zapata      (U202218996)
-- Louis Alfaro Coveñas Louis            (u20191b299)
+- Louis Piero Alfaro Coveñas            (u20191b299)
 ### FECHA: MARZO 2024
 
 - - - 
