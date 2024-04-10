@@ -157,6 +157,9 @@ Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/SZSM54
 ![Web Applications Wireframe - Rastreo y monitoreo del vehículo](/feature/assets/Web%20application%20-%20Rastreo%20y%20monitoreo%20del%20vehículo.png)
 Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/7joH8RXrh9lmknfvi7Z2YP/Web-application-wireframes?type=design&node-id=0%3A1&mode=design&t=8mbtejVYkBWZqchB-1
 #### 4.4.2. Web Applications Wireflow Diagrams.
+Primeramente, se mostrará el aparatado de 'iniciar sesión' el cual mostrará una pantalla de inicio de sesión. Si el usuario no tiene una cuenta creada, entonces podrá acceder a 'registrar' la cual le creará una cuenta nueva al usuario. Cabe mencionar que no es necesario tener un dispositivo comprado para poder crear una cuenta ya que una cuenta no está necesariamente vinculada con un dispositivo.
+
+
 #### 4.4.3. Web Applications Mock-ups.
 #### 4.4.4. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
