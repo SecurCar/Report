@@ -12,19 +12,21 @@
 - Fabrizio Alessandro Sanchez Zamora    (U202213652)
 - Rubén Elías Mallma Quispe             (U202214234)
 - Luiggi Gianfranco Paredes Zapata      (U202218996)
+- Louis Alfaro Coveñas Louis            (u20191b299)
 ### FECHA: MARZO 2024
 
 - - - 
 
 # Registro de Versiones del Informe
 
-| Versión               | Fecha    | Autores            | Descripción de Modificación                  |
-|-----------------------|----------|--------------------|----------------------------------------------|
+| Versión               | Fecha    | Autores                              | Descripción de Modificación                  |
+|-----------------------|----------|--------------------------------------|----------------------------------------------|
 | Primera entrega (TB1) | -/-/2024 | - Joan Jefferson Talizo Balbin       | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | - David Ivanoff gallo Quintana       | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | - Fabrizio Alessandro Sanchez Zamora | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | - Rubén Elías Mallma Quispe          | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | - Luiggi Gianfranco Paredes Zapata   | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Louis Piero Alfaro Coveñas         | - Se realizó x cosa <br> - Se realizó y cosa |
 
 - - -
 # Project Report Collaboration
@@ -128,8 +130,8 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 # Student Outcome
 
-| Criterio Específico                                                                                                                                  | Acciones Ralizadas                                                                                                                                                                                                       | Conclusiones |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | <br>**Fabrizio Sanchez** - TB1  <br><br>**David Ivanoff gallo Quintana** - TB1  <br><br>**Joan Jefferson Talizo Balbi** - TB1   <br><br>**Rubén Elías Mallma Quispe** - TB1  <br><br>**Luiggi Gianfranco Paredes Zapata** - TB1 |              |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | <br>**Fabrizio Sanchez** - TB1  <br><br>**David Ivanoff gallo Quintana** - TB1  <br><br>**Joan Jefferson Talizo Balbi** - TB1   <br><br>**Rubén Elías Mallma Quispe** - TB1  <br><br>**Luiggi Gianfranco Paredes Zapata** - TB1 |              |
+| Criterio Específico                                                                                                                                  | Acciones Ralizadas                                                                                                                                                                                                                                                           | Conclusiones |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | <br>**Fabrizio Sanchez** - TB1  <br><br>**David Ivanoff gallo Quintana** - TB1  <br><br>**Joan Jefferson Talizo Balbi** - TB1   <br><br>**Rubén Elías Mallma Quispe** - TB1  <br><br>**Luiggi Gianfranco Paredes Zapata** - TB1 <br><br>**Louis Piero Alfaro Coveñas** - TB1 |              |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | <br>**Fabrizio Sanchez** - TB1  <br><br>**David Ivanoff gallo Quintana** - TB1  <br><br>**Joan Jefferson Talizo Balbi** - TB1   <br><br>**Rubén Elías Mallma Quispe** - TB1  <br><br>**Luiggi Gianfranco Paredes Zapata** - TB1 <br><br>**Louis Piero Alfaro Coveñas** - TB1 |              |
 
