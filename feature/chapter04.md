@@ -169,6 +169,17 @@ Primeramente, se mostrará el aparatado de 'iniciar sesión' el cual mostrará u
 #### 4.6.3. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
+![Diagrama](/feature/assets/ClassDiagram.png)<br>
 #### 4.7.2. Class Dictionary.
+- ***IncidentReporting***: Representa la entidad que se encarga de reportar incidentes de seguridad vial. Contiene el método reportarIncidente().
+- ***MaintenanceReminder***: Representa la entidad encargada de recordar el mantenimiento del vehículo. Contiene el método establecerRecordatorioDeMantenimiento().
+- ***ExpenseTracker***: Representa la entidad que rastrea los gastos relacionados con el vehículo. Contiene el método registrarGasto().
+- ***DrivingEvaluation***: Representa la entidad que evalúa el estilo de conducción del usuario. Contiene el método evaluarEstiloDeConduccion().
+- ***SpeedLimitReminder***: Representa la entidad encargada de recordar los límites de velocidad. Contiene el método establecerRecordatorioDeLimiteDeVelocidad().
+- ***SecurityFunction***: Representa la raíz de agregado para las funciones de seguridad de la aplicación. Contiene el método activarSeguridad().
+- ***GeolocationFunction***: Representa la raíz de agregado para las funciones de geolocalización de la aplicación. Contiene el método rastrearUbicacion().
+- ***RecommendationSystem***: Representa la raíz de agregado para el sistema de recomendaciones de seguridad de la aplicación. Contiene el método obtenerRecomendacionesDeSeguridad().
+- ***RealTimeLocationSharing***: Representa la raíz de agregado para las funciones de compartir ubicación en tiempo real de la aplicación. Contiene el método compartirUbicacionConContactos().
+- ***AssistanceService***: Representa la raíz de agregado para los servicios de asistencia de la aplicación. Contiene el método solicitarAsistencia().
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
