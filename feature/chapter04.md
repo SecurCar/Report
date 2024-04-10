@@ -183,3 +183,5 @@ Primeramente, se mostrará el aparatado de 'iniciar sesión' el cual mostrará u
 - ***AssistanceService***: Representa la raíz de agregado para los servicios de asistencia de la aplicación. Contiene el método solicitarAsistencia().
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
+![DiagramaDB](/feature/assets/DiagramDB.png)<br>
+
