@@ -285,7 +285,54 @@ Distrito: Magdalena del mar <br>
 Inicio de Entrevista: 26:40 <br>
 [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
 Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, expresa sus anhelos a la aplicación, mencionando que le gustaria que existiesen funciones para saber donde se encuentra su carro, debido a que a veces lo pierde de vista. Ademas menciona que si le gustaria que de consejos sobre que hacer en ciertas situaciones. También le gustaría que recomiende mejores, rutas, que te ayude a llevar los papeles del carro, cuando se vencerán y que te advierta sobre estos. Ella estaría dispuesto a pagar por un precio accesible y con beneficios a largo plazo, le gustaría que tenga descuentos por si eres estudiante o si tiene convenios con otras empresas.
+
+**Entrevista #3** <br>
+Nombre y apellidos: Leonardo Lopez <br>
+Edad: 21 años <br>
+Distrito: Surco<br>
+
+ <br>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1227995312585707602/image.png?ex=662a6ec1&is=6617f9c1&hm=8f036cd1c7f070ca34a39e727defe0802581fceae6573f301042513bebb7ed7f&=&format=webp&quality=lossless&width=1220&height=676">
+    </td>
+  </tr>
+<br>
+Duración De Entrevista: 10:35 <br>
+Link de la entrevista -> https://www.youtube.com/watch?v=j7dfsU1qxm0&ab_channel=DavidRodriguez
+
+<br>
+
+Resumen De Entrevista: 
+Leonardo López, durante la entrevista, mostró un gran interés en nuestra idea de negocio centrada en una aplicación para conductores que les ayude a encontrar lugares seguros de estacionamiento. Expresó su entusiasmo por la posibilidad de tener una herramienta que le ayude a estacionar su carro de manera eficaz y segura. Su interés radica en la utilidad práctica de una app de este tipo, destacando la importancia de la seguridad y la eficiencia al estacionar.
+
+
+
   ### 2.2.3. Análisis de entrevistas.
+\-	Análisis del Segmento Objetivo #1 (Conductores Corporativos)
+
+|Preguntas|Respuestas Generales|
+| :-: | :-: |
+|¿Ha tenido problemas relacionados con el mal estacionamiento?\*|Varios afirman que sí. Los problemas más comunes son las multas, el papeleo, remolcamiento del vehículo. |
+|¿Qué desafíos específicos ha enfrentado en relación con el estacionamiento en áreas urbanas?\*|Según los entrevistados, la falta de espacio para poder estacionarse correctamente hace que los conductores se estacionen en cualquier lugar.|
+|¿Cómo cree que la tecnología y la inteligencia artificial podrían contribuir a abordar estos problemas?|Afirman que bien no toda la inteligencia artificial se haría cargo de dónde o cómo estacionarse, pero sí llegan al acuerdo de que se puede informar al usuario cuando un mal posicionamiento se detecta mediante sensores o algún tipo de artefacto.|
+|¿Qué características le gustaría ver en un aplicativo móvil que aborde el mal estacionamiento de vehículos?\*|Al igual que el segmento objetivo anterior, los usuarios prefieren una aplicación sencilla o al menos un intermedio para también aprovechar las diferentes funcionalidades que puedan existir.|
+
+
+
+
+
+\-	Análisis del Segmento Objetivo #2 (Jovenes Conductores)
+
+|Preguntas|Respuestas Generales|
+| :-: | :-: |
+|¿Ha sido víctima o ha tenido problemas relacionados con el robo de vehículos?\*|No todos han sido víctimas de la delincuencia en cuanto al robo de vehículos se trata, pero sí se muestra temor o inquietud sobre el robo ya que puede ocurrir en cualquier momento y lugar.|
+|¿Qué desafíos específicos ha enfrentado en relación con la seguridad de su vehículo en áreas urbanas?\*|Cuando las calles están congestionadas, los delincuentes pueden aprovechar para mezclarse entre la gente y cometer actos horribles.|
+|¿Cómo cree que la tecnología y la inteligencia artificial podrían contribuir a abordar estos problemas?|Varios creen que la inteligencia artificial podría contribuir como un pequeño detector o “asistente” el cual te avise mediante el teléfono cuando un movimiento extraño suceda.|
+|¿Qué características le gustaría ver en un aplicativo móvil que aborde el robo de vehículos?\*|<p>Los usuarios finales son personas adultas en general y requieren una interfaz sencilla. También mencionaron que se puede llegar a un intermedio la cual sea sencilla pero a la vez con varias funcionalidades al punto de no ser complejo.</p><p></p>|
+
+
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 - User Persona Primer Segmento Objetivo: Taxistas Adultos
