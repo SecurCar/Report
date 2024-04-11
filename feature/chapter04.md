@@ -46,7 +46,7 @@ El propósito del sistema de organización de la página es establecer la estruc
 
 
 **HOMEPAGE**<br>
-![SeccionArriba](/feature/assets/UpSection.png)<br>
+![SeccionArriba](/feature/assets/Up.png)<br>
 
 En la parte superior de la página principal se encuentran las opciones que conducen a otras secciones, ya que al seguir un patrón de diseño F, se busca enfatizar la importancia de que el usuario conozca la empresa y todo lo que la página tiene para ofrecer, para finalmente poder registrarse o iniciar sesión, lo cual se encuentra representado por los botones en el extremo derecho. Además se muestra un botón de modo oscuro y finalmente se puede visualizar en la esquina derecha "Español/English" que tiene como función cambiar el idioma de la página.
 
