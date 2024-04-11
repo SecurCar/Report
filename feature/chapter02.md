@@ -292,15 +292,13 @@ Edad: 21 años <br>
 Distrito: Surco<br>
 
  <br>
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1227995312585707602/image.png?ex=662a6ec1&is=6617f9c1&hm=8f036cd1c7f070ca34a39e727defe0802581fceae6573f301042513bebb7ed7f&=&format=webp&quality=lossless&width=1220&height=676">
-    </td>
-  </tr>
+
+![Entrevista_Seg02_LeonardoLopez](assets/Entrevista_Seg02_LeonardoLopez.jpg)
+
 <br>
 Duración De Entrevista: 10:35 <br>
 
-https://1drv.ms/u/s!Amw9NbjIfdHJi3je53GaoZdJu0j-?e=Wm3lmY
+[URL_De_Entrevista](https://1drv.ms/u/s!Amw9NbjIfdHJi3je53GaoZdJu0j-?e=Wm3lmY)
 
 
 <br>
