@@ -1,6 +1,7 @@
-# <a name="_h9hrfqva6r5m"></a>**3.1. To-Be Scenario Mapping.**
+# Capítulo III: Requirements Specification
+## <a name="_h9hrfqva6r5m"></a>**3.1. To-Be Scenario Mapping.**
 
-User Persona (Conductores que trabajan para una empresa)
+Segmento Objetivo (Es adultos que se dedican a taxi)
 
 
 ![TobeConductor](assets/TobeConductor.jpg)
@@ -8,7 +9,7 @@ User Persona (Conductores que trabajan para una empresa)
 <br>
 
 
-User Persona(Jóvenes entre 18-25 años)
+Segmento Objetivo(Jóvenes entre 18-25 años)
 
 ![TobeJoven](assets/TobeJoven.jpg)
 
@@ -64,7 +65,7 @@ Después de completar el formulario, el usuario debe recibir una confirmación d
 # <a name="_bpcx799qz42z"></a>**3.3 IMPACT MAPPING**
 
 
-Segmento 1: Conductores corporativos
+Segmento 1: Adultos que se dedican a taxi
 
 
 ![SegmentoTaxista](assets/UserCarlos.jpg)
