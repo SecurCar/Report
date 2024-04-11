@@ -1,7 +1,7 @@
 # Capítulo III: Requirements Specification
 ## <a name="_h9hrfqva6r5m"></a>**3.1. To-Be Scenario Mapping.**
 
-Segmento Objetivo (Es adultos que se dedican a taxi)
+Segmento Objetivo (Taxistas que buscan soluciones para asegurar el estacionamiento y proteger sus vehículos de robos frecuentes)
 
 
 ![TobeConductor](assets/TobeConductor.jpg)
@@ -12,6 +12,9 @@ Segmento Objetivo (Es adultos que se dedican a taxi)
 Segmento Objetivo(Jóvenes entre 18-25 años)
 
 ![TobeJoven](assets/TobeJoven.jpg)
+
+
+[URL_MIRO](https://miro.com/app/board/uXjVKVGaRnU=/#tpicker-content)
 
 # <a name="_bpcx799qz42z"></a>**3.2 User Stories**
 
@@ -65,7 +68,7 @@ Después de completar el formulario, el usuario debe recibir una confirmación d
 # <a name="_bpcx799qz42z"></a>**3.3 IMPACT MAPPING**
 
 
-Segmento 1: Adultos que se dedican a taxi
+Segmento 1: Taxistas que buscan soluciones para asegurar el estacionamiento y proteger sus vehículos de robos frecuentes
 
 
 ![SegmentoTaxista](assets/UserCarlos.jpg)
