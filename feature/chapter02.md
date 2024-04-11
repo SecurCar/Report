@@ -390,8 +390,11 @@ Se ha elaborado el Empathy Mappisng utilizando los datos obtenidos de las etapas
 - As.is Scenario Mapping Primer Segmento Objetivo: Taxistas Adultos
   ![AsIsScenarioMapping_Segmento1](assets/AsIsScenarioMapping_Seg01.png)
 
+
 - As-is Scenario Mapping Segundo Segmento Objetivo: Taxistas Adultos
   ![AsIsScenarioMapping_Segmento2](assets/AsIsScenarioMapping_Seg02.png)
+
+Link a nuestra herramienta de trabajo (Miro): https://miro.com/app/board/uXjVKX__U2Y=/?share_link_id=689816697400
 
 ## 2.4. Ubiquitous Language
 
