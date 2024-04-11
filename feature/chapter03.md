@@ -1,25 +1,16 @@
 # <a name="_h9hrfqva6r5m"></a>**3.1. To-Be Scenario Mapping.**
 
-User Persona (Jóvenes entre 18-25 años)
+User Persona (Conductores que trabajan para una empresa)
 
-|Phases|Protección contra robos y alertas de seguridad.|Recomendaciones personalizadas de seguridad.|Monitoreo de actividades sospechosas.|
-| :- | :- | :- | :- |
-|Doing |El joven conductor activa la función de seguridad en la aplicación mientras estaciona su automóvil.|El joven propietario de un automóvil recibe notificaciones sobre áreas de alto riesgo de robo en su área a través de la aplicación.|El joven conductor establece un horario de inactividad en la aplicación para su automóvil mientras está en el trabajo.|
-|Thinking|Se siente aliviado al saber que su vehículo está protegido contra robos y que recibirá alertas instantáneas en caso de actividad sospechosa.|Considera las sugerencias de seguridad adicionales proporcionadas por la aplicación, como instalar un sistema antirrobo.|Se siente protegido al saber que la aplicación le alertará si detecta movimiento no autorizado durante el horario de inactividad.|
-|Feeling|Experimenta tranquilidad y confianza al saber que su automóvil está seguro y que puede actuar rápidamente en caso de emergencia.|Se siente empoderado al tomar medidas proactivas para mejorar la seguridad de su automóvil y proteger su inversión.|Experimenta tranquilidad y seguridad al tener la capacidad de monitorear y proteger su vehículo incluso cuando no está presente físicamente.|
 
+![TobeConductor](assets/TobeConductor.jpg)
 
 <br>
 
 
-User Persona(Conductores que trabajan para una empresa)
+User Persona(Jóvenes entre 18-25 años)
 
-
-|Phases|Seguimiento de rutas seguras y notificaciones de desviaciones.|Reporte de incidentes y cumplimiento de normativas.|Programación de alertas automáticas y recordatorios.|
-| :- | :- | :- | :- |
-|Doing |El conductor de flotas programa una ruta segura en la aplicación para una entrega importante.|El conductor de la empresa reporta un incidente de conducción peligrosa a través de la aplicación.|El conductor corporativo programa alertas automáticos para recordar fechas de mantenimiento y revisiones de seguridad.|
-|Thinking|Piensa monitorear la ruta en tiempo real y recibir alertas si el vehículo se desvía de la ruta planificada.|Se siente comprometido con la seguridad vial y con cumplir las normativas establecidas por la empresa y las autoridades.|Planifica y organiza el mantenimiento de los vehículos de la empresa de manera eficiente y oportuna.|
-|Feeling|Experimenta una sensación de control y eficiencia al poder gestionar y corregir desviaciones de ruta de manera rápida y efectiva.|Experimenta satisfacción al contribuir a mejorar la seguridad vial y al recibir reconocimiento por su compromiso con las normativas de seguridad.|Se siente aliviado y preparado al tener recordatorios automáticos para el mantenimiento de los vehículos, lo que garantiza su seguridad y funcionamiento óptimo.|
+![TobeJoven](assets/TobeJoven.jpg)
 
 # <a name="_bpcx799qz42z"></a>**3.2 User Stories**
 
@@ -73,24 +64,15 @@ Después de completar el formulario, el usuario debe recibir una confirmación d
 # <a name="_bpcx799qz42z"></a>**3.3 IMPACT MAPPING**
 
 
-Segmento 1: Jóvenes entre 18-25 años
+Segmento 1: Conductores corporativos
 
 
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1226420503187685447/seg1.jpg?ex=6624b419&is=66123f19&hm=da84456e7517d383c9ef16705f228fc2572dcb814617415a097fb215c77ed494&=&format=webp&width=1198&height=676">
-    </td>
-  </tr>
+![SegmentoTaxista](assets/UserCarlos.jpg)
 <br>
 
+Segmento 2: Jóvenes entre 18-25 años 
 
-Segmento 2: Conductores corporativos
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1226420547315957820/seg2.jpg?ex=6624b424&is=66123f24&hm=82aa2ca8d41cbccda91592587e9101b5d6ca43f96488ae015c79c2ef59339a95&=&format=webp&width=1185&height=676">
-    </td>
-  </tr>
+![SegmentoJoven](assets/UserRenzo.jpg)
 <br>
 
 MIRO LINK : <https://miro.com/app/board/uXjVKXzElHA=/#tpicker-content>
