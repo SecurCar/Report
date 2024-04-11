@@ -148,12 +148,26 @@ Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/SZSM54
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
 ![Web Applications Wireframe - Inicio de sesión](/feature/assets/Web%20application%20-%20Inicio%20de%20sesión.png)
+
+
 ![Web Applications Wireframe - Registro](/feature/assets/Web%20application%20-%20Registro.png)
+
+
 ![Web Applications Wireframe - Inicio](/feature/assets/Web%20application%20-%20Inicio.png)
+
+
 ![Web Applications Wireframe - Perfil](/feature/assets/Web%20application%20-%20Perfil.png)
+
+
 ![Web Applications Wireframe - Información del vehículo](/feature/assets/Web%20application%20-%20Información%20del%20vehículo.png)
+
+
 ![Web Applications Wireframe - Información del dispositivo](/feature/assets/Web%20application%20-%20Información%20del%20dispositivo.png)
+
+
 ![Web Applications Wireframe - Compartir ubicación](/feature/assets/Web%20application%20-%20Compartir%20ubicación.png)
+
+
 ![Web Applications Wireframe - Rastreo y monitoreo del vehículo](/feature/assets/Web%20application%20-%20Rastreo%20y%20monitoreo%20del%20vehículo.png)
 Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/7joH8RXrh9lmknfvi7Z2YP/Web-application-wireframes?type=design&node-id=0%3A1&mode=design&t=8mbtejVYkBWZqchB-1
 #### 4.4.2. Web Applications Wireflow Diagrams.
@@ -161,6 +175,32 @@ Primeramente, se mostrará el aparatado de 'iniciar sesión' el cual mostrará u
 ![Web Applications Wireframe - Rastreo y monitoreo del vehículo](/feature/assets/wbapwrflw.png)
 
 #### 4.4.3. Web Applications Mock-ups.
+![Web Applications Mock-ups_Inicio de sesion.png](/feature/assets/Web%20Applications%20Mock-ups_Inicio%20de%20sesion.png)
+
+
+![Web Applications Mock-ups - Registro](/feature/assets/Web%20Applications%20Mock-ups_Registro.png)
+
+
+![Web Applications Mock-ups - Inicio](/feature/assets/Web%20Applications%20Mock-ups_Inicio.png)
+
+
+![Web Applications Mock-ups - Perfil](/feature/assets/Web%20Applications%20Mock-ups_Perfil.png)
+
+
+![Web Applications Mock-ups - Información del vehículo](/feature/assets/Web%20Applications%20Mock-ups_Informacion%20del%20vehiculo.png)
+
+
+![Web Applications Mock-ups - Información del dispositivo](/feature/assets/Web%20Applications%20Mock-ups_Informacion%20del%20dispositivo.png)
+
+
+![Web Applications Mock-ups - Compartir ubicación](/feature/assets/Web%20Applications%20Mock-ups_Compartir%20ubicación.png)
+
+
+![Web Applications Mock-ups - Rastreo y monitoreo del vehículo](/feature/assets/Web%20Applications%20Mock-ups_Rastreo%20y%20entorno%20del%20vehículo.png)
+
+Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/LdjqHSAnx8sjwCGO22vsd2/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=6tVrBWbBCm3vAw55-1
+
+
 #### 4.4.4. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
