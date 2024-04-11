@@ -40,7 +40,7 @@ Bussiness Assumptions
 * **Los primeros clientes serán** propietarios jóvenes de vehículos urbanos y taxitas preocupados por la seguridad de sus automóviles.
 * **La principal necesidad que los clientes tienen de mi servicio es** sentirse seguros al dejar sus vehículos estacionados y poder encontrar rápidamente un lugar para estacionar en entornos urbanos caóticos.
 * **Obtendré la mayor parte de mis clientes mediante** campañas de marketing digital dirigidas a comunidades urbanas y asociaciones de vecinos preocupadas por la seguridad y la movilidad en la ciudad.  
-* **Generaré ingresos mediante** 
+* **Generaré ingresos mediante** mediante la oferta de una suscripción mensual para acceder a funciones premium de la aplicación. 
 * **El principal problema que puede afectar a mi producto es** la desconfianza inicial de los usuarios hacia la efectividad y la privacidad de la tecnología de inteligencia artificial utilizada en la aplicación.
 * **Abordaremos esta situación mediante** una sólida estrategia de comunicación que destaque los beneficios de seguridad y conveniencia de nuestra aplicación, así como mediante la implementación de medidas estrictas de protección de datos para garantizar la privacidad de los usuarios.  <br><br>
   User Assumptions
