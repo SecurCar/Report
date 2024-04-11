@@ -205,8 +205,63 @@ Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/LdjqHS
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
+A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos permitirá establecer un buen punto de partida para poder diagramar y documentar nuestro sistema de manera general.
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1227975154139660298/image.png?ex=662a5bfb&is=6617e6fb&hm=2928faabdac209c63c61899eddf6613dfb385794583a72e35fe749288551311b&=&format=webp&quality=lossless&width=952&height=676">
+    </td>
+  </tr>
+<br>
+
 #### 4.6.2. Software Architecture Container Diagrams.
+A continuación, se mostrará el Container Diagram de nuestra aplicación en el cual se visualiza la forma de alto nivel de la arquitectura del software y cómo se distribuyen las responsabilidades en ella.
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1227975373204226099/image.png?ex=662a5c2f&is=6617e72f&hm=642f62180117d0fbd4bbb5bb5aa4763677ca5d34b33ea9f91bebb55abcaa55c8&=&format=webp&quality=lossless&width=494&height=350">
+    </td>
+  </tr>
+<br>
+
 #### 4.6.3. Software Architecture Components Diagrams.
+A continuación, se mostrará el Component Diagram en el cual se descompone el contenedor “API Application” y se identifican los principales bloques de construcción estructurales y sus interacciones.
+### Componente StaySafe
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1227975750737465386/image.png?ex=662a5c89&is=6617e789&hm=f48de7c165dbdfb6641fa5f850303e93b5946e811a0d30ca23c927c5231b4670&=&format=webp&quality=lossless">
+    </td>
+  </tr>
+<br>
+
+### Componente Verificación de cuenta
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1227975780844179618/image.png?ex=662a5c90&is=6617e790&hm=f2c17830cf220874d38512dd992f6b1eea3dd7a98e228da2ae09833629a03055&=&format=webp&quality=lossless&width=503&height=350">
+    </td>
+  </tr>
+<br>
+
+### Componente Creación de cuenta
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1227975795381637214/image.png?ex=662a5c94&is=6617e794&hm=113dd679405d47de6c8760bb27511f14f0b52db081b3134a327e75bb61d1c62f&=&format=webp&quality=lossless">
+    </td>
+  </tr>
+<br>
+
+### Componente Notificaciones
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1227975769024888862/image.png?ex=662a5c8e&is=6617e78e&hm=667fad5f1529b92c789f9fb60ca3e621c089c53cf19d7655c0f781ff473a49da&=&format=webp&quality=lossless&width=496&height=350">
+    </td>
+  </tr>
+<br>
+
+
+Link del structuriz -> https://structurizr.com/workspace/77547/diagrams#Contexto
+
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
 ![Diagrama](/feature/assets/ClassDiagram.png)<br>
