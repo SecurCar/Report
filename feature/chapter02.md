@@ -293,7 +293,7 @@ Distrito: Surco<br>
 
  <br>
 
-![Entrevista_Seg02_LeonardoLopez](assets/Entrevista_Seg02_LeonardoLopez.jpg)
+![Entrevista_Seg02_LeonardoLopez](assets/Entrevista_Seg02_LeonardoLopez.JPG)
 
 <br>
 Duración De Entrevista: 10:35 <br>
