@@ -207,6 +207,8 @@ Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/LdjqHS
 Link a nuestra herramienta de trabajo (Overflow): https://overflow.io/s/CTHUF09R
 
 ### 4.5. Web Applications Prototyping.
+![Web Applications Prototyping.png](/feature/assets/Web%20Applications%20Prototyping.png)
+Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/proto/LdjqHSAnx8sjwCGO22vsd2/Web-Applications-Mock-ups?type=design&node-id=1-2&t=WE1YznWl7P9oqYN7-1&scaling=min-zoom&page-id=0%3A1&mode=design
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
 A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos permitirá establecer un buen punto de partida para poder diagramar y documentar nuestro sistema de manera general.
