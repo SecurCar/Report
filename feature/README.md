@@ -19,14 +19,10 @@
 
 # Registro de Versiones del Informe
 
-| Versión               | Fecha    | Autores                              | Descripción de Modificación                  |
+| Versión               | Fecha    | Autor                              | Descripción de Modificación                  |
 |-----------------------|----------|--------------------------------------|----------------------------------------------|
-| Primera entrega (TB1) | -/-/2024 | - Joan Jefferson Talizo Balbin       | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - David Ivanoff gallo Quintana       | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Fabrizio Alessandro Sanchez Zamora | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Rubén Elías Mallma Quispe          | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Luiggi Gianfranco Paredes Zapata   | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Louis Piero Alfaro Coveñas         | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | 11/04/2024 | SecurCar Group       | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design y sprint 1  |
+
 
 - - -
 # Project Report Collaboration
@@ -38,6 +34,9 @@ Aquí se encuentra el resultado del Project Report de la entrega correspondiente
 
 A continuación, se explicará todo a cerca del desarrollo de activades para la
 elaboración del informe junto con capturas de los analíticos de colaboración y commits en Github.
+![Commit1](/feature/assets/commits1.png)
+![Commit2](/feature/assets/commits2.png)
+
 
 
 # Contenido
@@ -132,6 +131,6 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 | Criterio Específico                                                                                                                                  | Acciones Ralizadas                                                                                                                                                                                                                                                           | Conclusiones |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | <br>**Fabrizio Sanchez** - TB1  <br><br>**David Ivanoff gallo Quintana** - TB1  <br><br>**Joan Jefferson Talizo Balbi** - TB1   <br><br>**Rubén Elías Mallma Quispe** - TB1  <br><br>**Luiggi Gianfranco Paredes Zapata** - TB1 <br><br>**Louis Piero Alfaro Coveñas** - TB1 |              |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | <br>**Fabrizio Sanchez** - TB1  <br><br>**David Ivanoff gallo Quintana** - TB1  <br><br>**Joan Jefferson Talizo Balbi** - TB1   <br><br>**Rubén Elías Mallma Quispe** - TB1  <br><br>**Luiggi Gianfranco Paredes Zapata** - TB1 <br><br>**Louis Piero Alfaro Coveñas** - TB1 |              |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | <br>**Fabrizio Sanchez** - TB1  <br><br>**David Ivanoff gallo Quintana** - TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.  <br><br>**Joan Jefferson Talizo Balbi** - TB1   <br><br>**Rubén Elías Mallma Quispe** - TB1  <br><br>**Luiggi Gianfranco Paredes Zapata** - TB1 <br><br>**Louis Piero Alfaro Coveñas** - TB1 |     **TB1** Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda.         |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | <br>**Fabrizio Sanchez** - TB1  <br><br>**David Ivanoff gallo Quintana** - TB1<br> Durante el trabajo se pudo conocer mejores maneras de llevar un proyecto a cabo en un tiempo corto, asimismo cada uno tuvo que poner de su parte para poder concretar esta primera parte del proyecto de mejor manera, lo que nos llevo a conocer mejor lo que podría ser trabajar en equipo.  <br><br>**Joan Jefferson Talizo Balbi** - TB1   <br><br>**Rubén Elías Mallma Quispe** - TB1  <br><br>**Luiggi Gianfranco Paredes Zapata** - TB1 <br><br>**Louis Piero Alfaro Coveñas** - TB1 |              |
 
