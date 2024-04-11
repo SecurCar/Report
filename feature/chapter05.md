@@ -211,64 +211,102 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
       function sayHello() {
       alert('Hello!');
       };
-      ~~~ 
-- ### C#
-    - #### PascalCase
-      Mayúscula al principio de cada palabra para nombres de clases y métodos.
-      ~~~ 
-      public class MiClase {
-          public void MetodoEjemplo() {
-              // Código del método
-          }
-      }
       ~~~
-    - #### camelCase
-      Minúscula al principio con mayúsculas para cada palabra subsiguiente para variables y parámetros.
-      ~~~ 
-      public class MiClase {
-          public void MetodoEjemplo(int numeroEjemplo) {
-              string nombreEjemplo = "Ejemplo";
-              // Código del método      
-          }
-      }
-      ~~~
-    - #### Reasonable line length
-      Mantener líneas de código con longitud adecuada para mejorar la legibilidad.
-      ~~~ 
-      public class MiClase {
-          public void MetodoEjemplo() {
-              string mensaje = "Este es un mensaje de ejemplo que ocupa varias líneas " +
-                               "para demostrar cómo mantener una longitud razonable.";
-               Console.WriteLine(mensaje);  
-        }
-      }
-      ~~~ 
-    - #### Clear comments:
-      Utilizar comentarios para explicar el propósito del código de manera concisa.
-      ~~~ 
-      public class MiClase {
-      // Este método realiza una operación de suma y retorna el resultado.
-      public int Sumar(int a, int b) {
-      return a + b;
-      }
-      }
-      ~~~
-    - #### Single responsibility:
-      Cada clase o método debe tener una única función bien definida.
-      ~~~ 
-      // Clase responsable de manejar operaciones matemáticas básicas
-      public class OperacionesMatematicas { 
-          // Método para sumar dos números 
-          public int Sumar(int a, int b) { 
-              return a + b; 
-          } 
+- ### Java
+  - #### CamelCase Naming Convention
+    Esta convención sugiere nombrar variables, métodos y clases utilizando CamelCase, donde cada palabra en el identificador comienza con una letra mayúscula, excepto la primera palabra.
+    ~~~ 
+    int miVariable;
+    void miMetodoNombre() {
+        // Cuerpo del método
+    }
+    class MiClase {
+        // Miembros de la clase
+    }
+    ~~~
+  - #### Constants Naming Convention
+    Las constantes generalmente se nombran utilizando letras mayúsculas con guiones bajos para separar palabras y distinguirlas de las variables regulares.
+    ~~~ 
+    final int VALOR_MAXIMO = 100;
+    ~~~
+  - #### Comments Convention
+    Los comentarios deben utilizarse para explicar la funcionalidad del código, especialmente en secciones complejas o no intuitivas, utilizando un lenguaje claro y conciso.
+    ~~~ 
+    // Este método calcula la suma de dos números
+    int suma(int num1, int num2) {
+        return num1 + num2;
+    }
+    ~~~ 
+  - #### Method Naming Convention
+    Los nombres de los métodos deben ser descriptivos y comenzar con un verbo en minúsculas, seguido de un sustantivo (o sustantivos) que describa la acción del método.
+    ~~~ 
+    void calcularSuma() {
+        // Cuerpo del método
+    }
+    ~~~
+  - #### Indentation Convention
+    La indentación consistente mejora la legibilidad del código. Cada nivel de anidamiento de código debe ser indentado por un número fijo de espacios o tabulaciones.
+    ~~~ 
+    public class MiClase {
+        public static void main(String[] args) {
+            if (condicion) {
+                // Bloque de código indentado
+                System.out.println("¡Hola, Mundo!");
+            }
        
-          // Método para restar dos números 
-          public int Restar(int a, int b) { 
-              return a - b; 
-          } 
+        }
+    }
+    ~~~
+   - ### TypeScript
+    - #### CamelCase Naming Convention
+      Esta convención sugiere nombrar variables, métodos y clases utilizando CamelCase, donde cada palabra en el identificador comienza con una letra mayúscula, excepto la primera palabra.
+      ~~~ 
+      let miVariable: number;
+      function miFuncionNombre() {
+          // Cuerpo de la función
+      }
+      class MiClase {
+          // Miembros de la clase
       }
       ~~~
+   - #### PascalCase Naming Convention
+     PascalCase es similar a CamelCase, pero la primera letra de cada palabra en el identificador se capitaliza, incluida la primera palabra.
+     ~~~ 
+     let MiVariable: number;
+     function MiFuncionNombre() {
+         // Cuerpo de la función
+     }
+     class MiClase {
+         // Miembros de la clase
+     }
+     ~~~
+   - #### Uppercase Constants
+     Las constantes se nombran en mayúsculas con guiones bajos para separar palabras.
+     ~~~ 
+     const VALOR_MAXIMO: number = 100;
+     ~~~ 
+   - #### Descriptive Comments
+     Los comentarios deben explicar la funcionalidad del código de manera clara y concisa.
+     ~~~ 
+     // Esta función calcula la suma de dos números
+     function sumar(num1: number, num2: number): number {
+         return num1 + num2;
+     }
+     }
+     ~~~
+   - #### Indentation Convention
+     Es importante mantener una indentación consistente para mejorar la legibilidad del código.
+     ~~~ 
+     class MiClase {
+         metodo(): void {
+             if (condicion) {
+                 // Bloque de código indentado
+                 console.log("Hola, Mundo!");
+             }
+      
+         }
+     }
+     ~~~
 - ### LENGUAJE GHERKIN
     - #### Descriptive and concise titles for scenarios
       Utilizar títulos descriptivos y concisos para los escenarios.
