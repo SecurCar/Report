@@ -342,17 +342,15 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la l
 | Sprint Goal & User Stories |    |
 | Sprint 1 Goal | Realizar la Landing Page |
 | Sprint 1 Velocity | 20 |
-| Sum of Story Points | (sumar puntos de user stories) |
+| Sum of Story Points | 8 |
 
 #### 5.2.1.2. Sprint Backlog 1.
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| US14 | Navegar a la Página de Inicio     | TS01 |Header and NavBar responsivos (Desarrollado en HTML, CSS y JS).          | Implementación del header y la barra de navegación, siguiendo los estándares “Responsive”  | 3                  | Diego  | Done                                   |
-| US15 | Navegar a la sección de Testimonios     | TS02 | Sección de Testimonios (Desarrollado en HTML, CSS y JS).       | Implementación de la sección de testimonios en la Landing Page, siguiendo los estándares “Responsive”  | 3                  | José | Done                                   |
-| US17 | Contacto con soporte           | TS03 | Sección del Footer (Desarrollado en HTML, CSS y JS).                              | Implementación del footer en la Landing Page, siguiendo los estándares “Responsive”.           | 3                  | Gonzalo   | Done                                   |
-| US18 | Sección de servicios disponibles    | TS04 | Sección “Services” (Desarrollado en HTML, CSS y JS).  | Implementación de la sección de services en la Landing Page, siguiendo los estándares “Responsive” .    | 3                  | Oscar  | Done                                   |
-| US24 | Navegar a la sección de Precios.  | TS05 | Sección de Precios (Desarrollado en HTML, CSS y JS).    |Implementación de la sección de precios en la Landing Page, siguiendo los estándares “Responsive”  | 3                  | Samuel | Done                                   |
-| US25 | Navegar a la sección "Nosotros".     | TS06 | Sección de Nosotros (Desarrollado en HTML, CSS y JS).  | Implementación de la sección "Nosotros” en la Landing Page, siguiendo los estándares “Responsive”   | 3                  | Samuel | Done                                   |
+| US31 | Navegar a la Página de Inicio     | TS01 |Header and NavBar responsivos (Desarrollado en HTML, CSS y JS).          | Implementación del header y la barra de navegación, siguiendo los estándares “Responsive”  | 3                  | Luiggi  | Done                                   |
+| US32 | Obtener mayor información acerca de los beneficios    | TS02 | Sección de Testimonios (Desarrollado en HTML, CSS y JS).       | Implementación de la sección de testimonios en la Landing Page, siguiendo los estándares “Responsive”  | 2                  | Balbín | Done                                   |
+| US33 | Contacto con soporte           | TS03 | Sección del Footer (Desarrollado en HTML, CSS y JS).                              | Implementación del footer en la Landing Page, siguiendo los estándares “Responsive”.           | 3                  | David   | Done                                   |
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
