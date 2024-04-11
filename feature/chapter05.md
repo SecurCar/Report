@@ -353,10 +353,18 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la l
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| LandingPage_SecurCar  | main | d978b63    | feat: added HTMLParte  | Feat:….  | 10/04/2024         |
+| LandingPage_SecurCar   | main | be2b1b4    | feat:added section offer and images      | Feat:…. | 09/04/2024         |
+| LandingPage_SecurCar   | main | a46db65 | feat: added section mapas and images  |Feat:…. | 09/04/2024         |
+| LandingPage_SecurCar   | main | f284b3d    | feature(LandingPage):Add SectionAboutUs   |Feat:….  | 10/04/2024         |
+| LandingPage_SecurCar  | main  | 1096c95  | feat: added stylessx and contact section   |Feat:….   | 10/04/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 En esta entrega, no se incluyeron los componentes relacionados con los servicios web, ya que en este caso solo se implemento la Landing Page.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+Se puede visualizar el video en el siguiente enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ802LC1j8hDmhP_sOLedJYBdbplYqsSNMldJEnZQhtfvg?e=t0KGDa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta entrega, nos enfocamos en Landing page, por lo que no fue necesario ningún servicio adicional.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
