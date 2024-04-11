@@ -39,8 +39,10 @@ En esta entrega, no se incluyeron los componentes relacionados con los servicios
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta entrega, nos enfocamos en Landing page, por lo que no fue necesario ningún servicio adicional.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-En este caso se uso GitHub Pages, para desplegar la Landing page, el cual nos sirvio para, a partir de un código en un repositorio poder desplegar la página. Enlace de la landing page: ?FALTA ENLACE
+En este caso se uso GitHub Pages, para desplegar la Landing page, el cual nos sirvio para, a partir de un código en un repositorio poder desplegar la página. Enlace de la landing page: securcar.github.io/LandingPage_SecurCar/
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code, Rider, Webstorm; junto con Git. En este caso se dividio la landing page mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro realizó el styles para finalmente tener el resultado deseado.
+![CommitsChanges](/feature/assets/commits.png)
 
 ## Conclusiones 
 - Para tener éxito durante la elaboración del proyecto es necesario que todos los integrantes participen y colaboren de manera equitativa, para que el proyecto pueda ser finalizado de manera rápida.
