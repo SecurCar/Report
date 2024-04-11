@@ -299,7 +299,9 @@ Distrito: Surco<br>
   </tr>
 <br>
 Duración De Entrevista: 10:35 <br>
-Link de la entrevista -> https://www.youtube.com/watch?v=j7dfsU1qxm0&ab_channel=DavidRodriguez
+
+https://1drv.ms/u/s!Amw9NbjIfdHJi3je53GaoZdJu0j-?e=Wm3lmY
+
 
 <br>
 
