@@ -15,6 +15,7 @@ Segmento Objetivo(Jóvenes entre 18-25 años)
 
 
 [URL_MIRO](https://miro.com/app/board/uXjVKVGaRnU=/#tpicker-content)
+URL: https://miro.com/app/board/uXjVKVGaRnU=/#tpicker-content
 
 # <a name="_bpcx799qz42z"></a>**3.2 User Stories**
 
