@@ -1,5 +1,6 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1 Competidores
+En la siguiente sección se presentarán los competidores, un análisis de las fortezas de nuestro servicio frente a estas.
 ![Zendrive](assets/Zendrive_Logo.jpg) <br>
 ***Zendrive:*** Zendrive es una aplicación que utiliza tecnología de inteligencia artificial para monitorear el comportamiento de conducción y proporcionar retroalimentación sobre la seguridad del conductor. Utiliza sensores de teléfonos inteligentes para recopilar datos sobre la aceleración, frenado, giros y otras métricas de conducción para evaluar el riesgo y la seguridad. <br>
 ![Life360](assets/Life360_Logo.png)<br>
