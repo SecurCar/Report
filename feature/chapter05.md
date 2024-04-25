@@ -5,46 +5,58 @@
     * ### Whatsapp:
       Una plataforma de comunicación instantánea, compatible con sistemas operativos Android e iOS, desarrollada por Meta. También dispone de una versión en línea para su uso a través de navegadores web. <br>
       [Link De Descarga](https://www.whatsapp.com/download//?l=uz&lang=es)
+      Link de Descarga: https://www.whatsapp.com/download//?l=uz&lang=es
     * ### Discord:
       Una herramienta de mensajería instantánea diseñada para organizar y facilitar reuniones internas semanales. <br>
       [Link De Descarga](https://discord.com/download)
+      Link de Descarga: https://discord.com/download
     * ### Trello:
       Una aplicación de gestión de proyectos que facilita el seguimiento de las tareas individuales de cada miembro del equipo de manera sencilla. <br>
       [Link De Registro o Inicio De Sesión](https://trello.com/es)
+      Link de Registro: https://trello.com/es
 - ### Requirement Management:
     * ### Miro:
       Un sistema que ofrece una amplia gama de plantillas diseñadas para abordar diversos aspectos en la creación y gestión de proyectos. <br>
       [Link De Registro o Inicio De Sesión](https://miro.com/es/login/)
+      Link de Registro: https://miro.com/es/login/
     * ### UXPressia:
       Es una herramienta en línea que simplifica el proceso de mapeo y comprensión de las necesidades del cliente en un proyecto determinado. <br>
       [Link De Registro o Inicio De Sesión](https://uxpressia.com)
+      Link de Registro: https://uxpressia.com
     * ### Structurizr:
       Se trata de una suite de herramientas que posibilita la creación colaborativa de modelos C4 para representar de forma gráfica nuestros productos. <br>
       [Link De Registro o Inicio De Sesión](https://structurizr.com)
+      Link de Registro: https://structurizr.com
     * ### Vertabelo:
       Una plataforma de colaboración que nos permite diseñar conjuntamente el diagrama de nuestra base de datos. <br>
       [Link De Registro o Inicio De Sesión](https://vertabelo.com)
+      Link de Registro: https://vertabelo.com
 - ###  Product UX/UI Design:
     * ### Figma:
       Una herramienta de colaboración que facilita el desarrollo conjunto de wireframes y mockups. <br>
       [Link De Registro,Inicio De Sesión y Descarga](https://www.figma.com/downloads/)
+      Link de Registro: https://www.figma.com/downloads/
     * ### LucidChart:
       Una herramienta colaborativa que posibilita la creación conjunta de wireframes flow y mockups flow. <br>
       [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
+      Link de Registro: https://www.lucidchart.com/pages/es
 - ###  Software Development:
     * ### HTML5:
       Es un lenguaje de etiquetado utilizado para crear la estructura a páginas web. Lo utilizamos para incluir componentes como texto, imágenes, enlaces, botones y videos en nuestras páginas web. <br>
       [Informacion Relacionada](https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.)
+      Información Relacionada: https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.
     * ### CSS:
       Un lenguaje de diseño gráfico utilizado para dar formato y estilo a la presentación de un documento escrito en HTML. <br>
       [Informacion Relacionada](https://developer.mozilla.org/es/docs/Web/CSS)
+      Información Relacionada: https://developer.mozilla.org/es/docs/Web/CSS
     * ### JavaScript:
       Un lenguaje de programación orientado a objetos dinámico que utilizamos para implementar funcionalidades en un documento HTML. <br>
       [Informacion Relacionada]( https://developer.mozilla.org/es/docs/Web/JavaScript )
+      Información Relacionada: https://developer.mozilla.org/es/docs/Web/JavaScript
     * ### WebStorm:
       Un entorno de desarrollo integrado (IDE) que emplearemos para trabajar con JavaScript. <br>
       [Link De Descarga]( https://www.jetbrains.com/es-es/webstorm/)
-
+      Link de Descarga: https://www.jetbrains.com/es-es/webstorm/
 - ###  Software Testing:
     * ### Lenguaje Gherkin:
       Se trata de un Lenguaje Específico de Dominio (DSL), diseñado específicamente para abordar un problema particular. Es un lenguaje comprensible para los desarrolladores, destinado a resolver necesidades concretas. <br>
@@ -52,13 +64,15 @@
     * ### Github:
       Se trata de una plataforma utilizada para el alojamiento de versiones del código fuente de un proyecto. Es una herramienta ampliamente popular en el trabajo colaborativo de programadores. <br>
       [Link De Descarga]( https://desktop.github.com)
+      Link de Descarga: htts://desktop.github.com
       [Link De Registro o Inicio De Sesión](https://github.com/login)
+      Link de Registro: https://github.com/login
 - ###  Software Deployment:
     * ### Github Pages:
       Una plataforma que posibilita la realización de despliegues simples directamente desde un repositorio de GitHub. <br>
 
 ### 5.1.2. Source Code Management.
-Landing Page Repository: [Landing Page Repository](https://github.com/SecurCar/LandingPage_SecurCar.git)
+Landing Page Repository: [Landing Page Repository](https://github.com/SecurCar/LandingPage_SecurCar.git) https://github.com/SecurCar/LandingPage_SecurCar.git
 - #### GitFlow Implementation:
 Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto
 ![Gitflow Vincent Driessen ](assets/Gitflow_graphic.png)
