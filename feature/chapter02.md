@@ -1,6 +1,6 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1 Competidores
-En la siguiente sección se presentarán los competidores, un análisis de las fortezas de nuestro servicio frente a estas.
+En la siguiente sección se presentarán los competidores, un análisis de las fortalezas de nuestro servicio frente a estas.
 ![Zendrive](assets/Zendrive_Logo.jpg) <br>
 ***Zendrive:*** Zendrive es una aplicación que utiliza tecnología de inteligencia artificial para monitorear el comportamiento de conducción y proporcionar retroalimentación sobre la seguridad del conductor. Utiliza sensores de teléfonos inteligentes para recopilar datos sobre la aceleración, frenado, giros y otras métricas de conducción para evaluar el riesgo y la seguridad. <br>
 ![Life360](assets/Life360_Logo.png)<br>
@@ -96,7 +96,7 @@ En la siguiente sección se presentarán los competidores, un análisis de las f
             </td>
 			<td>
                 <ul>
-                    <li>Puede usar sistemas especializados en cierto casos.</li>
+                    <li>Puede usar sistemas especializados en ciertos casos.</li>
                 </ul>
             </td>
 		</tr>
@@ -127,7 +127,7 @@ En la siguiente sección se presentarán los competidores, un análisis de las f
 			<td>Oportunidades</td>
 			<td>
                 <ul>
-                    <li>Reconoce el estado del auto y notificar al usuario.</li>
+                    <li>Reconoce el estado del auto y notifica al usuario.</li>
                 </ul>
             </td>
 			<td>
@@ -208,7 +208,7 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 * ¿Cómo creen que una aplicación podría mejorar su seguridad y la de su vehículo?
 5. Feedback sobre el modelo de suscripción
 * ¿Estarían dispuestos a pagar por un servicio de seguridad vehicular basado en suscripción mensual?
-* ¿Qué características o beneficios considerarían más valiosos para justificar el costo de la suscripción?
+* ¿Qué características o beneficios consideran más valiosos para justificar el costo de la suscripción?
 6. Cierre
 * Preguntas finales y agradecimiento por su tiempo.
 * Invitación a proporcionar cualquier información adicional que consideren relevante.
@@ -242,7 +242,7 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
   Inicio de Entrevista: 00:15 <br>
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br> 
   URL : https://shorturl.at/pyN12
-  Resumen de entrevista: Segun las respuestas proporcionadas por el entrevistado, sufrio un robo a mano armada y desde ese evento siempre tiene un miedo constante. Considera que una aplicación podría mejorar su seguridad al proporcionar alertas en tiempo real sobre áreas de alto riesgo y ofrecerle la posibilidad de contactar a la policia.  Estaría dispuesto a pagar por un servicio de seguridad vehicular de manera mensual si cumple sus expectativas.
+  Resumen de entrevista: Según las respuestas proporcionadas por el entrevistado, sufrió un robo a mano armada y desde ese evento siempre tiene un miedo constante. Considera que una aplicación podría mejorar su seguridad al proporcionar alertas en tiempo real sobre áreas de alto riesgo y ofrecerle la posibilidad de contactar a la policía.  Estaría dispuesto a pagar por un servicio de seguridad vehicular de manera mensual si cumple sus expectativas.
 
 
 - **Taxistas Experimentados:**
@@ -255,7 +255,7 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
     URL : https://shorturl.at/pyN12
 
-  Resumen de entrevista: Según las respuestas proporcionadas, el entrevistado, ha sufrido un intento de robo al momento de dejar estacionado su vehiculo donde intentaron abrir el carro, pero no lo lograron. Asimismo, menciona que este suceso le ha sucedido como 3 veces a más. Considera que una aplicación seria lo ideal para sentirse más seguro al proporcionar alertas en tiempo real sin demora, donde se conecte con el celular y sobretodo que tenga una conexión rápida. Asimismo, estaría dispuesto a pagar por un servicio de seguridad vehicular de manera mensual donde cumpla sus expectativas.
+  Resumen de entrevista: Según las respuestas proporcionadas, el entrevistado, ha sufrido un intento de robo al momento de dejar estacionado su vehículo donde intentaron abrir el carro, pero no lo lograron. Asimismo, menciona que este suceso le ha sucedido como 3 veces a más. Considera que una aplicación seria lo ideal para sentirse más seguro al proporcionar alertas en tiempo real sin demora, donde se conecte con el celular y sobretodo que tenga una conexión rápida. Asimismo, estaría dispuesto a pagar por un servicio de seguridad vehicular de manera mensual donde cumpla sus expectativas.
 
 
   - **Taxistas Experimentados:**
@@ -294,7 +294,7 @@ Inicio de Entrevista: 26:40 <br>
 [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
   URL : https://shorturl.at/pyN12
 
-Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, expresa sus anhelos a la aplicación, mencionando que le gustaria que existiesen funciones para saber donde se encuentra su carro, debido a que a veces lo pierde de vista. Ademas menciona que si le gustaria que de consejos sobre que hacer en ciertas situaciones. También le gustaría que recomiende mejores, rutas, que te ayude a llevar los papeles del carro, cuando se vencerán y que te advierta sobre estos. Ella estaría dispuesto a pagar por un precio accesible y con beneficios a largo plazo, le gustaría que tenga descuentos por si eres estudiante o si tiene convenios con otras empresas.
+Resumen de entrevista: Según las respuestas proporcionadas por la entrevistada, expresa sus anhelos a la aplicación, mencionando que le gustaría que existiesen funciones para saber donde se encuentra su carro, debido a que a veces lo pierde de vista. Además menciona que si le gustaria que de consejos sobre qué hacer en ciertas situaciones. También le gustaría que recomiende mejores rutas, que te ayude a llevar los papeles del carro, cuando se vencerán y que te advierta sobre estos. Ella estaría dispuesta a pagar por un precio accesible y con beneficios a largo plazo, le gustaría que tenga descuentos por si eres estudiante o si tiene convenios con otras empresas.
 
 **Entrevista #3** <br>
 Nombre y apellidos: Leonardo Lopez <br>
@@ -334,7 +334,7 @@ Leonardo López, durante la entrevista, mostró un gran interés en nuestra idea
 
 
 
-\-	Análisis del Segmento Objetivo #2 (Jovenes Conductores)
+\-	Análisis del Segmento Objetivo #2 (Jóvenes Conductores)
 
 |Preguntas|Respuestas Generales|
 | :-: | :-: |
@@ -409,9 +409,9 @@ Leonardo López, durante la entrevista, mostró un gran interés en nuestra idea
 </tr>
 <tr>
     <td >Leer noticias relacionadas con la seguridad vial y prevención de robos</td>
-    <td >Periodica</td>
+    <td >Periódica</td>
     <td >Baja</td>
-    <td >Periodica</td>
+    <td >Periódica</td>
     <td >Baja</td>
 </tr>
 <tr>
@@ -435,7 +435,7 @@ Se ha elaborado el User Journey Mapping para cada segmento objetivo: jóvenes y 
 ![User Journey Mapping - Segmento 2](assets/userJourneyMap-segmento2-jovenes.png)
 
 ### 2.3.4. Empathy Mapping.
-Se ha elaborado el Empathy Mappisng utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.
+Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.
 
 - Empathy Mapping Primer Segmento Objetivo: Taxistas Adultos
   ![UserPersona_Segmento1](assets/EmpathyMapping_Seg01.png)
