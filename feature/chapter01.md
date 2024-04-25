@@ -23,10 +23,10 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 | LAS 5W y 2H | Pregunta | Descripción |
 |-------------|----------|-------------|
 | Who?        |¿Quién es afectado?| Los afectados son los jóvenes de entre 18 a 24 años de edad, y personas quienes dependan de un vehículo como ingreso directo: taxistas, chofere, deliveries. |
-| What?       | ¿Cuál es el problema? | El problema es la falta de seguridad que afronta el país respecto a los vehículos, además de la falta de herramientas para poder solucionar o, en su defecto, mitigar este tipo de problemas. |
+| What?       | ¿Cuál es el problema? | El problema es la falta de seguridad en cuanto a robos vehiculares que afronta el país, además de la falta de herramientas para poder solucionar o, en su defecto, mitigar este tipo de problemas. |
 | When?       | ¿Cuándo sucede el problema? | El problema sucede principalmente cuando los vehículos son estacionados: usualmente en un periodo corto de tiempo, como también los asaltos a mano armada.|
-| Where?      | ¿Dónde surge el problema? | El problema surge en todo el país, aunque la foco de asaltos y robos es en la capital siendo la zona más poblada y urbana del Perú. | 
-| Why?        | ¿Cuál es la causa del problema? | Una de las causas principales es la falta de herramientas para poder salvaguardar los vehículos, tener seguimientos de estos o poder hacer algo en general. |
+| Where?      | ¿Dónde surge el problema? | El problema surge en todo el Perú, aunque la foco de asaltos y robos es en la capital siendo la zona más poblada y urbana de Lima. | 
+| Why?        | ¿Cuál es la causa del problema? | Una de las causas principales es la falta de herramientas para poder salvaguardar los vehículos, es decir, tener seguimientos de estos. |
 | How?        | ¿Qué llevó a la persona a esta situación? | Para que un robo se genere, usualmente sucede por el público objetivo de los fascinerosos quienes son los jóvenes principalmente. |
 | How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | En zonas urbanas, no en el Perú únicamente, los robos son de intensidad alta y la duración suele ser en minutos (1 o 2 aproximadamente). |
 ### 1.2.2 Lean UX Process
