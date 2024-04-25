@@ -1,7 +1,8 @@
 # Capítulo III: Requirements Specification
 ## <a name="_h9hrfqva6r5m"></a>**3.1. To-Be Scenario Mapping.**
 
-Segmento Objetivo (Taxistas que buscan soluciones para asegurar el estacionamiento y proteger sus vehículos de robos frecuentes)
+Segmento Objetivo:
+Taxistas que buscan soluciones para asegurar el estacionamiento y proteger sus vehículos de robos frecuentes
 
 
 ![TobeConductor](assets/TobeConductor.jpg)
@@ -9,7 +10,8 @@ Segmento Objetivo (Taxistas que buscan soluciones para asegurar el estacionamien
 <br>
 
 
-Segmento Objetivo(Jóvenes entre 18-25 años)
+Segmento Objetivo:
+Jóvenes entre 18-25 años
 
 ![TobeJoven](assets/TobeJoven.jpg)
 
