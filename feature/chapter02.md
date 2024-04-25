@@ -240,7 +240,8 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
   Distrito: Santiago de Surco <br>
   ![Entrevista_Seg03_AlonsoCarrillo](assets/Registro_Entrevista_Seg01_AlonsoCarrillo.png)<br>
   Inicio de Entrevista: 00:15 <br>
-  [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
+  [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br> 
+  URL : https://shorturl.at/pyN12
   Resumen de entrevista: Segun las respuestas proporcionadas por el entrevistado, sufrio un robo a mano armada y desde ese evento siempre tiene un miedo constante. Considera que una aplicación podría mejorar su seguridad al proporcionar alertas en tiempo real sobre áreas de alto riesgo y ofrecerle la posibilidad de contactar a la policia.  Estaría dispuesto a pagar por un servicio de seguridad vehicular de manera mensual si cumple sus expectativas.
 
 
@@ -252,6 +253,8 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
   ![Entrevista_Seg01_MaykolValencia](assets/Registro_Entrevista_Seg01_JoanTalizo.png)<br>
   Inicio de Entrevista: 05:51 <br>
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
+    URL : https://shorturl.at/pyN12
+
   Resumen de entrevista: Según las respuestas proporcionadas, el entrevistado, ha sufrido un intento de robo al momento de dejar estacionado su vehiculo donde intentaron abrir el carro, pero no lo lograron. Asimismo, menciona que este suceso le ha sucedido como 3 veces a más. Considera que una aplicación seria lo ideal para sentirse más seguro al proporcionar alertas en tiempo real sin demora, donde se conecte con el celular y sobretodo que tenga una conexión rápida. Asimismo, estaría dispuesto a pagar por un servicio de seguridad vehicular de manera mensual donde cumpla sus expectativas.
 
 
@@ -263,6 +266,8 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
   ![URL de entrevista](assets/Registro_Entrevista_Seg01_CarlosQuispe.png)<br>
   Inicio de Entrevista: 14:15 <br>
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
+    URL : https://shorturl.at/pyN12
+
   Resumen de entrevista: El señor Carlos nos cuenta sus preocupaciones respecto a su unidad de trabajo, y además nos cuenta que ya usa un sistema de vigilancia (en parte funcional) que es el GPS pero desearía que sea más eficiente. Nos cuenta que también  le gustaría que nuestro sistema sea cómodo para el bolsillo. Si cumple con funcionalidades que son específicas para este segmento entonces estaría dispuesto a usarlo.
 
 
@@ -275,6 +280,8 @@ Distrito: Chorrillos<br>
 ![Entrevista_Seg02_RenzoEnciso](assets/Registro_Entrevista_Seg02_RenzoEnciso.png) <br>
 Inicio De Entrevista: 21:38 <br>
 [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+  URL : https://shorturl.at/pyN12
+
 Resumen De Entrevista: Según las respuestas proporcionadas, el entrevistado expresa preocupaciones clave en relación a la seguridad al conducir, destacando el temor al robo del vehículo y la seguridad personal durante los viajes. Su uso frecuente de aplicaciones móviles incluye herramientas de navegación y redes sociales para mantenerse conectado mientras está en movimiento. Considera que una aplicación móvil podría mejorar significativamente su seguridad al proporcionar alertas en tiempo real sobre áreas de alto riesgo y funciones de rastreo de vehículos. Valora especialmente características como alertas de robo, asistencia en caso de emergencia y consejos sobre seguridad vial, buscando una interfaz intuitiva y atractiva. Estaría dispuesto a pagar por un servicio de seguridad vehicular si ofrece beneficios como prevención de robos eficaz y asistencia en emergencias, destacando la importancia de una comunidad activa de usuarios y un equipo de soporte receptivo.
 
 
@@ -285,6 +292,8 @@ Distrito: Magdalena del mar <br>
 ![Entrevista_Seg02_DanielaChavez](assets/Registro_Entrevista_Seg02_DanielaChavez.png)<br>
 Inicio de Entrevista: 26:40 <br>
 [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
+  URL : https://shorturl.at/pyN12
+
 Resumen de entrevista: Segun las respuestas proporcionadas por la entrevistada, expresa sus anhelos a la aplicación, mencionando que le gustaria que existiesen funciones para saber donde se encuentra su carro, debido a que a veces lo pierde de vista. Ademas menciona que si le gustaria que de consejos sobre que hacer en ciertas situaciones. También le gustaría que recomiende mejores, rutas, que te ayude a llevar los papeles del carro, cuando se vencerán y que te advierta sobre estos. Ella estaría dispuesto a pagar por un precio accesible y con beneficios a largo plazo, le gustaría que tenga descuentos por si eres estudiante o si tiene convenios con otras empresas.
 
 **Entrevista #3** <br>
@@ -300,6 +309,8 @@ Distrito: Surco<br>
 Duración De Entrevista: 10:35 <br>
 
 [URL_De_Entrevista](https://1drv.ms/u/s!Amw9NbjIfdHJi3je53GaoZdJu0j-?e=Wm3lmY)
+  URL : https://shorturl.at/pyN12
+
 
 
 <br>
