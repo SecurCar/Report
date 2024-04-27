@@ -1,7 +1,7 @@
 # **Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
-- ### Proyect Management:
+- ### Project Management:
     * ### Whatsapp:
       Una plataforma de comunicación instantánea, compatible con sistemas operativos Android e iOS, desarrollada por Meta. También dispone de una versión en línea para su uso a través de navegadores web. <br>
       [Link De Descarga](https://www.whatsapp.com/download//?l=uz&lang=es)
