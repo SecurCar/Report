@@ -1,5 +1,7 @@
 ## **Capítulo IV: Product Design
+El product design será fundamental para nuestro trabajo, ya que nos permitirá crear soluciones centradas en el usuario que aborden de manera efectiva los desafíos identificados. Utilizaremos este enfoque para diseñar productos y servicios que sean intuitivos, atractivos y que cumplan con las expectativas y necesidades de nuestros usuarios. Esto nos ayudará a generar valor para nuestros clientes y a alcanzar nuestros objetivos comerciales de manera más eficiente.
 ### 4.1. Style Guidelines.
+Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros trabajos creativos. A continuación, se detallan las especificaciones de los parámetros implementados en la estructura del proyecto.
 #### 4.1.1. General Style Guidelines.
 **Branding**<br>
 En este caso se decidio que el icono de la aplicación tenga un diseño sencillo. El fondo es de color lila, con una línea de un tono más claro que atraviesa el fondo, seguida por una tonalidad gradualmente más oscura de lila. Además se usó un logo representativo, un auto dentro de un escudo que se da a entender que buscamos proteger la seguridad del coche.<br>
@@ -129,6 +131,8 @@ Asimismo se usará la barra de búsqueda para que las personas busquen sus neces
 ![Drop](/feature/assets/Drop.png)
 
 ### 4.3. Landing Page UI Design.
+El diseño de la interfaz de usuario para nuestra landing page será crucial para nuestro proyecto, ya que es la primera impresión que tendrán los usuarios de nuestro producto. Nos permitirá crear una experiencia visualmente atractiva y funcional que capture la atención de los visitantes y los motive a explorar más.
+<br><br>
 En este caso se diseño de esta debido a su simplicidad, con colores claros como el verde, debido a que representa bien nuestra búsqueda de ayudar al medio ambiente. Tambien esta diseñada de esta forma para que los usuarios estén cómodos usandola leyendo en F. Asimismo es web responsive para que pueda ser abierta en cualquier dispositivo en dimensiones adecuadas.
 
 #### 4.3.1. Landing Page Wireframe.
@@ -210,6 +214,7 @@ Link a nuestra herramienta de trabajo (Overflow): https://overflow.io/s/CTHUF09R
 ![Web Applications Prototyping.png](/feature/assets/Web%20Applications%20Prototyping.png)
 Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/proto/LdjqHSAnx8sjwCGO22vsd2/Web-Applications-Mock-ups?type=design&node-id=1-2&t=WE1YznWl7P9oqYN7-1&scaling=min-zoom&page-id=0%3A1&mode=design
 ### 4.6. Domain-Driven Software Architecture.
+El desarrollo de software basado en la arquitectura orientada al dominio (DDD) será fundamental para nuestro proyecto. Esta metodología nos permitirá diseñar sistemas de software que reflejen de manera precisa y efectiva el dominio del problema que estamos abordando. Al aplicar los principios de DDD, podremos identificar y modelar correctamente las entidades, agregados y contextos del dominio, lo que nos permitirá construir una arquitectura de software flexible, escalable y fácil de mantener.
 #### 4.6.1. Software Architecture Context Diagram.
 A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos permitirá establecer un buen punto de partida para poder diagramar y documentar nuestro sistema de manera general.
 
@@ -249,6 +254,7 @@ A continuación, se mostrará el Component Diagram en el cual se descompone el c
 Link del structuriz -> https://structurizr.com/workspace/77547/diagrams#Contexto
 
 ### 4.7. Software Object-Oriented Design.
+El diseño orientado a objetos del software será esencial para nuestro proyecto. Esta metodología nos permitirá estructurar nuestro sistema de manera modular y escalable, aprovechando los principios de encapsulamiento, herencia y polimorfismo para crear componentes reutilizables y de fácil mantenimiento.
 #### 4.7.1. Class Diagrams.
 ![Diagrama](/feature/assets/ClassDiagram.png)<br>
 #### 4.7.2. Class Dictionary.
@@ -263,6 +269,7 @@ Link del structuriz -> https://structurizr.com/workspace/77547/diagrams#Contexto
 - ***RealTimeLocationSharing***: Representa la raíz de agregado para las funciones de compartir ubicación en tiempo real de la aplicación. Contiene el método compartirUbicacionConContactos().
 - ***AssistanceService***: Representa la raíz de agregado para los servicios de asistencia de la aplicación. Contiene el método solicitarAsistencia().
 ### 4.8. Database Design.
+El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar los datos de manera eficiente y segura. Utilizaremos un enfoque cuidadoso para modelar las tablas, relaciones y restricciones de la base de datos de acuerdo con los requisitos del sistema y las mejores prácticas de diseño. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y manipulación en respuesta a las solicitudes de los usuarios.
 #### 4.8.1. Database Diagram.
 ![DiagramaDB](/feature/assets/DiagramDB.png)<br>
 
