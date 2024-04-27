@@ -1,6 +1,9 @@
 # Capítulo III: Requirements Specification
-## <a name="_h9hrfqva6r5m"></a>**3.1. To-Be Scenario Mapping.**
+La especificación de requisitos será una etapa crucial en nuestro trabajo, ya que nos permitirá definir claramente los objetivos y las funcionalidades que nuestro producto debe cumplir.
 
+## <a name="_h9hrfqva6r5m"></a>**3.1. To-Be Scenario Mapping.**
+El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o flujo de trabajo deseado en el futuro después de implementar las mejoras propuestas. Nos ayuda a identificar los cambios necesarios en los procesos actuales y a diseñar soluciones para optimizarlos. Al crear escenarios "To-Be", podemos visualizar claramente cómo se verá el proceso una vez que se implementen las mejoras, lo que nos permite comunicar mejor la visión del proyecto y alinear a todas las partes interesadas en torno a los objetivos comunes. Esto facilita la planificación y la implementación efectiva de los cambios para lograr los resultados deseados.
+<br><br>
 Segmento Objetivo:
 Taxistas que buscan soluciones para asegurar el estacionamiento y proteger sus vehículos de robos frecuentes
 
@@ -20,6 +23,8 @@ Jóvenes entre 18-25 años
 URL: https://miro.com/app/board/uXjVKVGaRnU=/#tpicker-content
 
 # <a name="_bpcx799qz42z"></a>**3.2 User Stories**
+Las User Stories, o historias de usuario, son descripciones breves y centradas en el usuario de una funcionalidad específica del producto. Nos ayudan a comprender las necesidades y expectativas de nuestros usuarios al abordar qué quieren lograr y por qué. Al escribir User Stories, nos centramos en el valor que proporcionará la funcionalidad para el usuario y en cómo la utilizará en su contexto. Esto nos permite priorizar las características del producto de acuerdo con su importancia para el usuario y desarrollar soluciones que realmente resuelvan sus problemas y satisfagan sus necesidades.
+<br>
 
 <table><tr><th valign="top">Epic/User<br>Story ID</th><th valign="top">Título</th><th valign="top">Descripción</th><th valign="top">Criterios de aceptación</th><th valign="top">Relacionado con (Epic ID)</th></tr>
 <tr><td valign="top"><p></p><p></p><p></p><p>HU1</p></td><td valign="top"><p></p><p></p><p>Protección contra robos y alertas de seguridad.</p><p></p></td><td valign="top">Como joven conductor, quiero activar la función de seguridad en la aplicación para proteger mi automóvil contra robos y recibir alertas instantáneas en caso de actividad sospechosa.</td><td valign="top"><p>Dado que estoy estacionando mi automóvil,</p><p>Cuando activo la función de seguridad en la aplicación,</p><p>Entonces la aplicación detecta movimientos no autorizados y envía una alerta instantánea a mi dispositivo móvil.</p><p></p></td><td rowspan="2" valign="top"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>Epic 1</p></td></tr>
@@ -69,8 +74,8 @@ Después de completar el formulario, el usuario debe recibir una confirmación d
 
 
 # <a name="_bpcx799qz42z"></a>**3.3 IMPACT MAPPING**
-
-
+Impact Mapping es una herramienta poderosa que nos ayudará a visualizar y planificar cómo nuestro proyecto puede generar un impacto significativo en nuestros usuarios y en nuestro objetivo final. Nos permitirá identificar claramente los resultados deseados, los comportamientos esperados de nuestros usuarios y las acciones necesarias para alcanzar esos objetivos. Al utilizar Impact Mapping, podremos alinear mejor nuestras actividades con nuestros objetivos, tomar decisiones más informadas y maximizar el impacto de nuestro proyecto.
+<br><br>
 Segmento 1: Taxistas que buscan soluciones para asegurar el estacionamiento y proteger sus vehículos de robos frecuentes
 
 
@@ -85,7 +90,8 @@ Segmento 2: Jóvenes entre 18-25 años
 MIRO LINK : <https://miro.com/app/board/uXjVKXzElHA=/#tpicker-content>
 
 # <a name="_bpcx799qz42z"></a>**3.4 PRODUCT BACKLOG**
-
+El Product Backlog es una lista dinámica y priorizada de todas las características, funcionalidades, mejoras y correcciones que se planea incluir en el producto. Nos ayuda a mantener un registro organizado de todo lo que se desea implementar, permitiéndonos priorizar de manera efectiva las tareas según su importancia y valor para el cliente. Esto nos permite tener una visión clara y actualizada de lo que se debe hacer en el proyecto, lo que facilita la planificación, el seguimiento y la toma de decisiones durante el desarrollo del producto.
+<br>
 
 **Product Backlog:**
 
