@@ -42,6 +42,7 @@ Las imágenes usadas son de licencia libre y guardan relación con el objetivo d
 La tendencia web escogida fue de degradado y se optó por el patrón de diseño F, estas decisiones fueron tomadas con el objetivo de generar la mayor cantidad de interés en el espectador para así lograr que se interesen en nuestra aplicación.
 
 ### 4.2. Information Architecture.
+Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.
 #### 4.2.1. Organization Systems.
 El propósito del sistema de organización de la página es establecer la estructura visual del contenido y la navegación en la misma. En el caso de SecurCar , el esquema de organización de contenido se divide en módulos y se enfoca en los siguientes temas:
 
@@ -150,6 +151,7 @@ Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/SZSM54
 ![Landing5](/feature/assets/Landing5.png)
 Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/file/SZSM54wn8R9fkVfBQgHHDA/SecurCar?type=design&node-id=0%3A1&mode=design&t=imWmXTgxfbi4CoPl-1
 ### 4.4. Web Applications UX/UI Design.
+El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) para aplicaciones web implica crear una experiencia digital que sea intuitiva, eficiente y satisfactoria para los usuarios. La UX se centra en comprender las necesidades y expectativas del usuario, así como en diseñar flujos de trabajo y arquitectura de información que faciliten la interacción. Por otro lado, la UI se refiere al aspecto visual de la aplicación, incluyendo el diseño de elementos como botones, menús, y la disposición de contenido. Un diseño UX/UI efectivo combina la estética atractiva con la funcionalidad fácil de usar, lo que resulta en una experiencia positiva y memorable para los usuarios.
 #### 4.4.1. Web Applications Wireframes.
 ![Web Applications Wireframe - Inicio de sesión](/feature/assets/Web%20application%20-%20Inicio%20de%20sesión.png)
 
