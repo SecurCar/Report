@@ -22,7 +22,7 @@ Se escogió esta tipografía debido a que proyecta simplicidad, y un toque moder
 En este caso el tono de comunicación elegido, por la naturaleza de la aplicación, será serio, formal y sereno.
 
 **Components**
-Ademas los anteriores decidimos agregar algunos componentes que nos ayudarán a la elaboración del landing page.<br>
+Además de los anteriores, decidimos agregar algunos componentes que nos ayudarán a la elaboración del landing page.<br>
 ![Components](/feature/assets/components.png)<br>
 
 
@@ -129,7 +129,7 @@ Asimismo se usará la barra de búsqueda para que las personas busquen sus neces
 ![Drop](/feature/assets/Drop.png)
 
 ### 4.3. Landing Page UI Design.
-En este caso se diseño de esta debido a su simplicidad, con colores claros como el verde, debido a que representa bien nuestra búsqueda de ayudar al medio ambiente. Tambien esta diseñada de esta forma para que los usuarios esten cómodos usandola leyendo en F. Asimismo tambien es web responsive para que pueda ser abierta en cualquier dispositivo en dimensiones adecuadas.
+En este caso se diseño de esta debido a su simplicidad, con colores claros como el verde, debido a que representa bien nuestra búsqueda de ayudar al medio ambiente. Tambien esta diseñada de esta forma para que los usuarios estén cómodos usandola leyendo en F. Asimismo es web responsive para que pueda ser abierta en cualquier dispositivo en dimensiones adecuadas.
 
 #### 4.3.1. Landing Page Wireframe.
 ![Wireframe1](/feature/assets/wire1.png)
