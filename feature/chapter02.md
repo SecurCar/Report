@@ -1,4 +1,5 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
+La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de cualquier proyecto. Este proceso implica identificar, comprender y documentar las necesidades y expectativas de los stakeholders, así como los objetivos y restricciones del proyecto. Mediante diversas técnicas como entrevistas, encuestas y talleres de trabajo colaborativo, se busca obtener una comprensión clara y detallada de lo que se espera lograr con el proyecto. El análisis de estos requisitos permite establecer una base sólida para el diseño y desarrollo posterior, asegurando que el producto final satisfaga las necesidades del usuario y cumpla con los objetivos del negocio.
 ## 2.1 Competidores
 En la siguiente sección se presentarán los competidores, un análisis de las fortalezas de nuestro servicio frente a estas.
 ![Zendrive](assets/Zendrive_Logo.jpg) <br>
@@ -8,6 +9,8 @@ En la siguiente sección se presentarán los competidores, un análisis de las f
 ![Life360](assets/Hum_Logo.jpg)<br>
 ***Hum by Verizon:*** Hum by Verizon es un dispositivo conectado para automóviles que ofrece una variedad de características relacionadas con la seguridad, el diagnóstico del vehículo y la asistencia en carretera. Permite a los conductores monitorear la salud de su vehículo, recibir alertas de mantenimiento y acceder a servicios de asistencia en carretera con solo presionar un botón.
 ## 2.1.1 Análisis Competitivo
+El análisis competitivo es una herramienta fundamental para comprender el panorama en el que opera una empresa o proyecto. Este análisis implica la evaluación de los competidores directos e indirectos en el mercado, así como sus fortalezas, debilidades, oportunidades y amenazas. Proporciona información valiosa sobre cómo se posiciona el producto o servicio en comparación con otros en el mercado, identificando áreas de oportunidad y posibles riesgos.
+<br>
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
@@ -173,6 +176,8 @@ En la siguiente sección se presentarán los competidores, un análisis de las f
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+Para destacar frente a la competencia, es crucial desarrollar estrategias y tácticas efectivas que permitan diferenciar nuestro producto o servicio y captar la atención del mercado. Algunas estrategias y tácticas que podríamos considerar incluyen:
+<br>
 1.  **Diferenciación del Producto:**
     *   Integra características de gamificación para incentivar hábitos de conducción seguros y premiar a los usuarios jóvenes.
     *   Ofrece opciones de personalización como alertas específicas para padres o tutores sobre la conducción de sus hijos.
@@ -192,7 +197,8 @@ En la siguiente sección se presentarán los competidores, un análisis de las f
 ## 2.2. Entrevistas.
 El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
 ### 2.2.1. Diseño de entrevistas.
-* ** **
+El diseño de entrevistas nos permitirá recopilar información valiosa sobre las experiencias, perspectivas y necesidades de nuestro grupo objetivo. Esto nos ayudará a comprender mejor sus preocupaciones y expectativas, lo que a su vez nos permitirá desarrollar soluciones más efectivas y adaptadas a sus requerimientos. Además, nos brindará la oportunidad de establecer una conexión significativa con nuestros usuarios, fortaleciendo así nuestra relación con ellos y mejorando la calidad de nuestro producto o servicio.
+<br>
 ### Entrevista para Taxistas:
 1. Introducción
 * Saludo y agradecimiento por su participación.
@@ -321,7 +327,9 @@ Leonardo López, durante la entrevista, mostró un gran interés en nuestra idea
 
 
   ### 2.2.3. Análisis de entrevistas.
-\-	Análisis del Segmento Objetivo #1 (Conductores Corporativos)
+El análisis de entrevistas nos permite profundizar en la comprensión de las necesidades, deseos y comportamientos de nuestros usuarios, lo que a su vez informa la toma de decisiones en el diseño y desarrollo de productos o servicios orientados al usuario.
+<br><br>
+-	Análisis del Segmento Objetivo #1 (Conductores Corporativos)
 
 |Preguntas|Respuestas Generales|
 | :-: | :-: |
@@ -334,7 +342,7 @@ Leonardo López, durante la entrevista, mostró un gran interés en nuestra idea
 
 
 
-\-	Análisis del Segmento Objetivo #2 (Jóvenes Conductores)
+-	Análisis del Segmento Objetivo #2 (Jóvenes Conductores)
 
 |Preguntas|Respuestas Generales|
 | :-: | :-: |
@@ -346,6 +354,7 @@ Leonardo López, durante la entrevista, mostró un gran interés en nuestra idea
 
 
 ## 2.3. Needfinding.
+El proceso de needfinding nos permite identificar problemas reales que enfrentan los usuarios y descubrir oportunidades de diseño que pueden llevar a soluciones innovadoras y centradas en el usuario.
 ### 2.3.1. User Personas.
 - User Persona Primer Segmento Objetivo: Taxistas Adultos
 ![UserPersona_Segmento1](assets/UserPersona__Segmento1.png)
@@ -426,6 +435,8 @@ Leonardo López, durante la entrevista, mostró un gran interés en nuestra idea
 </table>
 
 ### 2.3.3. User Journey Mapping
+El User Journey Mapping es una herramienta  para comprender la experiencia del usuario de manera holística, lo que permite a los equipos de diseño crear productos y servicios que se alineen mejor con las necesidades y expectativas de los usuarios.
+<br><br>
 Se ha elaborado el User Journey Mapping para cada segmento objetivo: jóvenes y taxistas. Tomamos de referencias a nuestro user personas como los datos brindados por las entrevistas.
 
 - User Journey Mapping Primer Segmento Objetivo: Taxistas adultos
@@ -456,7 +467,8 @@ Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas 
 Link a nuestra herramienta de trabajo (Miro): https://miro.com/app/board/uXjVKX__U2Y=/?share_link_id=689816697400
 
 ## 2.4. Ubiquitous Language
-
+El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya que nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo, facilitando la comunicación y la comprensión de los conceptos clave en nuestro proyecto.
+<br><br>
 ***User***: Individuals who rely on their vehicles for daily transportation.
 
 ***User***: Active professionals who value safety and efficiency in parking their vehicles in congested urban areas.
