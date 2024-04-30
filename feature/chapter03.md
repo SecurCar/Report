@@ -87,7 +87,7 @@ Segmento 2: Jóvenes entre 18-25 años
 ![SegmentoJoven](assets/renzo2.jpg)
 <br>
 
-MIRO LINK : <https://miro.com/app/board/uXjVKXzElHA=/#tpicker-content>
+MIRO LINK : <https://miro.com/app/board/uXjVKNLxK1E=/ >
 
 # <a name="_bpcx799qz42z"></a>**3.4 PRODUCT BACKLOG**
 El Product Backlog es una lista dinámica y priorizada de todas las características, funcionalidades, mejoras y correcciones que se planea incluir en el producto. Nos ayuda a mantener un registro organizado de todo lo que se desea implementar, permitiéndonos priorizar de manera efectiva las tareas según su importancia y valor para el cliente. Esto nos permite tener una visión clara y actualizada de lo que se debe hacer en el proyecto, lo que facilita la planificación, el seguimiento y la toma de decisiones durante el desarrollo del producto.
