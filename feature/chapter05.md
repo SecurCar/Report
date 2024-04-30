@@ -488,32 +488,37 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la l
     </table>
 
 #### 5.2.2.2. Sprint Backlog 2.
-| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
-| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| US31 | Navegar a la Página de Inicio     | TS01 |Header and NavBar responsivos (Desarrollado en HTML, CSS y JS).          | Implementación del header y la barra de navegación, siguiendo los estándares “Responsive”  | 3                  | Luiggi  | Done                                   |
-| US32 | Obtener mayor información acerca de los beneficios    | TS02 | Sección de Testimonios (Desarrollado en HTML, CSS y JS).       | Implementación de la sección de testimonios en la Landing Page, siguiendo los estándares “Responsive”  | 3                  | Balbín | Done                                   |
-| US33 | Contacto con soporte           | TS03 | Sección del Footer (Desarrollado en HTML, CSS y JS).                              | Implementación del footer en la Landing Page, siguiendo los estándares “Responsive”.           | 2                  | David   | Done                                   |
-
+| id | Title | Id | Title | Description | Estimations | Assigned To | Status |
+| - | - | - | - | - | - | - | - |
+| US01 | Protección contra robos y alertas de seguridad | TS01 | Sección de ajustes de notificaciones sobre alertas en información del vehículo | Como joven conductor, quiero activar la función de seguridad en la aplicación para proteger mi automóvil contra robos y recibir alertas instantáneas en caso de actividad sospechosa. | 2 hora(s) y 30 minuto(s) | David | Done |
+| US02 | Geolocalización y rastreo en tiempo real. | TS01 | Sección de nombre del vehículo con rastrear elemento en información del vehículo | Como joven conductor, quiero activar la función de seguridad en la aplicación para proteger mi automóvil contra robos y recibir alertas instantáneas en caso de actividad sospechosa. | 1 hora(s) y 0 minuto(s) | David | Done |
+| US03 | Recomendaciones personalizadas de seguridad. | TS02 | Sección de recomendaciones de seguridad en mensajes | Como propietario de un automóvil, quiero recibir recomendaciones personalizadas sobre medidas de seguridad adicionales según las áreas de alto riesgo de robo en mi área. | 1 hora(s) y 0 minuto(s) | Rubén | Done |
+| US05 | Compartir ubicación con contactos de confianza. | TS03 | Compartir la ubicación del vehículo dentro de la sección de compartir vehículo | Como conductor joven, quiero poder compartir mi ubicación en tiempo real con contactos de confianza a través de la aplicación para garantizar mi seguridad. | 1 hora(s) y 30 minuto(s) | David | Done |
+| US10 | Recordatorios de límites de velocidad y normativas viales. | TS02 | Dentro de mensajes donde se muestra información importante | Como conductor joven, quiero recibir recordatorios de límites de velocidad y normativas viales en tiempo real para conducir de manera responsable. | 1 hora(s) y 0 minuto(s) | Rubén | InProcess |
+| US13 | Gestión de perfiles de conductores múltiples. | TS04 | Sección de perfiles como cambio dentro del apartado pefil | Como conductor joven, quiero poder gestionar múltiples perfiles de conductores en la aplicación para compartir mi vehículo con otros conductores de confianza. | 1 hora(s) y 30 minuto(s) | Joan | Done |
+| US19 | Programación de mantenimientos preventivos. | TS04 | Sección de  |Como conductor de flotas, quiero programar mantenimientos preventivos para los vehículos de la empresa en la aplicación para garantizar su buen estado y durabilidad | 2 hora(s) y 30 minutos(s) | Luois | ToDo |
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
-| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
-| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| LandingPage_SecurCar  | main | d978b63    | feat: added HTMLParte  | Feat:….  | 10/04/2024         |
-| LandingPage_SecurCar   | main | be2b1b4    | feat:added section offer and images      | Feat:…. | 09/04/2024         |
-| LandingPage_SecurCar   | main | a46db65 | feat: added section mapas and images  |Feat:…. | 09/04/2024         |
-| LandingPage_SecurCar   | main | f284b3d    | feature(LandingPage):Add SectionAboutUs   |Feat:….  | 10/04/2024         |
-| LandingPage_SecurCar  | main  | 1096c95  | feat: added stylessx and contact section   |Feat:….   | 10/04/2024         |
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on date |
+| - | - | - | - | - | - |
+| FrontEnd | main | 5f99030 | feat: added GPSinformation Component | En esta sección se añadió la información sobre el dispositivo GPS a la branch main | 30/04/2024 |
+| FrontEnd | main | 46c79fd | feat: added vehicle information page | Se añadió la sección de información del vehículo a la rama principal | 29/04/2024 |
+| FrontEnd | main | 414cecd | feat: added Initial section | Se añadió la sección de inicio a la branch main | 28/04/2024 |
+| FrontEnd | main | 055dff0 | feat(login): added html, ts and css | Aquí se añadió la página de login (ingresar cuenta) de nuestra aplicación | 28/04/2024 |
+| FrontEnd | main | e55e5c8 | feat: added Profile | Incluído la sección de perfil del conductor (usuario) | 30/04/2024 |
+| FrontEnd | main | b2b31b5 | feat: added ratreo branch | Se añadió la sección de rastreo a la rama 'main' | 30/04/2024 |
+| FrontEnd | main | 2bcd954 | feat: added register section branch | Creada la sección de registro de usuario a la rama principal | 26/04/2024 |
+| FrontEnd | main | b795994 | feat: added Share ubicaction components | En esta sección se añadió el apartado de compartir ubicación a la rama principal | 29/04/2024 |
+| FrontEnd | main | 46c79fd | feat: added vehicle information page | Se programó la parte de infomación del vehículo a la rama principal | 29/04/2024 |
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
-En esta entrega, no se incluyeron los componentes relacionados con los servicios web, ya que en este caso solo se implemento la Landing Page.
-#### 5.2.2.5. Execution Evidence for Sprint Review.
+#### 5.2.2.4. Execution Evidence for Sprint Review.
 Se puede visualizar el video en el siguiente enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ802LC1j8hDmhP_sOLedJYBdbplYqsSNMldJEnZQhtfvg?e=t0KGDa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-En esta entrega, nos enfocamos en Landing page, por lo que no fue necesario ningún servicio adicional.
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-En este caso se uso GitHub Pages, para desplegar la Landing page, el cual nos sirvio para, a partir de un código en un repositorio poder desplegar la página. Enlace de la landing page: securcar.github.io/LandingPage_SecurCar/
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
-Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code, Rider, Webstorm; junto con Git. En este caso se dividio la landing page mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro realizó el styles para finalmente tener el resultado deseado.
+#### 5.2.2.5. Services Documentation Evidence for Sprint Review.
+En esta entrega no usamos servicios externos por lo que no se usó ningún servicio adicional.
+#### 5.2.2.6. Software Deployment Evidence for Sprint Review.
+Usamos el entorno local para poder desarrollar primero la ejecución y el recorrido de la página para poder después llevarla a producción o a un entorno más complejo.
+#### 5.2.2.7. Team Collaboration Insights during Sprint.
+Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code, Rider, Webstorm; junto con Git. En este caso se dividió el FrontEnd mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro realizó el styles para finalmente tener el resultado deseado.
 ![CommitsChanges](/feature/assets/commits.png)
 
 ## Conclusiones 
