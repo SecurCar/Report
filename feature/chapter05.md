@@ -519,7 +519,7 @@ En esta entrega no usamos servicios externos por lo que no se usó ningún servi
 Usamos el entorno local para poder desarrollar primero la ejecución y el recorrido de la página para poder después llevarla a producción o a un entorno más complejo.
 #### 5.2.2.7. Team Collaboration Insights during Sprint.
 Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code, Rider, Webstorm; junto con Git. En este caso se dividió el FrontEnd mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro realizó el styles para finalmente tener el resultado deseado.
-![CommitsChanges](/feature/assets/commits.png)
+![CommitsChanges](/feature/assets/comits-sprint2.png)
 
 ## Conclusiones 
 - Para tener éxito durante la elaboración del proyecto es necesario que todos los integrantes participen y colaboren de manera equitativa, para que el proyecto pueda ser finalizado de manera rápida.
