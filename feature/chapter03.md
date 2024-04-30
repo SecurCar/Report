@@ -71,12 +71,12 @@ Después de completar el formulario, el usuario debe recibir una confirmación d
 Segmento 1: Taxistas que buscan soluciones para asegurar el estacionamiento y proteger sus vehículos de robos frecuentes
 
 
-![SegmentoTaxista](assets/UserCarlos.jpg)
+![SegmentoTaxista](assets/carlos2.jpg)
 <br>
 
 Segmento 2: Jóvenes entre 18-25 años 
 
-![SegmentoJoven](assets/UserRenzo.jpg)
+![SegmentoJoven](assets/renzo2.jpg)
 <br>
 
 MIRO LINK : <https://miro.com/app/board/uXjVKXzElHA=/#tpicker-content>
