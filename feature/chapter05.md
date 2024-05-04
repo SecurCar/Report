@@ -483,7 +483,7 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la l
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 2 es 32</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 2 es 47</td>
         </tr>
     </table>
 
