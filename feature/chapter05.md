@@ -520,6 +520,77 @@ Usamos el entorno local para poder desarrollar primero la ejecución y el recorr
 #### 5.2.2.7. Team Collaboration Insights during Sprint.
 Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code, Rider, Webstorm; junto con Git. En este caso se dividió el FrontEnd mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro realizó el styles para finalmente tener el resultado deseado.
 ![CommitsChanges](/feature/assets/comits-sprint2.png)
+## 5.2.3. Sprint 3
+En este Sprint 3 vamos a definir las actividades realizadas respecto a nuestro BackEnd como a nuestro FrontEnd. Como grupo, hemos considerado las correciones y mejoras de nuestro profesor hacia nuestra últime entrega (TP), y las hemos aplicado en esta entrega. Ahora presentamos nuestro Sprint 3.
+
+### 5.2.3.1.Sprint Planning 3.
+Para la planificación de nuestro Sprint 3, hemos definido varias historias de usuario a considerar. Entre ellas, hemos escogido las historias de usuario que puedan añadir valor a nuestro proyecto como el registro, login, y funcionalidades principales de nuestro sistema. A continuación, presentamos el Sprint Planning 3 a más detalle. 
+
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>24-05-2024</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>08:52 PM</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord (virtual)</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Gallo Quintana, David Ivanoff</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Gallo Quintana, David Ivanoff / Mallma Quispe, Ruben / Paredes Zapata, Luiggi Gianfranco / Sanchez Zamora, Fabrizio Alessandro / Talizo Balbin, Joan Jefferson / Louis</td>
+        </tr>
+            <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>Para este Sprint 3, hemos decidido principalmente implmentar aquellas historias de usuario que añadan valor significativo a nuestro proyecto ya que consideramos otras funcionalidades extras (o que necesitan de otras) aún no necesarias puesto que priorizamos primero las historias de usuario que sean de gran importancia y valor primero. Además, en este Sprint 3, hemos decidido implementrar las correciones indicadas por el profesor como correciones o posibles mejoras a nuestro FrontEnd (Aplicación Web) y también mejoras a nuestro reporte.</td>
+        </tr>
+            <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>Para la retrospectiva de Sprint 3, hemos analizado en conjunto el uso de nuestro tiempo como equipo para poder organizarnos mejor. Usamos herramientas como Trello para poder asignar tareas y coordinarlas para que de esta forma poder tener mejor control de nuestro proyecto. Por defecto a la asignación de tareas, hemos decidido asignar cada tarea a procesos más pequeños para que todo podamos trabajar eficientemente. Esta organización consiste en los dominios y dividir nuestro proyecto grande en pequeñas partes más manejables.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 3 Goal</td>
+            <td>La meta para este Sprint 3 fue hacer las primeras versiones de nuestro BackEnd (como primeras impresiones y versiones). También, hemos incluído entre nuestras metas hacer la mejora continua de nuestro repositorios (FrontEnd, Reporte y LandingPage). Internamente, como grupo, nos propusimos a mejorar nuestra organización por medio de aplicativos como Trello o ClickUp. De esta forma, hemos definido nuestras metas correctamente.</td>
+        </tr>
+              <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>Para este Sprint 3, nuestro Sprint 3 Velocity es de 8 puntos</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de las historias de usuario para el Sprint 3, alcanza un valor de ...... puntos en total</td>
+        </tr>
+    </table>
+    
+### 5.2.3.2.Sprint Backlog 3.
+
+### 5.2.3.3.Development Evidence for Sprint Review.
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+### 5.2.3.5.Execution Evidence for Sprint Review.
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
 
 ## Conclusiones 
 - Para tener éxito durante la elaboración del proyecto es necesario que todos los integrantes participen y colaboren de manera equitativa, para que el proyecto pueda ser finalizado de manera rápida.
