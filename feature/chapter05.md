@@ -582,15 +582,46 @@ Para la planificación de nuestro Sprint 3, hemos definido varias historias de u
 ### 5.2.3.2.Sprint Backlog 3.
 
 ### 5.2.3.3.Development Evidence for Sprint Review.
+
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
 ### 5.2.3.5.Execution Evidence for Sprint Review.
+
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
+
 ## 5.3. Validation Interviews.
+
 ### 5.3.1. Diseño de Entrevistas.
+#### Saludo y presentación
+Comenzamos con una introducción breve de los entrevistados para recordar quiénes son ya que han sido entrevistados anteriormente.
+
+1. ¿Cómo se llama?
+2. ¿Cuántos años tiene?
+3. ¿En qué distrito vive?
+
+#### Preguntas
+Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nuestro producto llenó las expectativas del usuario, y también saber las posibles mejoras, comentarios y quejas sobre nuestro producto.
+
+1. ¿Qué piensas de la interfaz de usuario de la aplicación web? ¿Es fácil de navegar?
+2. ¿Encuentras que las funciones de la aplicación web son intuitivas y fáciles de usar?
+4. ¿Hay alguna función que crees que debería estar en la aplicación web que actualmente no está?
+5. ¿Cómo calificarías la experiencia general de uso de la aplicación web?
+6. ¿Qué te gusta más y qué te gusta menos de la aplicación web?
+7. ¿Te sentirías cómodo usando regularmente nuestra aplicación web?
+8. ¿Cómo crees que nuestra aplicación web se comparan con otras similares que hayas utilizado?
+9. ¿Hay algo que te confunda o te resulte difícil de entender en la aplicación web?
+10. ¿Considerarías recomendarnos a tus amigos o familiares?
+11. ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
+
 ### 5.3.2. Registro de Entrevistas.
+Aquí es lo mismo que la vez anterior, copien y peguen lo que hicieron cambiando el contenido.
+
 ### 5.3.3. Evaluaciones según heurísticas.
+Por definir...
 
 ## Conclusiones 
 - Para tener éxito durante la elaboración del proyecto es necesario que todos los integrantes participen y colaboren de manera equitativa, para que el proyecto pueda ser finalizado de manera rápida.
