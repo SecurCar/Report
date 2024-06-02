@@ -649,7 +649,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
   ![URL de entrevista](assets/InterviewImageDanielaChavez.png)<br>
   Inicio de Entrevista: 00:00 <br>
 
-  Resumen de entrevista: En este caso la señorita Daniela comunica que la página si cumple con su función, ademas que definitivamente resulta intuitiva. Aún así considera que hay campo de mejora, por ejemplo menciona que cree que los botones importantes de redirección deberian de ser de un color más distintivo. Finalmente menciona que es una página que si recomendaría, puesto que es importante asegurar nuestros vehículos.
+  Resumen de entrevista: En este caso la señorita Daniela comunica que la página si cumple con su función, ademas que definitivamente resulta intuitiva. Aún así considera que hay campo de mejora, por ejemplo menciona que cree que los botones importantes de redirección deberian de ser de un color más distintivo. Finalmente menciona que es una página que si recomendaría, puesto que es importante asegurar nuestros vehículos.<br>
   **Entrevista #4**<br>
    Nombre y apellidos: Alonso Carrillo <br>
   Edad: 23 años <br>
