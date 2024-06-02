@@ -266,7 +266,7 @@ El diseño de entrevistas nos permitirá recopilar información valiosa sobre la
 
   - **Taxistas Experimentados:**
   **Entrevista #3** <br>
-  Nombre y apellidos: Carlos Quispe <br>
+  Nombre y apellidos: Rubén Mallma <br>
   Edad: 49 años <br>
   Distrito: Villa María del Triunfo <br>
   ![URL de entrevista](assets/Registro_Entrevista_Seg01_CarlosQuispe.png)<br>
@@ -274,7 +274,7 @@ El diseño de entrevistas nos permitirá recopilar información valiosa sobre la
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EQ36Jmr56RxAsQUCmkPi_OoBGThlcK04v3YbnWPa7OVI_A?e=SjO0A6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
     URL : https://shorturl.at/pyN12
 
-  Resumen de entrevista: El señor Carlos nos cuenta sus preocupaciones respecto a su unidad de trabajo, y además nos cuenta que ya usa un sistema de vigilancia (en parte funcional) que es el GPS pero desearía que sea más eficiente. Nos cuenta que también  le gustaría que nuestro sistema sea cómodo para el bolsillo. Si cumple con funcionalidades que son específicas para este segmento entonces estaría dispuesto a usarlo.
+  Resumen de entrevista: El señor Rubén nos cuenta sus preocupaciones respecto a su unidad de trabajo, y además nos cuenta que ya usa un sistema de vigilancia (en parte funcional) que es el GPS pero desearía que sea más eficiente. Nos cuenta que también  le gustaría que nuestro sistema sea cómodo para el bolsillo. Si cumple con funcionalidades que son específicas para este segmento entonces estaría dispuesto a usarlo.
 
 
 - **Conductores Jóvenes:**<br>
