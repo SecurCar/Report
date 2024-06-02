@@ -628,6 +628,18 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EYn6HNIEpvlBsXRrKCI6FDwBcjkvdHXff0sF8fUeI2UVHA?e=1Bhava)<br>
 
   Resumen de entrevista: El señor Rubén ahora nos da su opinión acerca de nuestra primera versión de la aplicación web que estamos desarrollando. Nos comenta además que quisiera que la aplicación funcione completamente ya que es difícil dar una opinión sólida sobre algo que aún no está terminado.
+- **Conductores Jovenes:**
+  **Entrevista #1**<br>
+  Nombre y apellidos: Renzo Enciso <br>
+  Edad: 20 años <br>
+  Distrito: Chorrillos <br>
+  ![URL de entrevista](assets/ValidationTest_OpenSource.png)<br>
+  Inicio de Entrevista: 00:00 <br>
+
+  Resumen de entrevista: El usuario encuentra la interfaz de la aplicación web atractiva y fácil de navegar, destacando la organización clara de los menús y opciones. Las funciones son intuitivas y fáciles de usar, pero sugiere agregar notificaciones en tiempo real para mejorar la seguridad. Califica la experiencia general como muy positiva, apreciando la rapidez y la eficacia, aunque señala la falta de notificaciones en tiempo real como una desventaja.
+ <br> <br> En comparación con otras aplicaciones, destaca su simplicidad y rapidez, y no encuentra nada confuso o difícil de entender. El usuario recomendaría la aplicación a amigos y familiares por su utilidad y facilidad de uso. También sugiere agregar tutoriales interactivos para mejorar la experiencia del usuario y aumentar la confianza en la aplicación.
+  <br> [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EdSnLql-TytMp5kcwwU_joYBB3CsmTrE_xqth_SVaAjicA?e=mwYuGL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
+
 
   - **Conductores Jovenes:**
   **Entrevista #2**<br>
