@@ -618,7 +618,18 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 11. ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
 
 ### 5.3.2. Registro de Entrevistas.
-Aquí es lo mismo que la vez anterior, copien y peguen lo que hicieron cambiando el contenido.
+  - **Taxistas Experimentados:**
+  **Entrevista #3** <br>
+  Nombre y apellidos: Rubén Mallma <br>
+  Edad: 49 años <br>
+  Distrito: Villa María del Triunfo <br>
+  ![URL de entrevista](assets/Registro_ReviewEntrevista_Seg01_RubénMallma.png)<br>
+  Inicio de Entrevista: 00:01 <br>
+  [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EYn6HNIEpvlBsXRrKCI6FDwBcjkvdHXff0sF8fUeI2UVHA?e=1Bhava)<br>
+
+  Resumen de entrevista: El señor Rubén ahora nos da su opinión acerca de nuestra primera versión de la aplicación web que estamos desarrollando. Nos comenta además que quisiera que la aplicación funcione completamente ya que es difícil dar una opinión sólida sobre algo que aún no está terminado.
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas.
 Por definir...
