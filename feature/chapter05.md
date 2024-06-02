@@ -654,7 +654,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
    Nombre y apellidos: Alonso Carrillo <br>
   Edad: 23 años <br>
   Distrito: Santiago de Surco <br>
-  ![URL de entrevista](assets/InterviewImageDanielaChavez.png)<br>
+  ![URL de entrevista](assets/InterviewAlonso4.png)<br>
   Inicio de Entrevista: 00:00 <br>
 
   Resumen de entrevista: En este caso Alonso menciona en varias ocasiones que la página es intuitiva y fácil de utilizar. Sugiere agregar poder compartir la ubicación en tiempo real para mejorar la seguridad. Califica su experiencia general como positiva, finalmente añadió que si recomendaría nuestra app web, porque la seguridad de un bien material es tema muy importante.
