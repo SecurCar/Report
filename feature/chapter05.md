@@ -629,6 +629,17 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
   Resumen de entrevista: El señor Rubén ahora nos da su opinión acerca de nuestra primera versión de la aplicación web que estamos desarrollando. Nos comenta además que quisiera que la aplicación funcione completamente ya que es difícil dar una opinión sólida sobre algo que aún no está terminado.
 
+  - **Conductores Jovenes:**
+  **Entrevista #2**<br>
+   Nombre y apellidos: Daniela Chavez <br>
+  Edad: 21 años <br>
+  Distrito: Magdalena del Mar <br>
+  ![URL de entrevista](assets/InterviewImageDanielaChavez.png)<br>
+  Inicio de Entrevista: 00:00 <br>
+
+  Resumen de entrevista: En este caso la señorita Daniela comunica que la página si cumple con su función, ademas que definitivamente resulta intuitiva. Aún así considera que hay campo de mejora, por ejemplo menciona que cree que los botones importantes de redirección deberian de ser de un color más distintivo. Finalmente menciona que es una página que si recomendaría, puesto que es importante asegurar nuestros vehículos.
+ 
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
