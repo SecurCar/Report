@@ -619,6 +619,16 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
 ### 5.3.2. Registro de Entrevistas.
   - **Taxistas Experimentados:**
+
+  **Entrevista #2** <br>
+  Nombre y apellidos: Maykol Valencia <br>
+  Edad: 22 años <br>
+  Distrito: Selva Alegre <br>
+  ![URL de entrevista](assets/Registro_ReviewEntrevista_Seg01_MaykolValencia.png)<br>
+  Inicio de Entrevista: 00:01 <br>
+
+  Resumen de entrevista: Maykol Valencia, de 22 años, evaluó positivamente la aplicación web SecurCar, diseñada para prevenir el robo de vehículos. Destacó la comodidad, orden y facilidad de uso de la interfaz, señalando que las funciones son intuitivas y bien detalladas. Calificó su experiencia como muy agradable y menos estresante en comparación con otras aplicaciones. Aunque no sugiere mejoras inmediatas, está dispuesto a recomendarla a amigos y familiares, especialmente a quienes usan vehículos para servicios de taxi, por considerarla innovadora y útil para la prevención de robos.
+    
   **Entrevista #3** <br>
   Nombre y apellidos: Rubén Mallma <br>
   Edad: 49 años <br>
