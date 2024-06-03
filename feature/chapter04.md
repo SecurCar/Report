@@ -208,6 +208,7 @@ Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/design/WnCo
 
 Link a nuestra herramienta de trabajo (Overflow): https://overflow.io/s/CTHUF09R
 
+
 ### 4.5. Web Applications Prototyping.
 ![Web Applications Prototyping.png](/feature/assets/Web%20Applications%20Mock-ups_Inicio.png)
 Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/proto/LdjqHSAnx8sjwCGO22vsd2/Web-Applications-Mock-ups?type=design&node-id=1-2&t=WE1YznWl7P9oqYN7-1&scaling=min-zoom&page-id=0%3A1&mode=design
