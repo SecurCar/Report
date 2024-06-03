@@ -684,3 +684,20 @@ Por definir...
 - Para tener éxito, es esencial abordar el riesgo de errores funcionales mediante pruebas y mejoras continuas.
 
 
+## Video About The Team
+
+En este segmento, mostramos la elaboración de la parte de seguridad del backend, esto en una llamada grupal en la cual resolvimos la problematica de la implementación.
+Asimismo cada uno explica como lograron los Student Outcomes correspondientes gracias a la aplicación del proyecto.
+
+### Secuencia:
+- 00:00:00 Inicio de video
+- 00:01:35 Comienzo de testimonios
+- 00:01:36 Testimonio Luiggi Paredes
+- 00:03:28 Testimonio David Gallo
+- 00:04:47 Testimonio Fabrizio 
+- 00:05:45 Testimonio Ruben
+- 00:07:07 Testimonio Joan
+- 00:08:08 Testimonio Louis
+![VideoTeam](assets/Video_About_Team.png)
+- URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/ERYRR1AV5fZBuEEZx-_c1J4BpFzLOwGt9G_3M11XnAomoQ?e=AAV3JN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- URL Youtube: https://youtu.be/h7UpEr2w0HA 
