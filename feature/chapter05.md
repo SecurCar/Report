@@ -669,8 +669,15 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
   Inicio de Entrevista: 00:00 <br>
 
   Resumen de entrevista: En este caso Alonso menciona en varias ocasiones que la página es intuitiva y fácil de utilizar. Sugiere agregar poder compartir la ubicación en tiempo real para mejorar la seguridad. Califica su experiencia general como positiva, finalmente añadió que si recomendaría nuestra app web, porque la seguridad de un bien material es tema muy importante.
- 
 
+**Entrevista #6**<br>
+Nombre y apellidos: Leonardo Lopez  <br>
+Edad: 20 años <br>
+Distrito: Santiago de Surco <br>
+
+![URL de entrevista](assets/Entrevista_Leo.JPG)<br>
+
+Resumen de entrevista:En el video, Leonardo López comenta sobre el progreso de una aplicación web en la que están trabajando. Expresa que está contento con el avance actual del proyecto, pero también menciona que considera necesario realizar algunos cambios para mejorar la aplicación. Aunque no especifica los detalles de estos cambios, su enfoque parece ser en optimizar y mejorar la funcionalidad o el diseño de la web app para asegurar su éxito. .
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
