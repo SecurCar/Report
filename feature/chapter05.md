@@ -520,12 +520,14 @@ Usamos el entorno local para poder desarrollar primero la ejecución y el recorr
 #### 5.2.2.7. Team Collaboration Insights during Sprint.
 Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code, Rider, Webstorm; junto con Git. En este caso se dividió el FrontEnd mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro realizó el styles para finalmente tener el resultado deseado.
 ![CommitsChanges](/feature/assets/comits-sprint2.png)
-## 5.2.3. Sprint 3
-En este Sprint 3 vamos a definir las actividades realizadas respecto a nuestro BackEnd como a nuestro FrontEnd. Como grupo, hemos considerado las correciones y mejoras de nuestro profesor hacia nuestra últime entrega (TP), y las hemos aplicado en esta entrega. Ahora presentamos nuestro Sprint 3.
 
-### 5.2.3.1.Sprint Planning 3.
-Para la planificación de nuestro Sprint 3, hemos definido varias historias de usuario a considerar. Entre ellas, hemos escogido las historias de usuario que puedan añadir valor a nuestro proyecto como el registro, login, y funcionalidades principales de nuestro sistema. A continuación, presentamos el Sprint Planning 3 a más detalle. 
+### 5.2.3 Sprint 3.
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 3. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
 
+#### 5.2.3.1 Sprint Planning 3.
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 3. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+
+*Tabla del planeamiento a profundidad del Sprint 3.*
 <table>
         <tr>
             <td colspan="1">Sprint #</td>
@@ -540,11 +542,11 @@ Para la planificación de nuestro Sprint 3, hemos definido varias historias de u
         </tr>
           <tr>
             <td>Time</td>
-            <td>08:52 PM</td>
+            <td>20:52</td>
         </tr>
             <tr>
             <td>Location</td>
-            <td>Discord (virtual)</td>
+            <td>Discord</td>
         </tr>
             <tr>
             <td>Prepared by</td>
@@ -571,27 +573,148 @@ Para la planificación de nuestro Sprint 3, hemos definido varias historias de u
         </tr>
               <tr>
             <td>Sprint 3 Velocity</td>
-            <td>Para este Sprint 3, nuestro Sprint 3 Velocity es de 8 puntos</td>
+            <td>Para este Sprint 3, nuestro Sprint 3 Velocity es de 8 puntos.</td>
         </tr>
               <tr>
             <td>Sum of Story Points</td>
             <td>La suma de las historias de usuario para el Sprint 3, alcanza un valor de ...... puntos en total</td>
         </tr>
     </table>
-    
-### 5.2.3.2.Sprint Backlog 3.
 
-### 5.2.3.3.Development Evidence for Sprint Review.
+#### 5.2.3.2 Sprint Backlog 3.
+En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en el cual nuestro equipo de trabajo se centró principalmente en el diseño, estructuración y organización de la lógica de negocio agregada en nuestra aplicación web con el uso de servicios diferenciados y modelos de base de datos, además de proporcionar a futuro un modelo de intercambio de información entre el FrontEnd y el BackEnd estable. Hemos separado toda la construcción del BackEnd en ....... historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 3, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con APIs externas, y entre otros.
 
-### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+*Tabla principal del planeamiento del Sprint Backlog 3.*
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US##</td>
+            <td>...</td>
+            <td>T##</td>
+            <td>...</td>
+            <td>...</td>
+            <td>1 hora y 30 minutos</td>
+            <td>...</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US##</td>
+            <td>...</td>
+            <td>T##<td>
+            <td>...</td>
+            <td>...</td>
+            <td>1 hora y 10 minutos</td>
+            <td>...</td>
+            <td>Done</td>
+        </tr>
+    </table>
 
-### 5.2.3.5.Execution Evidence for Sprint Review.
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades: [https://app.clickup.com/9013153284/v/l/6-901302611184-1 ](https://trello.com/b/GxUePWp8/securcar)
 
-### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+*Presentación de la tabla de actividades designada para el Sprint 3 en Trello.*
+<img src="/assets/Trello-Sprint3.png" alt="Lista de Tareas del Sprint 3 En Trello">
 
-### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.3 Development Evidence for Sprint Review.
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3 referente a los Web Services. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
 
-### 5.2.3.8.Team Collaboration Insights during Sprint.
+###### Tabla 32
+*Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
+| Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
+|------------|-------|----------|---------------|--------------------|-------------------|
+| | | | | |
+| | | | | |
+
+### 5.2.3.4 Testing Suite Evidence for Sprint Review. 
+En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
+
+###### Tabla 33
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
+| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
+|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| | | | | | |
+
+#### 5.2.3.5 Execution Evidence for Sprint Review. 
+El equipo ha logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. 
+En primer lugar, .....
+Además de estas ....., se han agregado .....
+Para mejorar la experiencia del usuario, se ha trabajado en .....
+Finalmente, se han agregado .....
+
+*Muestra con evidencia de inicio de sesión (Login)*
+<img src="/assets/Evidencia-Login.png" alt="Evidencia de inicio de sesión en la Aplicación Web">
+
+*Muestra con evidencia de registro para ambos segmentos objectivos (Register)*
+<img src="/assets/Evidencia-Registro-CommonDriver.png" alt="Evidencia del registro de usuario común en la Aplicación Web">
+<img src="/assets/Evidencia-Registro-CorporateDriver.png" alt="Evidencia del registro de usuario corporativo en la Aplicación Web">
+
+*Muestra con evidencia de información de usuario*
+<img src="/assets/img/Evidencia-UserInformation.png" alt="Evidencia de información de usuario en la Aplicación Web">
+
+*Muestra con evidencia de información de vehículo*
+<img src="/assets/img/Evidencia-VehicleInformation.png" alt="Evidencia de información de vehículo en la Aplicación Web">
+
+*Muestra con evidencia de información de dispositivo*
+<img src="/assets/img/Evidencia-DeviceInformation.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
+En esta sección, presentamos la relación de EndPoints documentados con OpenAPI utilizando Swagger como herramienta visual. Ajuntamos evidencias de la implementación de cada EndPoint.
+
+(Pegar aquí todas las imágenes referentes a los endpoints seleccionados)
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+Dentro del Sprint 3, realizamos el despliegue de:
+##### Landing Page
+Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Call-To-Action y otros cambios en general. El link a nuestra Landing Page: (URL aquí)
+<img src="/assets/Deployment-LandingPage.png" alt="Evidencia del deployment de nuestra Landing Page.">
+
+##### Front End
+Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: (URL aquí)
+<img src="/assets/Deployment-FrontEnd.png" alt="Evidencia del deployment del Front End.">
+
+##### Back End
+Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio, implementando capas de seguridad como características primarias de registro e inicio de sesión.
+<img src="/assets/Deployment-BackEnd.png" alt="Evidencia del deployment del Back End.">
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
+Durante el Sprint 3, nos enfocamos en el desarrollo colaborativo del BackEnd del Web Application de SecurCar junto a la mejora del FrontEnd y nuestro Landing Page donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos commits, pull request, y reuniones que realizados en nuestro repositorio de código y herramientas externas, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada. 
+
+Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas y discutir la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar nuestras responsabilidades individuales y asegurar un desempeño óptimo. Para maximizar la eficiencia, decidimos asignar a cada miembro del equipo una sección específica del BackEnd para desarrollar, lo que nos permitió avanzar rápidamente y cumplir con los plazos establecidos.
+
+Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
+
+*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Sprint 3.*
+<img src="/assets/GitHub-Report-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in Report.">
+<img src="/assets/GitHub-Report-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in Report.">
+<img src="/assets/GitHub-Report-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in Report.">
+<img src="/assets/GitHub-Report-Pulse-David.png" alt="Pulse for David collaboration in Report.">
+<img src="/assets/GitHub-Report-Pulse-Joan.png" alt="Pulse for Joan collaboration in Report.">
+<img src="/assets/GitHub-Report-Pulse-Louis.png" alt="Pulse for Louis collaboration in Report.">
+
+*Reporte completo de contribuciones para el desarrollo del BackEnd del Web Application del Sprint 3.*
+<img src="/assets/GitHub-BackEnd-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in BackEnd.">
+<img src="/assets/GitHub-BackEnd-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in BackEnd.">
+<img src="/assets/GitHub-BackEnd-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in BackEnd.">
+<img src="/assets/GitHub-BackEnd-Pulse-David.png" alt="Pulse for David collaboration in BackEnd.">
+<img src="/assets/GitHub-BackEnd-Pulse-Joan.png" alt="Pulse for Joan collaboration in BackEnd.">
+<img src="/assets/GitHub-BackEnd-Pulse-Louis.png" alt="Pulse for Louis collaboration in BackEnd.">
 
 ## 5.3. Validation Interviews.
 
