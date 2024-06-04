@@ -629,6 +629,7 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en 
 Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades: [https://app.clickup.com/9013153284/v/l/6-901302611184-1 ](https://trello.com/b/GxUePWp8/securcar)
 
 *Presentación de la tabla de actividades designada para el Sprint 3 en Trello.*
+
 <img src="/assets/Trello-Sprint3.png" alt="Lista de Tareas del Sprint 3 En Trello">
 
 #### 5.2.3.3 Development Evidence for Sprint Review.
@@ -658,19 +659,25 @@ Para mejorar la experiencia del usuario, se ha trabajado en .....
 Finalmente, se han agregado .....
 
 *Muestra con evidencia de inicio de sesión (Login)*
+
 <img src="/assets/Evidencia-Login.png" alt="Evidencia de inicio de sesión en la Aplicación Web">
 
 *Muestra con evidencia de registro para ambos segmentos objectivos (Register)*
+
 <img src="/assets/Evidencia-Registro-CommonDriver.png" alt="Evidencia del registro de usuario común en la Aplicación Web">
+
 <img src="/assets/Evidencia-Registro-CorporateDriver.png" alt="Evidencia del registro de usuario corporativo en la Aplicación Web">
 
 *Muestra con evidencia de información de usuario*
+
 <img src="/assets/img/Evidencia-UserInformation.png" alt="Evidencia de información de usuario en la Aplicación Web">
 
 *Muestra con evidencia de información de vehículo*
+
 <img src="/assets/img/Evidencia-VehicleInformation.png" alt="Evidencia de información de vehículo en la Aplicación Web">
 
 *Muestra con evidencia de información de dispositivo*
+
 <img src="/assets/img/Evidencia-DeviceInformation.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
@@ -683,14 +690,17 @@ En esta sección, presentamos la relación de EndPoints documentados con OpenAPI
 Dentro del Sprint 3, realizamos el despliegue de:
 ##### Landing Page
 Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Call-To-Action y otros cambios en general. El link a nuestra Landing Page: (URL aquí)
+
 <img src="/assets/Deployment-LandingPage.png" alt="Evidencia del deployment de nuestra Landing Page.">
 
 ##### Front End
 Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: (URL aquí)
+
 <img src="/assets/Deployment-FrontEnd.png" alt="Evidencia del deployment del Front End.">
 
 ##### Back End
 Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio, implementando capas de seguridad como características primarias de registro e inicio de sesión.
+
 <img src="/assets/Deployment-BackEnd.png" alt="Evidencia del deployment del Back End.">
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
@@ -701,6 +711,7 @@ Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas
 Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
 
 *Reporte completo de contribuciones para el desarrollo del Reporte Principal del Sprint 3.*
+
 <img src="/assets/GitHub-Report-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in Report.">
 <img src="/assets/GitHub-Report-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in Report.">
 <img src="/assets/GitHub-Report-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in Report.">
@@ -709,6 +720,7 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 <img src="/assets/GitHub-Report-Pulse-Louis.png" alt="Pulse for Louis collaboration in Report.">
 
 *Reporte completo de contribuciones para el desarrollo del BackEnd del Web Application del Sprint 3.*
+
 <img src="/assets/GitHub-BackEnd-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in BackEnd.">
 <img src="/assets/GitHub-BackEnd-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in BackEnd.">
 <img src="/assets/GitHub-BackEnd-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in BackEnd.">
