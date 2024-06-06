@@ -774,14 +774,14 @@ En esta sección, presentamos la relación de EndPoints documentados con OpenAPI
 
 Dentro del Sprint 3, realizamos el despliegue de:
 ##### Landing Page
-Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Call-To-Action y otros cambios en general. El link a nuestra Landing Page: (URL aquí)
+Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Call-To-Action y otros cambios en general. El link a nuestra Landing Page: [Clic aquí para ir a Landing Page](https://landingsecurcar.web.app/)
 
 <img src="assets/Deployment-LandingPage-1.png" alt="Evidencia del deployment de nuestra Landing Page.">
 
 <img src="assets/Deployment-LandingPage-2.png" alt="Evidencia del deployment de nuestra Landing Page.">
 
 ##### Front End
-Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: (URL aquí)
+Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: [Clic aquí para ir a Aplicación Web](https://securcaropens.web.app/)
 
 <img src="assets/Deployment-FrontEnd-1.png" alt="Evidencia del deployment del Front End.">
 
