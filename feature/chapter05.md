@@ -736,7 +736,7 @@ El equipo ha logrado implementar las características clave de la API principal 
 
 *Muestra con evidencia de inicio de sesión (Login)*
 
-<img src="assets/Evidencia-Login-1.png" alt="Evidencia de inicio de sesión en la Aplicación Web">
+<img src="assets/Evidencia-Login.png" alt="Evidencia de inicio de sesión en la Aplicación Web">
 
 *Muestra con evidencia de registro para ambos segmentos objectivos (Register)*
 
@@ -746,15 +746,15 @@ El equipo ha logrado implementar las características clave de la API principal 
 
 *Muestra con evidencia de información de usuario*
 
-<img src="assets/img/Evidencia-UserInformation.png" alt="Evidencia de información de usuario en la Aplicación Web">
+<img src="assets/Evidencia-UserInformation.png" alt="Evidencia de información de usuario en la Aplicación Web">
 
 *Muestra con evidencia de información de vehículo*
 
-<img src="assets/img/Evidencia-VehicleInformation.png" alt="Evidencia de información de vehículo en la Aplicación Web">
+<img src="assets/Evidencia-VehicleInformation.png" alt="Evidencia de información de vehículo en la Aplicación Web">
 
 *Muestra con evidencia de información de dispositivo*
 
-<img src="assets/img/Evidencia-DeviceInformation.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
+<img src="assets/Evidencia-DeviceInformation.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
 En esta sección, presentamos la relación de EndPoints documentados con OpenAPI utilizando Swagger como herramienta visual. Ajuntamos evidencias de la implementación de cada EndPoint.
