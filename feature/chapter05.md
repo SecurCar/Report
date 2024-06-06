@@ -1075,3 +1075,12 @@ Asimismo cada uno explica como lograron los Student Outcomes correspondientes gr
 ![VideoTeam](assets/Video_About_Team.png)
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/ERYRR1AV5fZBuEEZx-_c1J4BpFzLOwGt9G_3M11XnAomoQ?e=AAV3JN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - URL Youtube: https://youtu.be/h7UpEr2w0HA 
+
+### Anexos:
+- Validation Interviews:
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ETljkQ8IsKlJkrd8arOcC4gBngqJtaqyIAduIj2nTpH5Pw?e=znZ0BL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Video De Exposicion TB2:
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EYcsWnC4oa1JqRPBshhNwdMBse7gX6EpD-V2gdgukqriwg?e=fkcSEu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
