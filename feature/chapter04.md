@@ -218,56 +218,101 @@ El desarrollo de software basado en la arquitectura orientada al dominio (DDD) s
 #### 4.6.1. Software Architecture Context Diagram.
 A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos permitirá establecer un buen punto de partida para poder diagramar y documentar nuestro sistema de manera general.
 
-![DiagramContext](assets/SistemContext.JPG)
+![DiagramContext](assets/contexto.JPG)
 <br>
 
 #### 4.6.2. Software Architecture Container Diagrams.
 A continuación, se mostrará el Container Diagram de nuestra aplicación en el cual se visualiza la forma de alto nivel de la arquitectura del software y cómo se distribuyen las responsabilidades en ella.
 
-![DiagramContenedor](assets/SistemContenedor.JPG)
+![DiagramContenedor](assets/contenedores.JPG)
 <br>
 
 #### 4.6.3. Software Architecture Components Diagrams.
 A continuación, se mostrará el Component Diagram en el cual se descompone el contenedor “API Application” y se identifican los principales bloques de construcción estructurales y sus interacciones.
-### Componente StaySafe
+### Componente Auth
 
-![StaySafe](assets/StaySafeComponent.JPG)
+![Auth](assets/AuthComponent.JPG)
 
 <br>
 
-### Componente Verificación de cuenta
+### Componente User
 
-![Verification](assets/VerificationComponent.JPG)
+![User](assets/UserComponent.JPG)
 <br>
 
-### Componente Creación de cuenta
+### Componente Vehicle
 
-![creation](assets/NewAccountComponent.JPG)
-<br>
-
-### Componente Notificaciones
-
-![Notification](assets/NotServiceComponent.JPG)
+![Vehicle](assets/Vehicle Component.JPG)
 <br>
 
 
-Link del structuriz -> https://structurizr.com/workspace/77547/diagrams#Contexto
+
+Link del structuriz -> https://structurizr.com/share/77547/38021e1c-f520-406c-abdb-3b7b54326c66/diagrams#Contexto
 
 ### 4.7. Software Object-Oriented Design.
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Esta metodología nos permitirá estructurar nuestro sistema de manera modular y escalable, aprovechando los principios de encapsulamiento, herencia y polimorfismo para crear componentes reutilizables y de fácil mantenimiento.
 #### 4.7.1. Class Diagrams.
-![Diagrama](/feature/assets/ClassDiagram.png)<br>
+A continuación, se mostrará el Diagrama de Clases de nuestra aplicación, el cual nos permitirá visualizar la estructura de clases y sus relaciones en el sistema.
+
+![Diagrama](feature/assets/DiagramadeClase.jpg)
+
+
+<br>
+
 #### 4.7.2. Class Dictionary.
-- ***IncidentReporting***: Representa la entidad que se encarga de reportar incidentes de seguridad vial. Contiene el método reportarIncidente().
-- ***MaintenanceReminder***: Representa la entidad encargada de recordar el mantenimiento del vehículo. Contiene el método establecerRecordatorioDeMantenimiento().
-- ***ExpenseTracker***: Representa la entidad que rastrea los gastos relacionados con el vehículo. Contiene el método registrarGasto().
-- ***DrivingEvaluation***: Representa la entidad que evalúa el estilo de conducción del usuario. Contiene el método evaluarEstiloDeConduccion().
-- ***SpeedLimitReminder***: Representa la entidad encargada de recordar los límites de velocidad. Contiene el método establecerRecordatorioDeLimiteDeVelocidad().
-- ***SecurityFunction***: Representa la raíz de agregado para las funciones de seguridad de la aplicación. Contiene el método activarSeguridad().
-- ***GeolocationFunction***: Representa la raíz de agregado para las funciones de geolocalización de la aplicación. Contiene el método rastrearUbicacion().
-- ***RecommendationSystem***: Representa la raíz de agregado para el sistema de recomendaciones de seguridad de la aplicación. Contiene el método obtenerRecomendacionesDeSeguridad().
-- ***RealTimeLocationSharing***: Representa la raíz de agregado para las funciones de compartir ubicación en tiempo real de la aplicación. Contiene el método compartirUbicacionConContactos().
-- ***AssistanceService***: Representa la raíz de agregado para los servicios de asistencia de la aplicación. Contiene el método solicitarAsistencia().
+·  ***Role:*** Representa un rol en el sistema.
+
+·  ***User:*** Representa un usuario en el sistema.
+
+·  ***RoleRepository:*** Repositorio para la entidad Role, que maneja operaciones de búsqueda.
+
+·  ***UserRepository:*** Repositorio para la entidad User, que maneja operaciones de búsqueda.
+
+·  ***AuthService:*** Servicio de autenticación para manejar el proceso de inicio de sesión.
+
+·  ***AuthServiceImpl:*** Implementación del servicio de autenticación.
+
+·  ***AuthController:*** Controlador para las operaciones de autenticación.
+
+·  ***UserService:*** Servicio para gestionar operaciones relacionadas con usuarios.
+
+·  ***UserServiceImpl:*** Implementación del servicio de usuario.
+
+·  ***UserController:*** Controlador para las operaciones relacionadas con usuarios.
+
+·  ***SecurityConfig:*** Configuración de seguridad del sistema.
+
+·  ***JwtUtil:*** Utilidad para generar y validar tokens JWT.
+
+·  ***JwtRequestFilter:*** Filtro para interceptar y procesar las solicitudes de tokens JWT.
+
+·  ***LoginRequest:*** Clase para representar una solicitud de inicio de sesión.
+
+·  ***RoleInitializer:*** Inicializador de roles en el sistema.
+
+·  ***VehicleCreateDTO:*** DTO para la creación de vehículos.
+
+·  ***Device:*** Representa un dispositivo en el sistema.
+
+·  ***Vehicle:*** Representa un vehículo en el sistema.
+
+·  ***DeviceRepository:*** Repositorio para la entidad Device, que maneja operaciones de búsqueda.
+
+·  ***VehicleRepository:*** Repositorio para la entidad Vehicle, que maneja operaciones de búsqueda.
+
+·  ***DeviceService:*** Servicio para gestionar operaciones relacionadas con dispositivos.
+
+·  ***DeviceServiceImpl:*** Implementación del servicio de dispositivo.
+
+·  ***VehicleService:*** Servicio para gestionar operaciones relacionadas con vehículos.
+
+·  ***VehicleServiceImpl:*** Implementación del servicio de vehículo.
+
+·  ***DeviceController:*** Controlador para las operaciones relacionadas con dispositivos.
+
+·  ***VehicleController:*** Controlador para las operaciones relacionadas con vehículos.
+
+·  ***SecurCarApplication:*** Aplicación principal del sistema.
 ### 4.8. Database Design.
 El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar los datos de manera eficiente y segura. Utilizaremos un enfoque cuidadoso para modelar las tablas, relaciones y restricciones de la base de datos de acuerdo con los requisitos del sistema y las mejores prácticas de diseño. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y manipulación en respuesta a las solicitudes de los usuarios.
 #### 4.8.1. Database Diagram.
