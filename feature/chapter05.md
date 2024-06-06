@@ -894,6 +894,10 @@ Resumen de entrevista:En el video, Leonardo López comenta sobre el progreso de 
 ### 5.3.3. Evaluaciones según heurísticas.
 Por definir...
 
+### 5.4. Video About-the-Product.
+![VideoAboutProduct](assets/AboutProduct_OpenSource.png)
+- URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/r/personal/u202223781_upc_edu_pe/Documents/Video%20About%20the%20Product%20TB2-%20SecurCar.avi?csf=1&web=1&e=QmqpNf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- URL Youtube: https://youtu.be/Y1SmEH7C4O8?si=aTUiONZ2rxXLHo0-
 ## Conclusiones 
 - Para tener éxito durante la elaboración del proyecto es necesario que todos los integrantes participen y colaboren de manera equitativa, para que el proyecto pueda ser finalizado de manera rápida.
 
