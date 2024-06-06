@@ -757,9 +757,11 @@ El equipo ha logrado implementar las características clave de la API principal 
 <img src="assets/Evidencia-DeviceInformation.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
-En esta sección, presentamos la relación de EndPoints documentados con OpenAPI utilizando Swagger como herramienta visual. Ajuntamos evidencias de la implementación de cada EndPoint.
+En esta sección, presentamos la relación de EndPoints documentados con OpenAPI utilizando Swagger como herramienta visual. Ajuntamos evidencias de la implementación de los EndPoints.
 
-(Pegar aquí todas las imágenes referentes a los endpoints seleccionados)
+<img src="assets/Evidencia-EndPoint-1.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
+
+<img src="assets/Evidencia-EndPoint-2.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
@@ -767,12 +769,16 @@ Dentro del Sprint 3, realizamos el despliegue de:
 ##### Landing Page
 Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Call-To-Action y otros cambios en general. El link a nuestra Landing Page: (URL aquí)
 
-<img src="assets/Deployment-LandingPage.png" alt="Evidencia del deployment de nuestra Landing Page.">
+<img src="assets/Deployment-LandingPage-1.png" alt="Evidencia del deployment de nuestra Landing Page.">
+
+<img src="assets/Deployment-LandingPage-2.png" alt="Evidencia del deployment de nuestra Landing Page.">
 
 ##### Front End
 Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: (URL aquí)
 
-<img src="assets/Deployment-FrontEnd.png" alt="Evidencia del deployment del Front End.">
+<img src="assets/Deployment-FrontEnd-1.png" alt="Evidencia del deployment del Front End.">
+
+<img src="assets/Deployment-FrontEnd-2.png" alt="Evidencia del deployment del Front End.">
 
 ##### Back End
 Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio, implementando capas de seguridad como características primarias de registro e inicio de sesión.
