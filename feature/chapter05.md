@@ -816,7 +816,160 @@ Resumen de entrevista:En el video, Leonardo López comenta sobre el progreso de 
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
-Por definir...
+UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+CARRERA: Ingeniería de Software
+CURSO: Desarrollo de Aplicaciones Open Source
+SECCIÓN: SV55
+PROFESORES: Alberto Wilmer Sanchez Seña
+AUDITOR: Grupo 03 – Vet Connect
+CLIENTE(S): Grupo 02 - SecurCar
+
+SITE o APP A EVALUAR:
+SecurCar
+https://securcaropens.web.app/login
+
+
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Inicio de Sesión
+3. Búsqueda de un paquete turístico
+4. Reserva de un viaje
+5. Cancelación de una reserva
+6. Agregar ítems a un pedido
+ 
+ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+Nivel
+Descripción
+1
+Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+2
+Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.
+3
+Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.
+4
+Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+ 
+TABLA RESUMEN:
+ 
+| # | Problema | Escala de Severidad | Heuristica violada |
+|---|----------|---------------------|-------------------|
+| 1 | Botón “Ingresar”, “Registrar” y “¿Olvidaste tu contraseña?”  no cumplen su función. | 4 | Usability: Visibilidad del estado del Sistema y control y libertad del usuario. |
+| 2 | El botón “Register” no funciona. | 4 | Usability: Visibilidad del estado del Sistema. | 
+| 3 | En el apartado Main no funciona el mapa y ningún botón cumple su función. | 4 | Usability: Inconsistencia en el diseño o el uso de iconos que no se adhieren a los estándares de la web. | 
+| 4 | En el apartado Profile no se puede realizar ninguna acción y el botón de regresar no sirve. | 4 | Inclusive Design:  Control y libertad del usuario. |
+| 5 | En el apartado Device Info no se puede realizar ninguna acción, el botón de regresar no sirve y el mapa está estático. | 4 | Usability: Visibilidad del estado del Sistema y control y libertad del usuario. | 
+| 6 | En el apartado Vehicle Info ningún botón funciona y el mapa está estático. | 4 | Usability: Visibilidad del estado del Sistema y control y libertad del usuario. | 
+| 7 | En el apartado Vehicle Tracking ningún botón funciona y el mapa está estático. | 4 | Usability: Visibilidad del estado del Sistema y control y libertad del usuario. |
+| 8 | En el apartado Vehicle Add el botón “Cancelar” no funciona y el botón “Agregar” solo redirecciona. | 4 | Usability: Visibilidad del estado del Sistema y control y libertad del usuario. |
+| 9 | Botón con Símbolo de Perfil no redirecciona al Perfil. | 3 | Inclusive Design: Consistencia y estándares. |
+
+ 
+ 
+## DESCRIPCIÓN DE PROBLEMAS:
+
+### PROBLEMA #1: Botón “Ingresar”, “Registrar” y “¿Olvidaste tu contraseña?”  no cumplen su función.
+Severidad: 4
+Heurística violada: Usability: Visibilidad del estado del Sistema.
+Problema:
+Al momento de presionar los botones “Ingresar”, “Registrar” y “¿Olvidaste tu contraseña?” no cumplen con su función ni redirecciona a otra pantalla con interfaz.
+
+![HeuristicImage1](assets/heuristic1.png)
+
+Recomendación:
+Se recomienda que los botones cumplan sus funciones como registrar que lleve a su respectivo apartado.
+
+### PROBLEMA #2: El botón “Register” no funciona.
+Severidad: 4
+Heurística violada: Usability: Visibilidad del estado del Sistema.
+Problema:   Al momento de rellenar datos e interactuar con el botón “Register” no hace nada.
+
+![HeuristicImage2](assets/heuristic2.png)
+
+Recomendación:
+Se recomienda que el botón “Register” redireccione al Main o al Login.
+
+### PROBLEMA #3: En el apartado Main no funciona el mapa y ningún botón cumple su función.
+Severidad: 4
+Heurística violada: Usability: Inconsistencia en el diseño o el uso de iconos que no se adhieren a los estándares de la web.
+Problema: Al interactuar con la pantalla, los botones “Vehículos”, “Dispositivos” y los símbolos como el +, mensaje o perfil no realizan ninguna acción.
+
+![HeuristicImage3](assets/heuristic3.png)
+
+Recomendación:
+Se recomienda que los botones cumplan su función.
+
+### PROBLEMA #4: En el apartado Profile no se puede realizar ninguna acción y el botón de regresar no sirve.
+Severidad: 4
+Heurística violada: Inclusive Design:  Control y libertad del usuario.
+Problema:
+Es una pantalla estática que no se pueden rellenar datos de prueba y no se puede regresar al Main.
+
+![HeuristicImage4](assets/heuristic4.png)
+
+Recomendación:
+Que se pueda rellenar el perfil y que el botón de regreso funcione
+
+### PROBLEMA #5: En el apartado Device Info no se puede realizar ninguna acción, el botón de regresar no sirve y el mapa está estático.
+Severidad: 4
+Heurística violada: Usability: Visibilidad del estado del Sistema y control y libertad del usuario.
+Problema:
+La pantalla de Device Info es estática, tiene una imagen de mapa y al interactuar con el botón de regreso no hace nada.
+
+![HeuristicImage5](assets/heuristic5.png)
+
+Recomendación:
+Se recomienda que los botones realicen sus acciones correspondientes y un api de Google maps.
+
+### PROBLEMA #6: En el apartado Vehicle Info ningún botón funciona y el mapa está estático.
+Severidad: 4
+Heurística violada: Usability: Visibilidad del estado del Sistema y control y libertad del usuario.
+Problema:
+Es una pantalla estática, no se puede regresar al Main con su botón, los botones no sirven y tiene mapa no interactivo.
+
+![HeuristicImage6](assets/heuristic6.png)
+
+Recomendación:
+Se recomienda que los botones cumplan sus funciones y tengan un api de Google maps.
+
+### PROBLEMA #7: En el apartado Vehicle Tracking ningún botón funciona y el mapa está estático.
+Severidad: 4
+Heurística violada: Usability: Visibilidad del estado del Sistema y control y libertad del usuario.
+Problema:
+Es una pantalla estática, no se puede regresar al Main con su botón, los botones no sirven y tiene mapa no interactivo.
+
+![HeuristicImage7](assets/heuristic7.png)
+
+Recomendación:
+Se recomienda que los botones cumplan sus funciones y tengan un api de Google maps.
+
+### PROBLEMA #8: En el apartado Vehicle Add el botón “Cancelar” no funciona y el botón “Agregar” solo redirecciona.
+Severidad: 4
+Heurística violada: Usability: Visibilidad del estado del Sistema y control y libertad del usuario.
+Problema:
+Al interactuar con el botón “Cancelar” no ocurre ninguna acción y el botón “Agregar” lleva a una pantalla estática vista anteriormente, y tampoco se puede regresar ni ir al perfil con el icono.
+
+![HeuristicImage8](assets/heuristic8.png)
+
+### PROBLEMA #9: Botón con Símbolo de Perfil no redirecciona al Perfil.
+Severidad: 3
+Heurística violada: Inclusive Design: Consistencia y estándares.
+Problema:
+Hay botones con Símbolo de perfil en diferentes pantallas que no hacen nada al presionarlos.
+
+![HeuristicImage9](assets/heuristic9.png)
+
+Recomendación:
+Se recomienda darle alguna funcionalidad que redireccione al perfil del usuario.
+
+
+
+
+
+
 
 ## Conclusiones 
 - Para tener éxito durante la elaboración del proyecto es necesario que todos los integrantes participen y colaboren de manera equitativa, para que el proyecto pueda ser finalizado de manera rápida.
