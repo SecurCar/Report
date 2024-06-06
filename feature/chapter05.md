@@ -736,25 +736,25 @@ El equipo ha logrado implementar las características clave de la API principal 
 
 *Muestra con evidencia de inicio de sesión (Login)*
 
-<img src="/assets/Evidencia-Login.png" alt="Evidencia de inicio de sesión en la Aplicación Web">
+<img src="assets/Evidencia-Login-1.png" alt="Evidencia de inicio de sesión en la Aplicación Web">
 
 *Muestra con evidencia de registro para ambos segmentos objectivos (Register)*
 
-<img src="/assets/Evidencia-Registro-CommonDriver.png" alt="Evidencia del registro de usuario común en la Aplicación Web">
+<img src="assets/Evidencia-Registro-CommonDriver.png" alt="Evidencia del registro de usuario común en la Aplicación Web">
 
-<img src="/assets/Evidencia-Registro-CorporateDriver.png" alt="Evidencia del registro de usuario corporativo en la Aplicación Web">
+<img src="assets/Evidencia-Registro-CorporateDriver.png" alt="Evidencia del registro de usuario corporativo en la Aplicación Web">
 
 *Muestra con evidencia de información de usuario*
 
-<img src="/assets/img/Evidencia-UserInformation.png" alt="Evidencia de información de usuario en la Aplicación Web">
+<img src="assets/img/Evidencia-UserInformation.png" alt="Evidencia de información de usuario en la Aplicación Web">
 
 *Muestra con evidencia de información de vehículo*
 
-<img src="/assets/img/Evidencia-VehicleInformation.png" alt="Evidencia de información de vehículo en la Aplicación Web">
+<img src="assets/img/Evidencia-VehicleInformation.png" alt="Evidencia de información de vehículo en la Aplicación Web">
 
 *Muestra con evidencia de información de dispositivo*
 
-<img src="/assets/img/Evidencia-DeviceInformation.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
+<img src="assets/img/Evidencia-DeviceInformation.png" alt="Evidencia de información de dispositivo en la Aplicación Web">
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
 En esta sección, presentamos la relación de EndPoints documentados con OpenAPI utilizando Swagger como herramienta visual. Ajuntamos evidencias de la implementación de cada EndPoint.
@@ -767,17 +767,17 @@ Dentro del Sprint 3, realizamos el despliegue de:
 ##### Landing Page
 Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Call-To-Action y otros cambios en general. El link a nuestra Landing Page: (URL aquí)
 
-<img src="/assets/Deployment-LandingPage.png" alt="Evidencia del deployment de nuestra Landing Page.">
+<img src="assets/Deployment-LandingPage.png" alt="Evidencia del deployment de nuestra Landing Page.">
 
 ##### Front End
 Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: (URL aquí)
 
-<img src="/assets/Deployment-FrontEnd.png" alt="Evidencia del deployment del Front End.">
+<img src="assets/Deployment-FrontEnd.png" alt="Evidencia del deployment del Front End.">
 
 ##### Back End
 Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio, implementando capas de seguridad como características primarias de registro e inicio de sesión.
 
-<img src="/assets/Deployment-BackEnd.png" alt="Evidencia del deployment del Back End.">
+<img src="assets/Deployment-BackEnd.png" alt="Evidencia del deployment del Back End.">
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
 Durante el Sprint 3, nos enfocamos en el desarrollo colaborativo del BackEnd del Web Application de SecurCar junto a la mejora del FrontEnd y nuestro Landing Page donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos commits, pull request, y reuniones que realizados en nuestro repositorio de código y herramientas externas, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada. 
@@ -788,21 +788,21 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 
 *Reporte completo de contribuciones para el desarrollo del Reporte Principal del Sprint 3.*
 
-<img src="/assets/GitHub-Report-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in Report.">
-<img src="/assets/GitHub-Report-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in Report.">
-<img src="/assets/GitHub-Report-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in Report.">
-<img src="/assets/GitHub-Report-Pulse-David.png" alt="Pulse for David collaboration in Report.">
-<img src="/assets/GitHub-Report-Pulse-Joan.png" alt="Pulse for Joan collaboration in Report.">
-<img src="/assets/GitHub-Report-Pulse-Louis.png" alt="Pulse for Louis collaboration in Report.">
+<img src="assets/GitHub-Report-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in Report.">
+<img src="assets/GitHub-Report-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in Report.">
+<img src="assets/GitHub-Report-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in Report.">
+<img src="assets/GitHub-Report-Pulse-David.png" alt="Pulse for David collaboration in Report.">
+<img src="assets/GitHub-Report-Pulse-Joan.png" alt="Pulse for Joan collaboration in Report.">
+<img src="assets/GitHub-Report-Pulse-Louis.png" alt="Pulse for Louis collaboration in Report.">
 
 *Reporte completo de contribuciones para el desarrollo del BackEnd del Web Application del Sprint 3.*
 
-<img src="/assets/GitHub-BackEnd-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in BackEnd.">
-<img src="/assets/GitHub-BackEnd-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in BackEnd.">
-<img src="/assets/GitHub-BackEnd-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in BackEnd.">
-<img src="/assets/GitHub-BackEnd-Pulse-David.png" alt="Pulse for David collaboration in BackEnd.">
-<img src="/assets/GitHub-BackEnd-Pulse-Joan.png" alt="Pulse for Joan collaboration in BackEnd.">
-<img src="/assets/GitHub-BackEnd-Pulse-Louis.png" alt="Pulse for Louis collaboration in BackEnd.">
+<img src="assets/GitHub-BackEnd-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in BackEnd.">
+<img src="assets/GitHub-BackEnd-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in BackEnd.">
+<img src="assets/GitHub-BackEnd-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in BackEnd.">
+<img src="assets/GitHub-BackEnd-Pulse-David.png" alt="Pulse for David collaboration in BackEnd.">
+<img src="assets/GitHub-BackEnd-Pulse-Joan.png" alt="Pulse for Joan collaboration in BackEnd.">
+<img src="assets/GitHub-BackEnd-Pulse-Louis.png" alt="Pulse for Louis collaboration in BackEnd.">
 
 ## 5.3. Validation Interviews.
 
