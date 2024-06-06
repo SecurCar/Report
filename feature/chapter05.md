@@ -728,7 +728,8 @@ En esta sección presentaremos la evidencia detallada de las pruebas rigurosas r
 *Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |---|---|---|---|---|---|
-| | | | | | |
+| Gherkins | main | 29339897eac896e5f70ec021f5b006418f9c0a88 | Initial commit | Creation of repository 'Gherkins' | 06/06/2024 |
+| Gherkins | main | a709ce1f72f44e905b4070db3c41fbde741658e6 | feat(Gherkins): added gherkins for Sprint 3 | Added gherkin validations for Sprint 3 | 06/06/2024 |
 
 #### 5.2.3.5 Execution Evidence for Sprint Review. 
 El equipo ha logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. 
