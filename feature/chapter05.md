@@ -719,7 +719,14 @@ En esta sección se explica y presenta los avances en implementación con relaci
 *Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
 | Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
 |------------|-------|----------|---------------|--------------------|-------------------|
-| | | | | |
+| securcar-platform | main | 005857abf51982a224aad9cd4234e51b7aee2687 | chore: initial commit | Creation of the initial commit | 05/06/2024 |
+| LandingPage_SecurCar | main | 8fb0b3943cde28f91b441ca17fe8c3c9ec1e7c4c | refactor: added call to action buttons | Added call to action buttons | 19/05/2024 |
+| OSFrontEnd | develop | bbb3b28735dc447facedacfa672213ace12cf465 | chore: added router features and use of fake apis | Added fake APIs | 04/06/2024 |
+| OSFrontEnd | develop | 17fa163bc8a344745325a340863abe9b72613d46 | feat: added component routes add vehicles | Added components routes and vehicles | 25/05/2024 |
+| securcar-platform | develop | f81153f97a3c6dfff1de818d284660b613134619 | feat(entities): add documentation with JavaDoc | Add documentation with JavaDoc | 05/06/2024 |
+| securcar-platform | develop | 14f973c0e33266415850707fd1cdb803f16872e5 | feat(iam): add iam bounded context | Add iam bounded context | 06/06/2024 |
+| LandingPage_SecurCar | develop | 5baf2e7e7f6bdca47277a2c259ad5be92955c670 | feat: added videoaboutproduct | Added videoaboutproduct | 05/06/2024 |
+| LandingPage_SecurCar | develop | 56e20117ebecab60ca018b3b1385ca84c0fa0abe | feat: added video about the team | Added video about the team | 05/06/2024 |
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review. 
 En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
