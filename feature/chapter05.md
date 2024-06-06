@@ -605,23 +605,103 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en 
             <td>Status (To-do / In / Process / ToReview / Done)</td>
         </tr>
         <tr>
-            <td>US##</td>
-            <td>...</td>
-            <td>T##</td>
-            <td>...</td>
-            <td>...</td>
+            <td>US04</td>
+            <td>Inicio de sesión</td>
+            <td>TS01</td>
+            <td>Sección o apartado para iniciar sesión dentro de la aplicación web</td>
+            <td>Como usuario ya registrado, quiero poder iniciar sesión dentro de la aplicación web para poder usar las funcionalidades que brinda mi cuenta.</td>
             <td>1 hora y 30 minutos</td>
-            <td>...</td>
+            <td>Rubén</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US##</td>
-            <td>...</td>
-            <td>T##<td>
-            <td>...</td>
-            <td>...</td>
+            <td>US20</td>
+            <td>Permitir cerrar sesión para usar diferentes cuentas</td>
+            <td>TS01<td>
+            <td>Agregar aparatado para que el usuario pueda salir de la sesión (cerrar)</td>
+            <td>Como usuario ya registrado de la aplicación web, quiero poder cerrar sesión y que mis datos estén guardados correctamente para poder usar diferentes cuentas o cerrar mi sesión.</td>
             <td>1 hora y 10 minutos</td>
-            <td>...</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Registro de conductor joven (o común)</td>
+            <td>TS02<td>
+            <td>Añadir inicio de sesión a ambos segmentos objetivos: en este caso para conductores jóvenes</td></td>
+            <td>Como conductor joven (o conductor en general), quiero poder registrarme dentro de la aplicación web para poder crear una cuenta a base de mis criterios y usar las funcionalidades que me brinda la app.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Registro de conductor corporativo</td>
+            <td>TS02<td>
+            <td>Añadir inicio de sesión a ambos segmentos objetivos: en este caso para conductores corporativos</td>
+            <td>Como conductor corporativo o perteneciente a una flota vehicular, quiero poder registrarme dentro de la aplicación web para poder crear una cuenta a base de mis criterios y usar las funcionalidades que me brinda la app.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US15</td>
+            <td>Permitir el registro usando un email</td>
+            <td>TS02<td>
+            <td>Permitir que los nuevos usuarios utilicen su correo electrónico para crear un nuevo registro de usuario</td>
+            <td>Como próximo usuario de la aplicación web, quiero poder registrarme usando un correo electrónico para poder usar este correo como mis credenciales al momento de la autenticación de mi cuenta.</td>
+            <td>1 hora y 0 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Mostrar el perfil del usuario</td>
+            <td>TS03<td>
+            <td>Permitir que el usuario pueda ver su información personal sobre el registro que hizo en un apartado de perfil</td>
+            <td>Como usuario de la aplicación, quiero ver mi perfil para verificar que mis datos estén correctamente validados.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US24</td>
+            <td>Mostrar los vehículos registrados</td>
+            <td>TS04<td>
+            <td>Mostrar los vehículos registrados del usuario en un aparatado como inicio</td>
+            <td>Como usuario de la aplicación, quiero ver mis vehículos registrados para poder tener registro de ellos cuando necesite.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US26</td>
+            <td>Eliminar vehículo registrado</td>
+            <td>TS04<td>
+            <td>Permitir que el usuario pueda eliminar un vehículo registrado</td>
+            <td>Como usuario de la aplicación, quiero poder eliminar un registro de vehículo cuando necesite.</td>
+            <td>2 hora y 0 minutos</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Mostrar los dispositivos registrados de cada vehículo</td>
+            <td>TS05<td>
+            <td>Mostrar los dispositivos vinculados con todos los vehículo registrados del usuario</td>
+            <td>Como usuario de la aplicación, quiero ver todos los dispositivos vinculados a todos mis vehículos cuando necesite.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Louis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Eliminar dispositivo registrado</td>
+            <td>TS05<td>
+            <td>Permitir que el usuario pueda eliminar un vehículo y a la par eliminar correctamente el dispositivo vinculado</td>
+            <td>Como usuario de la aplicación, quiero poder eliminar un registro de dispositivo cuando un vehículo sea eliminado.</td>
+            <td>2 hora y 0 minutos</td>
+            <td>Louis</td>
             <td>Done</td>
         </tr>
     </table>
@@ -640,15 +720,14 @@ En esta sección se explica y presenta los avances en implementación con relaci
 | Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
 |------------|-------|----------|---------------|--------------------|-------------------|
 | | | | | |
-| | | | | |
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review. 
 En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
 
 ###### Tabla 33
 *Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
-| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
-|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---|---|---|---|---|---|
 | | | | | | |
 
 #### 5.2.3.5 Execution Evidence for Sprint Review. 
