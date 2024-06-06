@@ -577,12 +577,12 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td>La suma de las historias de usuario para el Sprint 3, alcanza un valor de ...... puntos en total</td>
+            <td>La suma de las historias de usuario para el Sprint 3, alcanza un valor de 65 puntos en total</td>
         </tr>
     </table>
 
 #### 5.2.3.2 Sprint Backlog 3.
-En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en el cual nuestro equipo de trabajo se centró principalmente en el diseño, estructuración y organización de la lógica de negocio agregada en nuestra aplicación web con el uso de servicios diferenciados y modelos de base de datos, además de proporcionar a futuro un modelo de intercambio de información entre el FrontEnd y el BackEnd estable. Hemos separado toda la construcción del BackEnd en ....... historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 3, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con APIs externas, y entre otros.
+En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en el cual nuestro equipo de trabajo se centró principalmente en el diseño, estructuración y organización de la lógica de negocio agregada en nuestra aplicación web con el uso de servicios diferenciados y modelos de base de datos, además de proporcionar a futuro un modelo de intercambio de información entre el FrontEnd y el BackEnd estable. Hemos separado toda la construcción del BackEnd en 10 historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 3, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con APIs externas, y entre otros.
 
 *Tabla principal del planeamiento del Sprint Backlog 3.*
 <table>
@@ -605,32 +605,112 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en 
             <td>Status (To-do / In / Process / ToReview / Done)</td>
         </tr>
         <tr>
-            <td>US##</td>
-            <td>...</td>
-            <td>T##</td>
-            <td>...</td>
-            <td>...</td>
+            <td>US04</td>
+            <td>Inicio de sesión</td>
+            <td>TS01</td>
+            <td>Sección o apartado para iniciar sesión dentro de la aplicación web</td>
+            <td>Como usuario ya registrado, quiero poder iniciar sesión dentro de la aplicación web para poder usar las funcionalidades que brinda mi cuenta.</td>
             <td>1 hora y 30 minutos</td>
-            <td>...</td>
+            <td>Rubén</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US##</td>
-            <td>...</td>
-            <td>T##<td>
-            <td>...</td>
-            <td>...</td>
+            <td>US20</td>
+            <td>Permitir cerrar sesión para usar diferentes cuentas</td>
+            <td>TS01</td>
+            <td>Agregar aparatado para que el usuario pueda salir de la sesión (cerrar)</td>
+            <td>Como usuario ya registrado de la aplicación web, quiero poder cerrar sesión y que mis datos estén guardados correctamente para poder usar diferentes cuentas o cerrar mi sesión.</td>
             <td>1 hora y 10 minutos</td>
-            <td>...</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Registro de conductor joven (o común)</td>
+            <td>TS02</td>
+            <td>Añadir inicio de sesión a ambos segmentos objetivos: en este caso para conductores jóvenes</td></td>
+            <td>Como conductor joven (o conductor en general), quiero poder registrarme dentro de la aplicación web para poder crear una cuenta a base de mis criterios y usar las funcionalidades que me brinda la app.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Registro de conductor corporativo</td>
+            <td>TS02</td>
+            <td>Añadir inicio de sesión a ambos segmentos objetivos: en este caso para conductores corporativos</td>
+            <td>Como conductor corporativo o perteneciente a una flota vehicular, quiero poder registrarme dentro de la aplicación web para poder crear una cuenta a base de mis criterios y usar las funcionalidades que me brinda la app.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US15</td>
+            <td>Permitir el registro usando un email</td>
+            <td>TS02</td>
+            <td>Permitir que los nuevos usuarios utilicen su correo electrónico para crear un nuevo registro de usuario</td>
+            <td>Como próximo usuario de la aplicación web, quiero poder registrarme usando un correo electrónico para poder usar este correo como mis credenciales al momento de la autenticación de mi cuenta.</td>
+            <td>1 hora y 0 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Mostrar el perfil del usuario</td>
+            <td>TS03</td>
+            <td>Permitir que el usuario pueda ver su información personal sobre el registro que hizo en un apartado de perfil</td>
+            <td>Como usuario de la aplicación, quiero ver mi perfil para verificar que mis datos estén correctamente validados.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US24</td>
+            <td>Mostrar los vehículos registrados</td>
+            <td>TS04</td>
+            <td>Mostrar los vehículos registrados del usuario en un aparatado como inicio</td>
+            <td>Como usuario de la aplicación, quiero ver mis vehículos registrados para poder tener registro de ellos cuando necesite.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US26</td>
+            <td>Eliminar vehículo registrado</td>
+            <td>TS04</td>
+            <td>Permitir que el usuario pueda eliminar un vehículo registrado</td>
+            <td>Como usuario de la aplicación, quiero poder eliminar un registro de vehículo cuando necesite.</td>
+            <td>2 hora y 0 minutos</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Mostrar los dispositivos registrados de cada vehículo</td>
+            <td>TS05</td>
+            <td>Mostrar los dispositivos vinculados con todos los vehículo registrados del usuario</td>
+            <td>Como usuario de la aplicación, quiero ver todos los dispositivos vinculados a todos mis vehículos cuando necesite.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Louis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Eliminar dispositivo registrado</td>
+            <td>TS05</td>
+            <td>Permitir que el usuario pueda eliminar un vehículo y a la par eliminar correctamente el dispositivo vinculado</td>
+            <td>Como usuario de la aplicación, quiero poder eliminar un registro de dispositivo cuando un vehículo sea eliminado.</td>
+            <td>2 hora y 0 minutos</td>
+            <td>Louis</td>
             <td>Done</td>
         </tr>
     </table>
 
-Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades: [https://app.clickup.com/9013153284/v/l/6-901302611184-1 ](https://trello.com/b/GxUePWp8/securcar)
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades: [Clic aquí](https://trello.com/b/GxUePWp8/securcar)
 
 *Presentación de la tabla de actividades designada para el Sprint 3 en Trello.*
 
-<img src="/assets/Trello-Sprint3.png" alt="Lista de Tareas del Sprint 3 En Trello">
+<img src="assets/Trello-Sprint3.png" alt="Lista de Tareas del Sprint 3 En Trello">
 
 #### 5.2.3.3 Development Evidence for Sprint Review.
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3 referente a los Web Services. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
@@ -640,23 +720,19 @@ En esta sección se explica y presenta los avances en implementación con relaci
 | Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
 |------------|-------|----------|---------------|--------------------|-------------------|
 | | | | | |
-| | | | | |
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review. 
 En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
 
 ###### Tabla 33
 *Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
-| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
-|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| | | | | | |
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---|---|---|---|---|---|
+| Gherkins | main | 29339897eac896e5f70ec021f5b006418f9c0a88 | Initial commit | Creation of repository 'Gherkins' | 06/06/2024 |
+| Gherkins | main | a709ce1f72f44e905b4070db3c41fbde741658e6 | feat(Gherkins): added gherkins for Sprint 3 | Added gherkin validations for Sprint 3 | 06/06/2024 |
 
 #### 5.2.3.5 Execution Evidence for Sprint Review. 
-El equipo ha logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. 
-En primer lugar, .....
-Además de estas ....., se han agregado .....
-Para mejorar la experiencia del usuario, se ha trabajado en .....
-Finalmente, se han agregado .....
+El equipo ha logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente.
 
 *Muestra con evidencia de inicio de sesión (Login)*
 
@@ -971,6 +1047,10 @@ Se recomienda darle alguna funcionalidad que redireccione al perfil del usuario.
 
 
 
+### 5.4. Video About-the-Product.
+![VideoAboutProduct](assets/AboutProduct_OpenSource.png)
+- URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/r/personal/u202223781_upc_edu_pe/Documents/Video%20About%20the%20Product%20TB2-%20SecurCar.avi?csf=1&web=1&e=QmqpNf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- URL Youtube: https://youtu.be/Y1SmEH7C4O8?si=aTUiONZ2rxXLHo0-
 ## Conclusiones 
 - Para tener éxito durante la elaboración del proyecto es necesario que todos los integrantes participen y colaboren de manera equitativa, para que el proyecto pueda ser finalizado de manera rápida.
 
