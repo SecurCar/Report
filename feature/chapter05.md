@@ -706,11 +706,11 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en 
         </tr>
     </table>
 
-Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades: [https://app.clickup.com/9013153284/v/l/6-901302611184-1 ](https://trello.com/b/GxUePWp8/securcar)
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades: [Clic aquí](https://trello.com/b/GxUePWp8/securcar)
 
 *Presentación de la tabla de actividades designada para el Sprint 3 en Trello.*
 
-<img src="/assets/Trello-Sprint3.png" alt="Lista de Tareas del Sprint 3 En Trello">
+<img src="assets/Trello-Sprint3.png" alt="Lista de Tareas del Sprint 3 En Trello">
 
 #### 5.2.3.3 Development Evidence for Sprint Review.
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3 referente a los Web Services. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
