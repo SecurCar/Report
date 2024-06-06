@@ -577,12 +577,12 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td>La suma de las historias de usuario para el Sprint 3, alcanza un valor de ...... puntos en total</td>
+            <td>La suma de las historias de usuario para el Sprint 3, alcanza un valor de 65 puntos en total</td>
         </tr>
     </table>
 
 #### 5.2.3.2 Sprint Backlog 3.
-En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en el cual nuestro equipo de trabajo se centró principalmente en el diseño, estructuración y organización de la lógica de negocio agregada en nuestra aplicación web con el uso de servicios diferenciados y modelos de base de datos, además de proporcionar a futuro un modelo de intercambio de información entre el FrontEnd y el BackEnd estable. Hemos separado toda la construcción del BackEnd en ....... historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 3, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con APIs externas, y entre otros.
+En esta sección se revisará todo el proceso dado para el Sprint Backlog 3, en el cual nuestro equipo de trabajo se centró principalmente en el diseño, estructuración y organización de la lógica de negocio agregada en nuestra aplicación web con el uso de servicios diferenciados y modelos de base de datos, además de proporcionar a futuro un modelo de intercambio de información entre el FrontEnd y el BackEnd estable. Hemos separado toda la construcción del BackEnd en 10 historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 3, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con APIs externas, y entre otros.
 
 *Tabla principal del planeamiento del Sprint Backlog 3.*
 <table>
