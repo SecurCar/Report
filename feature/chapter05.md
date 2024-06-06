@@ -799,23 +799,9 @@ Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas
 
 Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
 
-*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Sprint 3.*
+<img src="assets/GitHub-Report-Pulse.png" alt="Pulse for Rubén collaboration in Report.">
 
-<img src="assets/GitHub-Report-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-David.png" alt="Pulse for David collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-Joan.png" alt="Pulse for Joan collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-Louis.png" alt="Pulse for Louis collaboration in Report.">
-
-*Reporte completo de contribuciones para el desarrollo del BackEnd del Web Application del Sprint 3.*
-
-<img src="assets/GitHub-BackEnd-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-David.png" alt="Pulse for David collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-Joan.png" alt="Pulse for Joan collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-Louis.png" alt="Pulse for Louis collaboration in BackEnd.">
+<img src="assets/GitHub-Back-Pulse.png" alt="Pulse for Rubén collaboration in Report.">
 
 ## 5.3. Validation Interviews.
 
