@@ -1021,9 +1021,28 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4*
+
+| Repository | Branch | Commit Id | Commit Message                              | Commit Message Body                    | Commited on (Date) |
+|---|---|---|---------------------------------------------|----------------------------------------|--------------------|
+| Gherkins | main | 29339897eac896e5f70ec021f5b006418f9c0a88 | Initial commit                              | Creation of repository 'Gherkins'      | 06/06/2024         |
+| Gherkins | main | a709ce1f72f44e905b4070db3c41fbde741658e6 | feat(Gherkins): added gherkins for Sprint 4 | Added gherkin validations for Sprint 4 | 23/06/2024         |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-
+En este sprint 4, hemos logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. <br><br>
+### *Muestra con evidencia  de Registro)* <br>
+![Registro Image](assets/imgF01.jpg) <br>
+### *Muestra con evidencia de inicio de sesión (Login)* <br>
+![Login Image](assets/imgF02.jpg) <br>
+### *Muestra con evidencia de verificacion de usuario* <br>
+![Verificacion Image](assets/imgF03.jpg) <br>
+### *Muestra con evidencia de información de usuario* <br>
+![User Information Image](assets/imgF04.jpg) <br>
+### *Muestra con evidencia de agregar vehículo* <br>
+![Add Vehicle Image](assets/imgF05.jpg) <br>
+### *Muestra con evidencia de información de vehículo* <br>
+![Vehicle Information Image](assets/imgF06.jpg) <br>
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
@@ -1040,9 +1059,32 @@ En esta sección, se describen los EndPoints documentados con OpenAPI mediante l
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+Para este sprint 4, se realizo un deploy de los elementos faltantes, como la autenticación de usuarios y funcionalidades del lado backend. Se logró una correcta comunicación entre el FrontEnd y el BackEnd de manera estable. <br><br>
+
+##### Fronted Deployment
+![Fronted Deployment Image](assets/FDP01.jpg) <br>
+![Fronted Deployment Image](assets/FDP02.jpg) <br>
+![Fronted Deployment Image](assets/FDP03.jpg) <br>
+![Fronted Deployment Image](assets/FDP04.jpg) <br>
+![Fronted Deployment Image](assets/FDP05.jpg) <br>
+![Fronted Deployment Image](assets/FDP06.jpg) <br>
+
+##### Backend Deployment
+![Backend Deployment Image](assets/imgB01.jpg) <br>
+![Backend Deployment Image](assets/imgB02.jpg) <br>
+![Backend Deployment Image](assets/imgB03.jpg) <br>
+![Backend Deployment Image](assets/imgB04.jpg) <br>
+![Backend Deployment Image](assets/imgB05.jpg) <br>
+![Backend Deployment Image](assets/imgB06.jpg) <br>
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 Para este sprint 4, hemos continuado con la metodología de trabajo en equipo que hemos venido utilizando en los sprints anteriores. Hemos mantenido una comunicación constante a través de reuniones semanales y el uso de herramientas de colaboración como Trello y Discord. Además, hemos seguido asignando tareas y responsabilidades a cada miembro del equipo, lo que ha permitido un progreso constante y una distribución equitativa de la carga de trabajo.
 <br><br> Dicha comunicación ha sido clave para el éxito de nuestro proyecto, ya que nos ha permitido abordar los desafíos y obstáculos de manera efectiva y trabajar juntos para encontrar soluciones. Además, hemos seguido compartiendo ideas y conocimientos entre nosotros, lo que ha enriquecido nuestro proceso de desarrollo y nos ha permitido aprender unos de otros.
+
+<img src="assets/GitHub-Report-Pulse.png" alt="Pulse for Rubén collaboration in Report.">
+
+<img src="assets/GitHub-Back-Pulse.png" alt="Pulse for Rubén collaboration in Report.">
 
 
 ## 5.3. Validation Interviews.
