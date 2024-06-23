@@ -218,36 +218,35 @@ El desarrollo de software basado en la arquitectura orientada al dominio (DDD) s
 #### 4.6.1. Software Architecture Context Diagram.
 A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos permitirá establecer un buen punto de partida para poder diagramar y documentar nuestro sistema de manera general.
 
-![DiagramContext](assets/contexto.JPG)
+![DiagramContext](assets/contexto.png)
 <br>
 
 #### 4.6.2. Software Architecture Container Diagrams.
 A continuación, se mostrará el Container Diagram de nuestra aplicación en el cual se visualiza la forma de alto nivel de la arquitectura del software y cómo se distribuyen las responsabilidades en ella.
 
-![DiagramContenedor](assets/contenedores.JPG)
+![DiagramContenedor](assets/contenedors.png)
 <br>
 
 #### 4.6.3. Software Architecture Components Diagrams.
 A continuación, se mostrará el Component Diagram en el cual se descompone el contenedor “API Application” y se identifican los principales bloques de construcción estructurales y sus interacciones.
 ### Componente Auth
 
-![Auth](assets/AuthComponent.JPG)
+![Auth](assets/AuthComponent.png)
 
 <br>
 
-### Componente User
+### Componente Profile
 
-![User](assets/UserComponent.JPG)
+![User](assets/ProfileComponent.png)
 <br>
 
-### Componente Vehicle
+### Componente Tracking
 
-![Vehicle](assets/Vehicle Component.JPG)
+![Vehicle](assets/TrackingComponent.png)
 <br>
 
 
 
-Link del structuriz -> https://structurizr.com/share/77547/38021e1c-f520-406c-abdb-3b7b54326c66/diagrams#Contexto
 
 ### 4.7. Software Object-Oriented Design.
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Esta metodología nos permitirá estructurar nuestro sistema de manera modular y escalable, aprovechando los principios de encapsulamiento, herencia y polimorfismo para crear componentes reutilizables y de fácil mantenimiento.
