@@ -265,59 +265,134 @@ A continuación, se mostrará el Diagrama de Clases de nuestra aplicación, el c
 <br>
 
 #### 4.7.2. Class Dictionary.
-·  ***Role:*** Representa un rol en el sistema.
+Básicamente, todas las clases, records, interfaces, enumeradores, etc., de nuestro proyecto.
 
-·  ***User:*** Representa un usuario en el sistema.
+### iam
+###### application/internal/commandservices/
+***RoleCommandServiceImpl***: Implementación de la interfaz ***RoleCommandService***. <br>
+***UserCommandServiceImpl***: Implementación de la interfaz ***UserCommandService***.
+###### application/internal/eventhandlers
+***ApplicationReadyEventHandler***: Manejador de eventos, encargado de asegurar que los roles existan.
+###### application/internal/outboundservices/hashing
+***HashingService***: Interfaz que contiene los servicios para hashing.
+###### application/internal/outboundservices/tokens
+***TokenService***: Interfaz que contiene los servicios para la generación de tokens y validaciones.
+###### application/internal/queryservices
+***RoleQueryServiceImpl***: Implementación de la interfaz ***RoleQueryService***. <br>
+***UserQueryServiceImpl***: Implementación de la interfaz ***UserQueryService***.
+###### domain/model/aggregates
+***User***: Aggregate de usuario conteniendo información del usuario.
+###### domain/model/commands
+***SeedRolesCommand***: Comando para general roles. <br>
+***SignInCommand***: Comando para que un usuario pueda iniciar sesión. <br>
+***SignUpCommand***: Comando para que un usuario pueda registrarse.
+###### domain/model/entities
+***Role***: Entidad que define el rol del usuario.
+###### domain/model/queries
+***GetAllRolesQuery***: Query para obtener todos los roles. <br>
+***GetAllUsersQuery***: Query para obtener todos los usuarios. <br>
+***GetRoleByNameQuery***: Query para obtener un rol por el nombre de este. <br>
+***GetUserByIdQuery***: Query para obtener un usuario por un id. <br>
+***GetUserByUsernameQuery***: Query para obtener un usuario por su nombre.
+###### domain/model/valueobjects
+***Roles***: Los roles disponibles del usuario.
+###### infrastructure/authorization/sfs/configuration
+***WebSecurityConfiguration***: Configuración de seguridad.
+###### infrastructure/authorization/sfs/model
+***UserDetailsImpl***: Implementación de la interfaz ***UserDetails***. <br>
+***UsernamePasswordAuthenticationTokenBuilder***: Encapsula las credenciales del usuario.
+###### infrastructure/authorization/sfs/pipeline
+***BearerAuthorizationRequestFilter***: Filtro de seguridad que contienen tokens Bearer. <br>
+***UnauthorizedRequestHandlerEntryPoint***: Maneja request no autenticados.
+###### infrastructure/authorization/sfs/services
+***UserDetailsServiceImpl***: Implementa la interfaz ***UserDetailsService***.
+###### infrastructure/hashing/bcrypt/services
+***HashingServiceImpl***: Implementación de la interfaz ***BCryptHashingService***.
+###### infrastructure/hashing/bcrypt
+***BCryptHashingService***: Extiende ***HashingService*** y ***PasswordEncoder***.
+###### infrastructure/persistence/jpa/repositories/
+***RoleRepository***: Repositorio de ***Role***. <br>
+***UserRepository***: Repositorio de ***User***.
+###### infrastructure/tokens/jwt/services
+***TokenServiceImpl***: Implementa la interfaz ***BearerTokenService***.
+###### infrastructure/tokens/jwt
+***BearerTokenService***: Extiende a ***TokenService***.
+###### interfaces/acl
+***IamContextFacade***: Provee una fachada para que otros bounded contexts puedan usar.
+###### interfaces/rest/resources
+***AuthenticatedUserResource***: Recurso para un usuario autenticado. <br>
+***RoleResource***: Recurso para un rol de usuario. <br>
+***SignInResource***: Recurso para el incio de sesión de usuario. <br>
+***SignUpResource***: Recurso para el registro de un usuario. <br>
+***UserResource***: Recurso para un usuario.
+###### interfaces/rest/transform
+***AuthenticatedUserResourceFromEntityAssembler***: Ensamblador de usuario autenticado. <br>
+***RoleResourceFromEntityAssembler***: Ensamblador de rol. <br>
+***SignInCommandFromResourceAssembler***: Ensamblador de inicio de sesión. <br>
+***SignUpCommandFromResourceAssembler***: Ensamblador de registro de usuario. <br>
+***UserResourceFromEntityAssembler***: Ensamblador de usuario.
+###### interfaces/rest
+***AuthenticationController***: Controlador REST de la autenticación y registro de usuarios. <br>
+***RolesController***: Controlador REST de los roles de usuarios. <br>
+***UsersController***: Controlador REST de usuarios. <br>
 
-·  ***RoleRepository:*** Repositorio para la entidad Role, que maneja operaciones de búsqueda.
+### profiles
+###### application/internal/commandservices/
+***ProfileCommandServiceImpl***: Implementación de la interfaz ***ProfileCommandService***.
+###### application/internal/queryservices/
+***ProfileQueryServiceImpl***: Implementación de la interfaz ***ProfileQueryService***.
+###### domain/model/commands
+***CreateProfileCommand***: Comando para la creación de perfil. <br>
+***UpdateProfileEmailCommand***: Comando para la actualización de un perfil.
+###### domain/model/entities
+***Profile***: Entidad que representa un profile.
+###### domain/services
+***ProfileCommandService***: Interfaz de servicios de comandos para perfil. <br>
+***ProfileQueryService***: Interfaz de servicios de queries para perfil.
+###### infrastructure/persistence/jpa/repositories
+***ProfileRepository***: Repositorio para perfil.
+###### interfaces/rest
+***ProfileController***: Controlador REST de perfiles.
 
-·  ***UserRepository:*** Repositorio para la entidad User, que maneja operaciones de búsqueda.
+### shared
+###### domain/model/aggregates
+***AuditableAbstractAggregateRoot***: Clase base para las auditorias de un aggregate.
+###### domain/model/entities
+***AuditableModel***: Entidad de modelo de auditoria.
+###### infrastructure/documentation/openapi/configuration
+***OpenApiConfiguration***: Configuración de OpenAPI para la documentación de nuestra plataforma.
+###### infrastructure/persistence/jpa/configuration/strategy
+***SnakeCaseWithPluralizedTablePhysicalNamingStrategy***: Asegura el nombramiento correcto en Snake Case.
+###### interfaces/rest/resources
+***MessageResource***: Recurso de mensaje.
 
-·  ***AuthService:*** Servicio de autenticación para manejar el proceso de inicio de sesión.
+### tracking
+###### application/internal/commandservices/
+***DeviceCommandServiceImpl***: Implementación de la interfaz ***DeviceCommandService***. <br>
+***VehicleCommandServiceImpl***: Implementación de la interfaz ***VehicleCommandService***.
+###### application/internal/queryservices/
+***DeviceQueryServiceImpl***: Implementación de la interfaz ***DeviceQueryService***. <br>
+***VehicleQueryServiceImpl***: Implementación de la interfaz ***VehicleQueryService***.
+###### domain/model/commands
+***CreateVehicleCommand***: Comando para la creación de un vehículo. <br>
+***DeleteVehicleCommand***: Comando para eliminar un vehículo. <br>
+***UpdateDeviceNameCommand***: Comando para actualizar el nombre del dispositivo de rastreo. <br>
+***UpdateVehicleNameCommand***: Comando para actualizar el nombre del vehículo.
+###### domain/model/entities
+***Device***: Entidad que representa un dispositivo de rastreo. <br>
+***Vehicle***: Entidad que representa un vehículo.
+###### domain/services
+***DeviceCommandService***: Interfaz de servicios de comandos para el dispositivo de rastreo. <br>
+***DeviceQueryService***: Interfaz de servicios de comandos para el dispositivo de rastreo. <br>
+***VehicleCommandService***: Interfaz de servicios de comandos para vehículo. <br>
+***VehicleQueryService***: Interfaz de servicios de queries para vehículo.
+###### infrastructure/persistence/jpa/repositories
+***DeviceRepository***: Repositorio para el dispositivo de rastreo. <br>
+***VehicleRepository***: Repositorio para vehículo.
+###### interfaces/rest
+***DeviceController***: Controlador REST del dispositivo de rastreo. <br>
+***VehicleController***: Controlador REST de vehículo.
 
-·  ***AuthServiceImpl:*** Implementación del servicio de autenticación.
-
-·  ***AuthController:*** Controlador para las operaciones de autenticación.
-
-·  ***UserService:*** Servicio para gestionar operaciones relacionadas con usuarios.
-
-·  ***UserServiceImpl:*** Implementación del servicio de usuario.
-
-·  ***UserController:*** Controlador para las operaciones relacionadas con usuarios.
-
-·  ***SecurityConfig:*** Configuración de seguridad del sistema.
-
-·  ***JwtUtil:*** Utilidad para generar y validar tokens JWT.
-
-·  ***JwtRequestFilter:*** Filtro para interceptar y procesar las solicitudes de tokens JWT.
-
-·  ***LoginRequest:*** Clase para representar una solicitud de inicio de sesión.
-
-·  ***RoleInitializer:*** Inicializador de roles en el sistema.
-
-·  ***VehicleCreateDTO:*** DTO para la creación de vehículos.
-
-·  ***Device:*** Representa un dispositivo en el sistema.
-
-·  ***Vehicle:*** Representa un vehículo en el sistema.
-
-·  ***DeviceRepository:*** Repositorio para la entidad Device, que maneja operaciones de búsqueda.
-
-·  ***VehicleRepository:*** Repositorio para la entidad Vehicle, que maneja operaciones de búsqueda.
-
-·  ***DeviceService:*** Servicio para gestionar operaciones relacionadas con dispositivos.
-
-·  ***DeviceServiceImpl:*** Implementación del servicio de dispositivo.
-
-·  ***VehicleService:*** Servicio para gestionar operaciones relacionadas con vehículos.
-
-·  ***VehicleServiceImpl:*** Implementación del servicio de vehículo.
-
-·  ***DeviceController:*** Controlador para las operaciones relacionadas con dispositivos.
-
-·  ***VehicleController:*** Controlador para las operaciones relacionadas con vehículos.
-
-·  ***SecurCarApplication:*** Aplicación principal del sistema.
 ### 4.8. Database Design.
 El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar los datos de manera eficiente y segura. Utilizaremos un enfoque cuidadoso para modelar las tablas, relaciones y restricciones de la base de datos de acuerdo con los requisitos del sistema y las mejores prácticas de diseño. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y manipulación en respuesta a las solicitudes de los usuarios.
 #### 4.8.1. Database Diagram.
