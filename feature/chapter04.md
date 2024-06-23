@@ -254,8 +254,13 @@ El diseño orientado a objetos del software será esencial para nuestro proyecto
 #### 4.7.1. Class Diagrams.
 A continuación, se mostrará el Diagrama de Clases de nuestra aplicación, el cual nos permitirá visualizar la estructura de clases y sus relaciones en el sistema.
 
-![DiagramaClases]()
 
+#### IAMClass Diagram
+![IamDiagram](assets/iamclassdiagram.png)
+#### TrackingClass Diagram
+![TrackingDiagram](assets/trackingdiagram.png)
+#### ProfileClass Diagram
+![ProfileDiagram](assets/profileclassdiagram.png)
 
 <br>
 
