@@ -1024,6 +1024,8 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
 
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints. <br> <br>
 ![Endpoints Image](assets/endpoints_sprint4.png)
