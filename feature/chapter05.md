@@ -1125,7 +1125,8 @@ Nombre y apellidos: Leonardo Lopez  <br>
 Edad: 20 años <br>
 Distrito: Santiago de Surco <br>
 
-![URL de entrevista](assets/Entrevista_Leo.JPG)<br>
+![Imagen_Entrevista](assets/EntrevistaLeo.JPG)
+<br>
 
 Resumen de entrevista:En el video, Leonardo López comenta sobre el progreso de una aplicación web en la que están trabajando. Expresa que está contento con el avance actual del proyecto, pero también menciona que considera necesario realizar algunos cambios para mejorar la aplicación. Aunque no especifica los detalles de estos cambios, su enfoque parece ser en optimizar y mejorar la funcionalidad o el diseño de la web app para asegurar su éxito. .
 
