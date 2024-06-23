@@ -1025,8 +1025,23 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints. <br> <br>
+![Endpoints Image](assets/endpoints_sprint4.png)
+
+|EndPoints| Acciones Implementadas                                                                                                    |
+|---|---------------------------------------------------------------------------------------------------------------------------|
+ |/api/v1/authentication/sign-up | Permite la creación de un nuevo usuario, teniendo como atributos username, password y rol( tipo de usuario)               |
+| /api/v1/authentication/sign-in | Permite que un usuario existente pueda hacer login dentro de la aplicación teniendo como requisito el username y password |
+| /api/v1/roles | Permite la asignación de roles a un usuario                                                                               |
+| /api/v1/users | Permite obtener la informacion de los usuarios registrados en la base de datos de la apliación                            |
+| /api/v1/users/{userId}| Permite obtener a un usuario teniendo como parametro su id                                                                |
+
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
+Para este sprint 4, hemos continuado con la metodología de trabajo en equipo que hemos venido utilizando en los sprints anteriores. Hemos mantenido una comunicación constante a través de reuniones semanales y el uso de herramientas de colaboración como Trello y Discord. Además, hemos seguido asignando tareas y responsabilidades a cada miembro del equipo, lo que ha permitido un progreso constante y una distribución equitativa de la carga de trabajo.
+<br><br> Dicha comunicación ha sido clave para el éxito de nuestro proyecto, ya que nos ha permitido abordar los desafíos y obstáculos de manera efectiva y trabajar juntos para encontrar soluciones. Además, hemos seguido compartiendo ideas y conocimientos entre nosotros, lo que ha enriquecido nuestro proceso de desarrollo y nos ha permitido aprender unos de otros.
+
 
 ## 5.3. Validation Interviews.
 
