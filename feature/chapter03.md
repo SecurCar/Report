@@ -79,12 +79,12 @@ Impact Mapping es una herramienta poderosa que nos ayudará a visualizar y plani
 Segmento 1: Taxistas que buscan soluciones para asegurar el estacionamiento y proteger sus vehículos de robos frecuentes
 
 
-![SegmentoTaxista](assets/carlos2.jpg)
+![SegmentoTaxista](assets/UserCarlos.jpg)
 <br>
 
 Segmento 2: Jóvenes entre 18-25 años 
 
-![SegmentoJoven](assets/renzo2.jpg)
+![SegmentoJoven](assets/UserRenzo.jpg)
 <br>
 
 MIRO LINK : <https://miro.com/app/board/uXjVKNLxK1E=/ >
