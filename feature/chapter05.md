@@ -1073,7 +1073,7 @@ Para este sprint 4, se realizo un deploy de los elementos faltantes, como la aut
 ![Backend Deployment Image](assets/imgB01.jpg) <br>
 ![Backend Deployment Image](assets/imgB02.jpg) <br>
 ![Backend Deployment Image](assets/imgB03.jpg) <br>
-![Backend Deployment Image](assets/imgB04.jpg) <br>
+![Backend Deployment Image](assets/IMGB04.jpg) <br>
 ![Backend Deployment Image](assets/imgB05.jpg) <br>
 ![Backend Deployment Image](assets/imgB06.jpg) <br>
 
