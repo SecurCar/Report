@@ -774,14 +774,14 @@ En esta sección, presentamos la relación de EndPoints documentados con OpenAPI
 
 Dentro del Sprint 3, realizamos el despliegue de:
 ##### Landing Page
-Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Call-To-Action y otros cambios en general. El link a nuestra Landing Page: (URL aquí)
+Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Call-To-Action y otros cambios en general. El link a nuestra Landing Page: [Clic aquí para ir a Landing Page](https://landingsecurcar.web.app/)
 
 <img src="assets/Deployment-LandingPage-1.png" alt="Evidencia del deployment de nuestra Landing Page.">
 
 <img src="assets/Deployment-LandingPage-2.png" alt="Evidencia del deployment de nuestra Landing Page.">
 
 ##### Front End
-Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: (URL aquí)
+Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: [Clic aquí para ir a Aplicación Web](https://os-front-end-amber.vercel.app/login)
 
 <img src="assets/Deployment-FrontEnd-1.png" alt="Evidencia del deployment del Front End.">
 
@@ -789,7 +789,7 @@ Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End po
 
 ##### Back End
 Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio, implementando capas de seguridad como características primarias de registro e inicio de sesión.
-
+[Clic aquí para ver el Swagger](http://ec2-54-226-90-201.compute-1.amazonaws.com:8080/swagger-ui/index.html#/)
 <img src="assets/Deployment-BackEnd.png" alt="Evidencia del deployment del Back End.">
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
@@ -799,23 +799,297 @@ Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas
 
 Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
 
-*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Sprint 3.*
+<img src="assets/GitHub-Report-Pulse.png" alt="Pulse for Rubén collaboration in Report.">
 
-<img src="assets/GitHub-Report-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-David.png" alt="Pulse for David collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-Joan.png" alt="Pulse for Joan collaboration in Report.">
-<img src="assets/GitHub-Report-Pulse-Louis.png" alt="Pulse for Louis collaboration in Report.">
+<img src="assets/GitHub-Back-Pulse.png" alt="Pulse for Rubén collaboration in Report.">
 
-*Reporte completo de contribuciones para el desarrollo del BackEnd del Web Application del Sprint 3.*
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4.
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 4. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión. <br>
+<br>Tabla del planeamiento a profundidad del Sprint 4. <br>
 
-<img src="assets/GitHub-BackEnd-Pulse-Rubén.png" alt="Pulse for Rubén collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-Fabrizio.png" alt="Pulse for Fabrizio collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-Luiggi.png" alt="Pulse for Luiggi collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-David.png" alt="Pulse for David collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-Joan.png" alt="Pulse for Joan collaboration in BackEnd.">
-<img src="assets/GitHub-BackEnd-Pulse-Louis.png" alt="Pulse for Louis collaboration in BackEnd.">
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>22-06-2024</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>20:52</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Sanchez Zamora, Fabrizio Alessandro</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Gallo Quintana, David Ivanoff / Mallma Quispe, Ruben / Paredes Zapata, Luiggi Gianfranco / Sanchez Zamora, Fabrizio Alessandro / Talizo Balbin, Joan Jefferson / Louis</td>
+        </tr>
+            <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>Para este Sprint 4, nuestro enfoque principal fue mejorar e implementar características que se habían desarrollado en entregables anteriores. En el lado del frontend de nuestra aplicación, trabajamos en temas como la navegación por rutas y la refactorización de componentes mínimos. Por otro lado, en el backend, nos centramos en la autenticación del usuario mediante Json Web Token y en la creación de vehículos para cada usuario. En resumen, en este sprint 4 se han agregado tanto detalles mínimos pendientes como aspectos clave para nuestra aplicación web.</td>
+        </tr>
+            <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td> En la retrospectiva del Sprint 4, evaluamos en grupo la planificacíon de nuestro tiempo para llegar a una correcta organización. Hicimos uso de la herramienta Trello nuevamente para asignar tareas y coordinarlas, lo que tuvo como resultado un mejor control sobre nuestro proyecto. Además, optamos por dividir las tareas en procesos más pequeños para trabajar de manera más eficiente. Esta estrategia nos ayudó a abordar nuestro proyecto grande dividiéndolo en partes más manejables.       </td>
+            </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 4 Goal</td>
+            <td>Para este últimos sprint, se tuvo como objetivo culminar con los puntos pendientes mejorar nuestro reporte del trabajo, asi como un enfoque especia en el desarrollo de funcionalidades finales del lado fronted y backend de nuestra aplicación. Dichos objetivos se lograron gracias a las reuniones semanales que se hicieron a lo largo del plazo dado para este entregable.  </td>
+        </tr>
+              <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>Para este Sprint 4, nuestro Sprint 3 Velocity es de 8 puntos.</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de las historias de usuario para el Sprint 4, alcanza un valor de 65 puntos en total</td>
+        </tr>
+    </table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en el cual nuestro equipo de trabajo se centró principalmente en la implementación de los puntos faltantes de la entrega anterior tales como autenticacion de usuarios y funcionalidades del lado backend, además de haber realizado una correcta comunicación entre el FrontEnd y el BackEnd de manera estable. Para este sprint, hemos separado toda la construcción de la aplicación en 12 historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 4, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con APIs externas, y entre otros. <br>
+
+*Tabla principal del planeamiento del Sprint Backlog 4.* <br>
+
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Inicio de sesión</td>
+            <td>TS01</td>
+            <td>Sección o apartado para iniciar sesión dentro de la aplicación web</td>
+            <td>Como usuario ya registrado, quiero poder iniciar sesión dentro de la aplicación web para poder usar las funcionalidades que brinda mi cuenta.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Rubén</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Registro de conductor joven (o común)</td>
+            <td>TS02</td>
+            <td>Añadir inicio de sesión a ambos segmentos objetivos: en este caso para conductores jóvenes</td></td>
+            <td>Como conductor joven (o conductor en general), quiero poder registrarme dentro de la aplicación web para poder crear una cuenta a base de mis criterios y usar las funcionalidades que me brinda la app.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Registro de conductor corporativo</td>
+            <td>TS02</td>
+            <td>Añadir inicio de sesión a ambos segmentos objetivos: en este caso para conductores corporativos</td>
+            <td>Como conductor corporativo o perteneciente a una flota vehicular, quiero poder registrarme dentro de la aplicación web para poder crear una cuenta a base de mis criterios y usar las funcionalidades que me brinda la app.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US15</td>
+            <td>Permitir el registro usando un email</td>
+            <td>TS02</td>
+            <td>Permitir que los nuevos usuarios utilicen su correo electrónico para crear un nuevo registro de usuario</td>
+            <td>Como próximo usuario de la aplicación web, quiero poder registrarme usando un correo electrónico para poder usar este correo como mis credenciales al momento de la autenticación de mi cuenta.</td>
+            <td>1 hora y 0 minutos</td>
+            <td>Fabrizio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US20</td>
+            <td>Permitir cerrar sesión para usar diferentes cuentas</td>
+            <td>TS01</td>
+            <td>Agregar aparatado para que el usuario pueda salir de la sesión (cerrar)</td>
+            <td>Como usuario ya registrado de la aplicación web, quiero poder cerrar sesión y que mis datos estén guardados correctamente para poder usar diferentes cuentas o cerrar mi sesión.</td>
+            <td>1 hora y 10 minutos</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Mostrar el perfil del usuario</td>
+            <td>TS03</td>
+            <td>Permitir que el usuario pueda ver su información personal sobre el registro que hizo en un apartado de perfil</td>
+            <td>Como usuario de la aplicación, quiero ver mi perfil para verificar que mis datos estén correctamente validados.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US24</td>
+            <td>Mostrar los vehículos registrados</td>
+            <td>TS04</td>
+            <td>Mostrar los vehículos registrados del usuario en un aparatado como inicio</td>
+            <td>Como usuario de la aplicación, quiero ver mis vehículos registrados para poder tener registro de ellos cuando necesite.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US26</td>
+            <td>Eliminar vehículo registrado</td>
+            <td>TS04</td>
+            <td>Permitir que el usuario pueda eliminar un vehículo registrado</td>
+            <td>Como usuario de la aplicación, quiero poder eliminar un registro de vehículo cuando necesite.</td>
+            <td>2 hora y 0 minutos</td>
+            <td>Luiggi</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Mostrar los dispositivos registrados de cada vehículo</td>
+            <td>TS05</td>
+            <td>Mostrar los dispositivos vinculados con todos los vehículo registrados del usuario</td>
+            <td>Como usuario de la aplicación, quiero ver todos los dispositivos vinculados a todos mis vehículos cuando necesite.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Louis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Eliminar dispositivo registrado</td>
+            <td>TS05</td>
+            <td>Permitir que el usuario pueda eliminar un vehículo y a la par eliminar correctamente el dispositivo vinculado</td>
+            <td>Como usuario de la aplicación, quiero poder eliminar un registro de dispositivo cuando un vehículo sea eliminado.</td>
+            <td>2 hora y 0 minutos</td>
+            <td>Louis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US31</td>
+            <td>Acceso rápido al perfil desde la página de inicio.</td>
+            <td>TS06</td>
+            <td>Permitir que el usuario pueda acceder a su perfil a travás de un boton para acceder a la informacion de su cuenta rapidamente</td>
+            <td>Como usuario registrado, deseo tener un acceso fácil y rápido a mi perfil desde la página de inicio, para poder gestionar mis datos personales, configuraciones y preferencias de forma conveniente.</td>
+            <td>1 hora y 0 minutos</td>
+            <td>Louis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US32</td>
+            <td>Registro de usuarios desde la página de inicio</td>
+            <td>TS07</td>
+            <td>Permitir que un nuevo usuario pueda registrarse en la página que la aparece al ingresar a la aplicacion web</td>
+            <td>Como usuario interesado en utilizar los servicios del proyecto, deseo poder registrarme desde la página de inicio para comenzar a utilizar las funcionalidades disponibles.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Louis</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.<br><br>
+Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3. <br>
+
+| Repository | Branch  | Commit Id| Commit Message                                                                                  | Commit Message Body                                    | Commited on (Date) |
+|------------|---------|----------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------|--------------------|
+| securcar-platform | develop | 7826791 | refactor(application): add JpaAuditing                                                          | Add JPA Auditing                                       | 19/06/2024         |
+| securcar-platform | develop | 14f973c0e33266415850707fd1cdb803f16872e5 | refactor(iam): refactoring something for regular functionality                                  | Refactoring Functionality                              | 19/06/2024         |
+| OSFrontEnd | develop | 125dab7 | feat(app-login): merging with backend                                                           | Merging with Backend                                   | 23/06/2024         |
+| OSFrontEnd | develop | 6cf6bac | feat(device-information & vehicle-information): added endpoint for register and get information | Addeing endpoint for register and get user information | 23/05/2024         |
+| OSFrontEnd | develop | 9e0d353 | feat: implemented enviroment                                                                    | Adding use of emviroments                              | 23/05/2024         |
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4*
+
+| Repository | Branch | Commit Id | Commit Message                              | Commit Message Body                    | Commited on (Date) |
+|---|---|---|---------------------------------------------|----------------------------------------|--------------------|
+| Gherkins | main | 29339897eac896e5f70ec021f5b006418f9c0a88 | Initial commit                              | Creation of repository 'Gherkins'      | 06/06/2024         |
+| Gherkins | main | a709ce1f72f44e905b4070db3c41fbde741658e6 | feat(Gherkins): added gherkins for Sprint 4 | Added gherkin validations for Sprint 4 | 23/06/2024         |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+En este sprint 4, hemos logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. <br><br>
+### *Muestra con evidencia  de Registro)* <br>
+![Registro Image](assets/imgF01.jpg) <br>
+### *Muestra con evidencia de inicio de sesión (Login)* <br>
+![Login Image](assets/imgF02.jpg) <br>
+### *Muestra con evidencia de verificacion de usuario* <br>
+![Verificacion Image](assets/imgF03.jpg) <br>
+### *Muestra con evidencia de información de usuario* <br>
+![User Information Image](assets/imgF04.jpg) <br>
+### *Muestra con evidencia de agregar vehículo* <br>
+![Add Vehicle Image](assets/imgF05.jpg) <br>
+### *Muestra con evidencia de información de vehículo* <br>
+![Vehicle Information Image](assets/imgF06.jpg) <br>
+
+
+#### Video Demostrativo
+![Video Demostrativo](assets/ExecutionTF.png)
+[Enlace de video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ESnFMKc2EbdHjdfuRfmb9gMBJfALulx_R4p4NVOo14QrVQ?e=vVF6OP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints. <br> <br>
+![Endpoints Image](assets/endpoints_sprint4.png)
+
+|EndPoints| Acciones Implementadas                                                                                                    |
+|---|---------------------------------------------------------------------------------------------------------------------------|
+ |/api/v1/authentication/sign-up | Permite la creación de un nuevo usuario, teniendo como atributos username, password y rol( tipo de usuario)               |
+| /api/v1/authentication/sign-in | Permite que un usuario existente pueda hacer login dentro de la aplicación teniendo como requisito el username y password |
+| /api/v1/roles | Permite la asignación de roles a un usuario                                                                               |
+| /api/v1/users | Permite obtener la informacion de los usuarios registrados en la base de datos de la apliación                            |
+| /api/v1/users/{userId}| Permite obtener a un usuario teniendo como parametro su id                                                                |
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+Para este sprint 4, se realizo un deploy de los elementos faltantes, como la autenticación de usuarios y funcionalidades del lado backend. Se logró una correcta comunicación entre el FrontEnd y el BackEnd de manera estable. <br><br>
+
+##### Fronted Deployment
+![Fronted Deployment Image](assets/FDP01.jpg) <br>
+![Fronted Deployment Image](assets/FDP02.jpg) <br>
+![Fronted Deployment Image](assets/FDP03.jpg) <br>
+![Fronted Deployment Image](assets/FDP04.jpg) <br>
+![Fronted Deployment Image](assets/FDP05.jpg) <br>
+![Fronted Deployment Image](assets/FDP06.jpg) <br>
+
+##### Backend Deployment
+![Backend Deployment Image](assets/imgB01.jpg) <br>
+![Backend Deployment Image](assets/imgB02.jpg) <br>
+![Backend Deployment Image](assets/imgB03.jpg) <br>
+![Backend Deployment Image](assets/IMGB04.jpg) <br>
+![Backend Deployment Image](assets/imgB05.jpg) <br>
+![Backend Deployment Image](assets/imgB06.jpg) <br>
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+Para este sprint 4, hemos continuado con la metodología de trabajo en equipo que hemos venido utilizando en los sprints anteriores. Hemos mantenido una comunicación constante a través de reuniones semanales y el uso de herramientas de colaboración como Trello y Discord. Además, hemos seguido asignando tareas y responsabilidades a cada miembro del equipo, lo que ha permitido un progreso constante y una distribución equitativa de la carga de trabajo.
+<br><br> Dicha comunicación ha sido clave para el éxito de nuestro proyecto, ya que nos ha permitido abordar los desafíos y obstáculos de manera efectiva y trabajar juntos para encontrar soluciones. Además, hemos seguido compartiendo ideas y conocimientos entre nosotros, lo que ha enriquecido nuestro proceso de desarrollo y nos ha permitido aprender unos de otros.
+
+<img src="assets/GitHub-Report-Pulse.png" alt="Pulse for Rubén collaboration in Report.">
+
+<img src="assets/GitHub-Back-Pulse.png" alt="Pulse for Rubén collaboration in Report.">
+
 
 ## 5.3. Validation Interviews.
 
@@ -899,7 +1173,8 @@ Nombre y apellidos: Leonardo Lopez  <br>
 Edad: 20 años <br>
 Distrito: Santiago de Surco <br>
 
-![URL de entrevista](assets/Entrevista_Leo.JPG)<br>
+![Imagen_Entrevista](assets/EntrevistaLeo.JPG)
+<br>
 
 Resumen de entrevista:En el video, Leonardo López comenta sobre el progreso de una aplicación web en la que están trabajando. Expresa que está contento con el avance actual del proyecto, pero también menciona que considera necesario realizar algunos cambios para mejorar la aplicación. Aunque no especifica los detalles de estos cambios, su enfoque parece ser en optimizar y mejorar la funcionalidad o el diseño de la web app para asegurar su éxito. .
 
@@ -1089,3 +1364,12 @@ Asimismo cada uno explica como lograron los Student Outcomes correspondientes gr
 ![VideoTeam](assets/Video_About_Team.png)
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/ERYRR1AV5fZBuEEZx-_c1J4BpFzLOwGt9G_3M11XnAomoQ?e=AAV3JN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - URL Youtube: https://youtu.be/h7UpEr2w0HA 
+
+### Anexos:
+- Validation Interviews:
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ETljkQ8IsKlJkrd8arOcC4gBngqJtaqyIAduIj2nTpH5Pw?e=znZ0BL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Video De Exposicion TB2:
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EYcsWnC4oa1JqRPBshhNwdMBse7gX6EpD-V2gdgukqriwg?e=fkcSEu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
