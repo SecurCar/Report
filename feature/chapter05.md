@@ -789,7 +789,7 @@ Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End po
 
 ##### Back End
 Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio, implementando capas de seguridad como características primarias de registro e inicio de sesión.
-
+[Clic aquí para ver el Swagger](http://ec2-54-226-90-201.compute-1.amazonaws.com:8080/swagger-ui/index.html#/)
 <img src="assets/Deployment-BackEnd.png" alt="Evidencia del deployment del Back End.">
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
