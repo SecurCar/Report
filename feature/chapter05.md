@@ -1045,6 +1045,10 @@ En este sprint 4, hemos logrado implementar las características clave de la API
 ![Vehicle Information Image](assets/imgF06.jpg) <br>
 
 
+#### Video Demostrativo
+![Video Demostrativo](assets/ExecutionTF.png)
+[Enlace de video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ESnFMKc2EbdHjdfuRfmb9gMBJfALulx_R4p4NVOo14QrVQ?e=vVF6OP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints. <br> <br>
 ![Endpoints Image](assets/endpoints_sprint4.png)
