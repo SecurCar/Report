@@ -24,6 +24,7 @@
 | Primera entrega (TB1) | 11/04/2024 | SecurCar Group       | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design y sprint 1 |
 | Segunda entrega (TP)  | 30/04/2024 | SecurCar Group       | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design y sprint 2 |
 | Tercera entrega (TB2) | 06/06/2024 | SecurCar Group       | Adición y correción de los Capitulos IV y V: Backlog, User Stories, DataBase Diagram Sprint 3                                                     |
+| Cuarta Entrega (TF)   | 23/06/2024 | SecurCar Group       | Adición y correción de los Capitulos IV y V: Diagramas C4, DBDiagram, ClassDiagram and Sprint 4                                                   |
 
 
 - - -
